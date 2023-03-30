@@ -1,0 +1,3 @@
+- [&lsaquo; Torah](/)
+    - [&equiv; Vayikra &middot; *Leviticus*](exodus/leviticus.md)
+        - [Vayikra](Vayikra.md)

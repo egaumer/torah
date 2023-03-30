@@ -1,0 +1,6 @@
+* [Torah](/)
+    * [&equiv; B’reisheet &middot; *Genesis*](genesis/genesis.md)
+    * [&equiv; Sh'mot &middot; *Exodus*](exodus/exodus.md)
+    * [&equiv; Vayikra &middot; *Leviticus*](leviticus/leviticus.md)
+    * [&equiv; B’midbar &middot;*Numbers*](numbers/numbers.md)
+    * [&equiv; D’varim &middot; *Deuteronomy*](deuteronomy/deuteronomy.md)

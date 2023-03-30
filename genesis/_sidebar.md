@@ -1,0 +1,7 @@
+- [&lsaquo; Torah](/)
+    - [&equiv; B’reisheet &middot; *Genesis*](genesis/genesis.md)
+        - [B’reisheet](genesis/B’reisheet.md)
+        - [Noach](gensis/Noach.md)
+        - [Lech-Lecha](genesis/Lec-Lecha.md)
+        - [Vayeira](genesis/Vayeira.md)
+        - [Hayyei-Sarah](genesis/Hayyei-Sarah.md)

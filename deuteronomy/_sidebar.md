@@ -1,0 +1,3 @@
+- [&lsaquo; Torah](/)
+    - [&equiv; D’varim &middot; *Deuteronomy*](deuteronomy/deuteronomy.md)
+        - [D’varim](deuteronomy/dvarim.md)

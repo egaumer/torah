@@ -1,0 +1,4 @@
+- [&lsaquo; Torah](/)
+    - [&equiv; Sh'mot &middot; *Exodus*](exodus/exodus.md)
+        - [Shmot](exodus/shmot.md)
+        - [Vaera](exodus/vaera.md)
