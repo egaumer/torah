@@ -4,6 +4,7 @@
 &nbsp;
 
 #### Introduction
+
 The Torah consists of the first five books of the Bible.  Exodus is the second book of the Bible. 
 
 In this study, we will read the entire book of Exodus. We will not skip anything, not one single verse. This will be an in-depth study that will challenge your thinking and build your faith. If you skip over reading the Scripture portion, then you’ve missed the most important part of the lesson. 

@@ -1,10 +1,10 @@
 # SH'MOT &sdot; שמות 
-**“Names”** *1:1–6:1*
+**Parashah 14 &nbsp;&middot;&nbsp; Names** *(1:1–6:1)*
 
 &nbsp;
 # Day 1 &middot; _The Jewish Problem_
 
-The word Sh'mot means _“names”_. This portion is named because the book begins with the phrase _“These are the names (Sh'mot) of the sons of Israel…”_ The English name Exodus comes from the Greek translation of the Hebrew Bible. It means _“departure.”_ The book opens with the children of Israel in slavery. It seems God has forgotten them - but He has not. 
+The word Sh'mot (Hebrew: שְׁמוֹת) means _“names”_. This portion is named because the book begins with the phrase _“These are the names (Sh'mot) of the sons of Israel…”_ The English name Exodus comes from the Greek translation of the Hebrew Bible. It means _“departure.”_ The book opens with the children of Israel in slavery. It seems God has forgotten them - but He has not. 
 
 Read [Exodus 1](https://www.biblegateway.com/passage/?search=Exodus+1&version=CJB).
 
@@ -19,8 +19,8 @@ When the Hebrews longed for their life in Egypt, they didn’t miss the forced l
 From the close of Genesis to the beginning of the book of Exodus, 350 years have passed. I am sure that the Hebrews felt that God had abandoned them.
 
 ?> Exodus 1:1</br>
-*“These are the names of the sons of _______________ who went to Egypt with ________________ each 
-with his family.”*
+“These are the names of the sons of _______________ who went to Egypt with ________________ each 
+with his family.”
 
 The book of Exodus mentions both of his names in the first verse. The Jewish people are “the sons of Israel.” 
 
