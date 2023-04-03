@@ -120,8 +120,8 @@ New Jerusalem ([Rev. 22](https://www.biblegateway.com/passage/?search=Revelation
 2. humanity’s choice to seize autonomy and define good and bad for themselves. This is the first instance of God allowing his 
 creation to disobey.
 
-> Note: God had not created Eve yet. When God tells Adam to not eat of this tree, it is solely 
-his responsibility. 
+!> **Note**: God had not created Eve yet. When God tells Adam to not eat of this tree, it is solely 
+his responsibility.
 
 Thoughts?
 
@@ -415,9 +415,9 @@ the root word, “nephal” which means “fallen” or “to fall upon.” I ha
 “cast down”. Martin Luther described the nature of the Nefilim as men of violence, tyrants. 
 They were bigger, stronger, smarter, and probably the subjects of pagan myths and legends. 
 
-```
-“And the LORD said, ‘My _______________ will not remain with mankind forever 
-because they are corrupt.’ Their days on earth will be ____________ years.” 
+```Genesis 6:3
+"And the LORD said, ‘My _______________ will not remain with mankind forever 
+because they are corrupt.’ Their days on earth will be ____________ years." 
 
 - Genesis 6:3 
 ```
