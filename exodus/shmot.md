@@ -4,6 +4,8 @@
 &nbsp;
 # Day 1 &middot; _The Jewish Problem_
 
+The word Sh'mot means _“names”_. This portion is named because the book begins with the phrase _“These are the names (Sh'mot) of the sons of Israel…”_ The English name Exodus comes from the Greek translation of the Hebrew Bible. It means _“departure.”_ The book opens with the children of Israel in slavery. It seems God has forgotten them - but He has not. 
+
 Read [Exodus 1](https://www.biblegateway.com/passage/?search=Exodus+1&version=CJB).
 
 Up until this point, most of the Israelites had become wealthy, numerous, and politically powerful in Egypt. But that was going to change. There was a new sheriff in town. His first job was to dismantle any foreign influence that could threaten Egypt. The Hebrews were going to have a radical reversal of fortunes. 
