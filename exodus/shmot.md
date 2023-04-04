@@ -251,7 +251,7 @@ What are you waiting for?
 
 _Carol Anne’s message on the Name of God_
 
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/K1lXPwgPgzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe style="width:50vw;height:38.25vh;" src="https://www.youtube.com/embed/K1lXPwgPgzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 &nbsp;
 # Day 4 &middot; _What’s in your hand?_
