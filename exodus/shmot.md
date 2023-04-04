@@ -248,7 +248,7 @@ What are you waiting for?
 
 ---
 
-_Carol Anne’s message on the Name of God_
+?> <i class="fa-solid fa-tv"></i> &nbsp; Watch Carol Anne’s message on the Name of God
 
 <iframe style="width:50vw;height:38.25vh;" src="https://www.youtube.com/embed/K1lXPwgPgzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -353,7 +353,7 @@ There are some people who need to learn the hard way. Do you know one? Are you o
 
 Our hearts can be hardened because, like Pharaoh, we are already rebellious. It’s not God’s will that any should perish, but that doesn’t mean that a vast amount of humans will not perish. We know that the path to destruction is wide. When we resist listening to the LORD, our heart  hardens a little more…it’s a slow fade, but it’s a fade. 
 
-Watch this video by Casting Crowns: 
+?> <i class="fa-solid fa-tv"></i> &nbsp; Watch this video by Casting Crowns 
 
 <iframe style="width:50vw;height:38.25vh;" src="https://www.youtube.com/embed/QASREBVDsLk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
