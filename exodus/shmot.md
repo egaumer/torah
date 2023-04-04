@@ -112,7 +112,7 @@ God provided them with children of their own! They would get to see their own ba
 &nbsp;
 # Day 2 &middot; _Walk like an Egyptian_ 
 
-How many people were saved by an ark? This is kind of a trick question. There’s Noah, his wife, three sons, and their wives…that’s 8. But that’s not the correct answer. The correct answer is nine. Watch the opening scene of “The Prince of Egypt” (https://bit.ly/princeofegyptopening). If you are paying attention, you can see that their loins are girded, meaning they are working hard. 
+How many people were saved by an ark? This is kind of a trick question. There’s Noah, his wife, three sons, and their wives…that’s 8. But that’s not the correct answer. The correct answer is nine. Watch the opening scene of [“The Prince of Egypt”](https://bit.ly/princeofegyptopening). If you are paying attention, you can see that their loins are girded, meaning they are working hard. 
 
 Read Exodus 2.
 
@@ -249,7 +249,9 @@ What are you waiting for?
 
 ---
 
-Carol Anne’s message on the Name of God is here: https://bit.ly/sonlightyahweh.
+_Carol Anne’s message on the Name of God_
+
+[https://bit.ly/sonlightyahweh](https://www.youtube.com/embed/K1lXPwgPgzE ':include :type=iframe')
 
 &nbsp;
 # Day 4 &middot; _What’s in your hand?_
@@ -352,7 +354,9 @@ There are some people who need to learn the hard way. Do you know one? Are you o
 
 Our hearts can be hardened because, like Pharaoh, we are already rebellious. It’s not God’s will that any should perish, but that doesn’t mean that a vast amount of humans will not perish. We know that the path to destruction is wide. When we resist listening to the LORD, our heart  hardens a little more…it’s a slow fade, but it’s a fade. 
 
-Watch this video by Casting Crowns: https://bit.ly/slowfadecc 
+Watch this video by Casting Crowns: 
+
+[https://bit.ly/slowfadecc](https://www.youtube.com/embed/QASREBVDsLk ':include :type=iframe') 
 
 Judges 16:20 is one of the saddest verses in the Bible. Samson was set apart to be used by God. But after a lifetime of living his own way, when he was the most ensnared by sin, the Bible says that “he did know know that the LROD had left him.” It was a slow fade away from the perfect will of God. 
 
