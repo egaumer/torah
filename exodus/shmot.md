@@ -6,7 +6,7 @@
 
 The word Sh'mot (Hebrew: שְׁמוֹת) means _“names”_. This portion is named because the book begins with the phrase _“These are the names (Sh'mot) of the sons of Israel…”_ The English name Exodus comes from the Greek translation of the Hebrew Bible. It means _“departure.”_ The book opens with the children of Israel in slavery. It seems God has forgotten them - but He has not. 
 
-Read [Exodus 1](https://www.biblegateway.com/passage/?search=Exodus+1&version=CJB).
+?> <i class="fa-solid fa-book-open"></i> Read Exodus 1.
 
 Up until this point, most of the Israelites had become wealthy, numerous, and politically powerful in Egypt. But that was going to change. There was a new sheriff in town. His first job was to dismantle any foreign influence that could threaten Egypt. The Hebrews were going to have a radical reversal of fortunes. 
 
@@ -18,9 +18,8 @@ When the Hebrews longed for their life in Egypt, they didn’t miss the forced l
 
 From the close of Genesis to the beginning of the book of Exodus, 350 years have passed. I am sure that the Hebrews felt that God had abandoned them.
 
-?> Exodus 1:1</br>
-“These are the names of the sons of _______________ who went to Egypt with ________________ each 
-with his family.”
+> “These are the names of the sons of _______________ who went to Egypt with ________________ each 
+with his family.”</br>Exodus 1:1
 
 The book of Exodus mentions both of his names in the first verse. The Jewish people are “the sons of Israel.” 
 
@@ -114,7 +113,7 @@ God provided them with children of their own! They would get to see their own ba
 
 How many people were saved by an ark? This is kind of a trick question. There’s Noah, his wife, three sons, and their wives…that’s 8. But that’s not the correct answer. The correct answer is nine. Watch the opening scene of [“The Prince of Egypt”](https://bit.ly/princeofegyptopening). If you are paying attention, you can see that their loins are girded, meaning they are working hard. 
 
-Read Exodus 2.
+?> <i class="fa-solid fa-book-open"></i> Read Exodus 2.
 
 The story of the exodus is important to anyone who has ever suffered under oppression. God commanded the Israelites to retell this story to their children in every generation.
 
@@ -176,7 +175,7 @@ Read Exodus 2:24-25.  How can you relate to that?
 &nbsp;
 # Day 3 &middot; _What’s in a name?_
 
-Read Exodus 3. 
+?> <i class="fa-solid fa-book-open"></i> Read Exodus 3. 
 
 Moses is now a shepherd. He did not own his own flock, as he was tending his father-in-law’s flock. Most likely, Moses learned the art of shepherding from his wife and her sisters. Growing up in Pharaoh’s house, shepherds were reviled. So Moses most likely didn’t have anything to do with them in Egypt. 
 Think of the differences between who he was in Egypt and who he is now. What differences in his lifestyle can you think of? 
@@ -258,7 +257,7 @@ _Carol Anne’s message on the Name of God_
 
 Exodus 4 is just a continuation of Exodus 3. We are still in the same conversation between Moses and God at the burning bush. 
 
-Read Exodus 4. 
+?> <i class="fa-solid fa-book-open"></i> Read Exodus 4. 
 
 Moses is a little nervous. God is saying some really great things, but Moses is not buying that he’s “the man to do it.” 
 God told Moses in Exodus 3:18 that the people would listen to him. Moses disagreed. So, God, in His mercy, gives Moses signs that he will be able to do this task. 
@@ -365,7 +364,7 @@ LORD, keep us in your perfect will. Keep our hearts soft toward Your voice. Help
 &nbsp;
 # Day 5 &middot; _The name of the LORD_
 
-Read Exodus 5-6:1.
+?> <i class="fa-solid fa-book-open"></i> Read Exodus 5-6:1.
 
 Record how many times you read the word LORD and God in this chapter. _____________
 
@@ -418,34 +417,35 @@ What have you sacrificed because of your obedience to God?
 
 Here’s the best part. Read Exodus 6:1. Moses asks for an explanation, and God answers Moses: I’ve got it all under control. Maybe you need to hear that one statement today. God’s got this. 
 
-#### Takeaways From this week:
+&nbsp;
+#### <i class="fa-solid fa-comment"></i> &nbsp; Takeaways from this week
 
-What was your takeaway from Day 1? 
-
----
----
-
-What was your takeaway from Day 2? 
+* What was your takeaway from Day 1? 
 
 ---
 ---
 
-What was your takeaway from Day 3? 
+* What was your takeaway from Day 2? 
 
 ---
 ---
 
-What was your takeaway from Day 4? 
+* What was your takeaway from Day 3? 
 
 ---
 ---
 
-What was your takeaway from Day 5? 
+* What was your takeaway from Day 4? 
 
 ---
 ---
 
-What was your takeaway from the Sermon? 
+* What was your takeaway from Day 5? 
+
+---
+---
+
+* What was your takeaway from the Sermon? 
 
 ---
 ---

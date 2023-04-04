@@ -23,7 +23,7 @@ Here’s a little phrase to remember: If you’re born once, you’ll die twice.
 
 So, congratulations on having a “Genesis” in your life. But make sure there is also an Exodus, a time of deliverance from the bondage of sin. 
 
-#### How To Do This Study
+#### <i class="fa-solid fa-marker"></i> &nbsp; How To Do This Study
 
 Each week we will listen and take notes on Pastor Joe’s message. You can either come to Son Light at 10 AM, watch online, or catch the Youtube replay starting on Mondays. bit.ly/sonlightsermons. 
 
