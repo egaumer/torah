@@ -5,7 +5,7 @@
 
 # Day 1 &middot; _God’s Promise_
 
-Read Exodus 5:22-6:2
+?> <i class="fa-solid fa-book-open"></i> Read Exodus 5:22-6:2
 
 Look back. What is the last question Moses said to the LORD in 
 Exodus 5:22-23?

@@ -19,7 +19,7 @@ When the Hebrews longed for their life in Egypt, they didn’t miss the forced l
 From the close of Genesis to the beginning of the book of Exodus, 350 years have passed. I am sure that the Hebrews felt that God had abandoned them.
 
 > “These are the names of the sons of _______________ who went to Egypt with ________________ each 
-with his family.”</br>Exodus 1:1
+with his family.”</br> &mdash; Exodus 1:1
 
 The book of Exodus mentions both of his names in the first verse. The Jewish people are “the sons of Israel.” 
 
