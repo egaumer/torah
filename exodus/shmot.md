@@ -356,7 +356,7 @@ Our hearts can be hardened because, like Pharaoh, we are already rebellious. It�
 
 Watch this video by Casting Crowns: 
 
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/QASREBVDsLk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe style="width:50vw;height:38.25vh;" src="https://www.youtube.com/embed/QASREBVDsLk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Judges 16:20 is one of the saddest verses in the Bible. Samson was set apart to be used by God. But after a lifetime of living his own way, when he was the most ensnared by sin, the Bible says that “he did know know that the LROD had left him.” It was a slow fade away from the perfect will of God. 
 
