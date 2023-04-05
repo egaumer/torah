@@ -120,7 +120,7 @@ New Jerusalem ([Rev. 22](https://www.biblegateway.com/passage/?search=Revelation
 2. humanity’s choice to seize autonomy and define good and bad for themselves. This is the first instance of God allowing his 
 creation to disobey.
 
-!> **Note**: God had not created Eve yet. When God tells Adam to not eat of this tree, it is solely 
+?> <i class="fa-solid fa-bell"></i>&nbsp; God had not created Eve yet. When God tells Adam to not eat of this tree, it is solely 
 his responsibility.
 
 Thoughts?

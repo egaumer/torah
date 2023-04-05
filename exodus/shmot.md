@@ -180,7 +180,7 @@ Read Exodus 2:24-25.  How can you relate to that?
 Moses is now a shepherd. He did not own his own flock, as he was tending his father-in-law’s flock. Most likely, Moses learned the art of shepherding from his wife and her sisters. Growing up in Pharaoh’s house, shepherds were reviled. So Moses most likely didn’t have anything to do with them in Egypt. 
 Think of the differences between who he was in Egypt and who he is now. What differences in his lifestyle can you think of? 
 
----
+</br><center><i class="fa-solid fa-pen-to-square"></i> &nbsp; [ _Your Response Here_ ]</center></br></br>
 
 Now, do you remember back in Genesis 46, when Joseph brings his family to the land of Goshen? Finish the sentence from verse 34, “all shepherds are _______________________ to the Egyptians.”
 
@@ -191,7 +191,7 @@ This was a day like all the previous days in the 40 years he’d been in this de
 I’m pretty sure that Moses wasn’t prepared for what came next…a panel of the Lord was standing inside of a burning bush, calling out his name! If I were Moses, I would have run directly in the opposite direction as fast as I could. But Moses thinks, “Hmmm. That’s strange. I’m going to check it out!” 
 In verse 5, God instructs Moses to remove his sandals. Why?
 
----
+</br><center><i class="fa-solid fa-pen-to-square"></i> &nbsp; [ _Your Response Here_ ]</center></br></br>
 
 Why is the ground holy? Because God was there. And where God is, the place is holy.
 
@@ -199,7 +199,7 @@ The removal of one’s sandals was, and remains, a standard Middle Eastern sign 
 
 God introduces Himself to Moses in verse 6. How does He do that?
 
----
+</br><center><i class="fa-solid fa-pen-to-square"></i> &nbsp; [ _Your Response Here_ ]</center></br></br>
 
 God is bringing to Moses’ mind the covenant He made with Abraham in Genesis 15. Read verses 13-16. It is over 400 years since God had this conversation with Abraham, and He is about to keep His promise in delivering His people. The Israelites have talked about this covenant for 400 years. 
 
@@ -248,7 +248,7 @@ What are you waiting for?
 
 ---
 
-?> <i class="fa-solid fa-tv"></i> &nbsp; Watch Carol Anne’s message on the Name of God
+?> <span style="font-size:x-large"><i class="fa-solid fa-tv"></i> &nbsp; **Watch** |</span> Carol Anne’s message on the Name of God
 
 <iframe style="width:50vw;height:38.25vh;" src="https://www.youtube.com/embed/K1lXPwgPgzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
