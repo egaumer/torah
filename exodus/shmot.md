@@ -4,7 +4,7 @@
 &nbsp;
 # Day 1 &middot; _The Jewish Problem_
 
-The word _Sh'mot_ (Hebrew: שְׁמוֹת) means _names_. This portion is named because the book begins with the phrase `“These are the names (Sh'mot) of the sons of Israel…”` The English name _Exodus_ comes from the Greek translation of the Hebrew Bible. It means _departure._ The book opens with the children of Israel in slavery. It seems God has forgotten them - but He has not. 
+The word _Sh'mot_ (Hebrew: [שְׁמוֹת](https://www.blueletterbible.org/lexicon/h8034)) means _names_. This portion is named because the book begins with the phrase `“These are the names (Sh'mot) of the sons of Israel…”` The English name _Exodus_ comes from the Greek translation of the Hebrew Bible. It means _departure._ The book opens with the children of Israel in slavery. It seems God has forgotten them - but He has not. 
 
 ?> <i class="fa-solid fa-book-open"></i> Read Exodus 1.
 
