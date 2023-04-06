@@ -4,7 +4,7 @@
 &nbsp;
 # Day 1 &middot; _The Jewish Problem_
 
-The word Sh'mot (Hebrew: שְׁמוֹת) means _“names”_. This portion is named because the book begins with the phrase _“These are the names (Sh'mot) of the sons of Israel…”_ The English name Exodus comes from the Greek translation of the Hebrew Bible. It means _“departure.”_ The book opens with the children of Israel in slavery. It seems God has forgotten them - but He has not. 
+The word _Sh'mot_ (Hebrew: שְׁמוֹת) means _names_. This portion is named because the book begins with the phrase `“These are the names (Sh'mot) of the sons of Israel…”` The English name _Exodus_ comes from the Greek translation of the Hebrew Bible. It means _departure._ The book opens with the children of Israel in slavery. It seems God has forgotten them - but He has not. 
 
 ?> <i class="fa-solid fa-book-open"></i> Read Exodus 1.
 
@@ -18,24 +18,25 @@ When the Hebrews longed for their life in Egypt, they didn’t miss the forced l
 
 From the close of Genesis to the beginning of the book of Exodus, 350 years have passed. I am sure that the Hebrews felt that God had abandoned them.
 
-> “These are the names of the sons of _______________ who went to Egypt with ________________ each 
-with his family.”</br> &mdash; Exodus 1:1
+```
+“These are the names of the sons of ___ who went to Egypt with ___ each with his family.” (Exodus 1:1 ESV)
+```
 
-The book of Exodus mentions both of his names in the first verse. The Jewish people are “the sons of Israel.” 
+The book of Exodus mentions both of his names in the first verse. The Jewish people are _the sons of Israel_. 
 
-[Exodus 1:2](https://www.biblegateway.com/passage/?search=Exodus+1%3A2&version=CJB) is a list of names. Read them. Go on, read them all. Why read names? We don’t really care about names…unless, of course, it was YOUR name on that list! Jesus said the good shepherd calls his sheep by name and leads them out. So these names are very important. These are groups of very distressed people who are being called out by God from Egypt to the Promised Land. 
+Exodus 1:2 is a list of names. Read them. Go on, read them all. Why read names? We don’t really care about names…unless, of course, it was YOUR name on that list! Jesus said the good shepherd calls his sheep by name and leads them out. So these names are very important. These are groups of very distressed people who are being called out by God from Egypt to the Promised Land. 
 
-Way back in [Genesis 12:2](https://www.biblegateway.com/passage/?search=Genesis+12%3A2&version=CJB), God says to Abraham, _“I will bless you and make you a great nation.”_ A few chapters later in [Genesis 15:5](https://www.biblegateway.com/passage/?search=Genesis+15&version=CJB), God calls Abraham and says, _“Come outside. Look at those stars. Your descendants will be as numerous as the stars and sands of the earth. I’m going to make you a mega nation!”_ And that’s exactly what God did. Because God keeps His promises. 
+Way back in Genesis 12:2, God says to Abraham, `“I will bless you and make you a great nation.”` A few chapters later in Genesis 15:5, God calls Abraham and says, `“Come outside. Look at those stars. Your descendants will be as numerous as the stars and sands of the earth. I’m going to make you a mega nation!”` And that’s exactly what God did. Because God keeps His promises. 
 
-Do you remember how many people came to Egypt with Jacob? ([Gen 46:27](https://www.biblegateway.com/passage/?search=Genesis+46%3A27&version=CJB)) ___________________
+Do you remember how many people came to Egypt with Jacob? (Gen 46:27) ___________________
 
-By the time we get to [Exodus 12](https://www.biblegateway.com/passage/?search=Exodus+12&version=CJB), there will be over 600,000 men (ages 20-50, not including women and children.) Estimates are between 2-3 million people. That’s some big numbers!
+By the time we get to Exodus 12, there will be over 600,000 men (ages 20-50, not including women and children.) Estimates are between 2-3 million people. That’s some big numbers!
 
 In [verse 6](https://www.biblegateway.com/passage/?search=Exodus+1%3A6&version=CJB) it tells us that Joseph and all his brothers and all that generation died. We can think of this generation as the Egyptian immigrant generation, the refugees. Their experience in Egypt was very different from the second and third generations of Israelites. Joseph’s generation survived the great famine and thought of their stay in Egypt as temporary. The next generation did not think of going back to Canaan at all. Egypt was the only place they knew, and it was a comfortable life. They were wealthy, numerous, and had political power. Why go back to Canaan? 
 
 [Verse 7](https://www.biblegateway.com/passage/?search=Exodus+1%3A7&version=CJB) is the end of this golden era. 
 
-#### A New Ruler
+#### _A New Ruler_
 
 How quickly we forget our own history. In our very own country, we are experiencing this in tremendous ways. We have a generation of Americans who really don’t know our history as one nation under God. How do you see this happening in the year you are living today? 
 

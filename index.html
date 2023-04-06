@@ -17,11 +17,41 @@
     <body>
         <!-- CSS style overrides -->
         <style>
+            @font-face {
+                font-family: 'Ink Free';
+                src: url('assets/font/ink-free.otf');
+                font-weight: normal;
+                font-style: normal;
+            }
             .markdown-section p.warn{
-                background: rgba(156,174,189,.1);
+                /* background: rgba(156,174,189,.1); */
+                background: rgb(118 140 159 / 30%);
             }
             .markdown-section hr {
                 border-bottom: 1px solid #666;
+            }
+            .markdown-section pre>code {
+                white-space:pre-wrap !important;
+                font-family: Ink Free,Roboto Mono,Monaco,courier,monospace;
+                font-weight: 200;
+                padding: 2.2em 2.2em;
+                border-radius: 20px;
+                margin: 1.2em 1.2em;
+                font-size: 1.25rem !important;
+            }
+            .markdown-section>:not(h1):not(h2):not(h3):not(h4):not(h5):not(h6) code {
+                font-size: 1.25rem;
+            }
+            .markdown-section code, .markdown-section pre {
+                background-color: rgb(0,0,0,0);
+                font-family: Ink Free,Roboto Mono,Monaco,courier,monospace;
+                font-weight: 200;
+            }
+            .markdown-section em {
+                color: #39abb4;
+                font-style: normal;
+                font-variant: small-caps;
+                font-size: larger;
             }
         </style>
         <div id="app"></div>
@@ -34,33 +64,32 @@
                 darklightTheme: {
                     siteFont : "PT Sans",
                     defaultTheme : 'dark',
-                    codeFontFamily : 'Roboto Mono, Monaco, courier, monospace',
                     bodyFontSize : '17px',
                     dark: {
                         accent: '#42b983',
                         toogleBackground : '#ffffff',
                         background: '#091a28',
                         textColor: '#b4b4b4',
-                        codeTextColor : '#ffffff',
-                        codeBackgroundColor : '#0e2233',
+                        codeTextColor : '#b4b4b4',
+                        codeBackgroundColor : 'rgb(118 140 159 / 30%)',
                         borderColor : '#0d2538',
                         blockQuoteColor : '#858585',
-                        highlightColor : '#d22778',
+                        highlightColor : '#ff69b4',
                         sidebarSublink : '#b4b4b4',
                         codeTypeColor : '#ffffff',
                         coverBackground : 'linear-gradient(to left bottom, hsl(118, 100%, 85%) 0%,hsl(181, 100%, 85%) 100%)',
                         toogleImage : 'url(https://cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/icons/sun.svg)'
                     },
                     light: {
-                        accent: '#d22778',
+                        accent: '#42b983',
                         toogleBackground : '#091a28',
-                        background: '#ffffff',
+                        background: '#f2f3f4',
                         textColor: '#34495e',
-                        codeTextColor : '#525252',
-                        codeBackgroundColor : '#f8f8f8',
+                        codeTextColor : '#34495e',
+                        codeBackgroundColor : 'rgb(118 140 159 / 30%)',
                         borderColor : 'rgba(0, 0, 0, 0.07)',
                         blockQuoteColor : '#858585',
-                        highlightColor : '#0000ff',
+                        highlightColor : '#d22778',
                         sidebarSublink : '#000000',
                         codeTypeColor : '#091a28',
                         coverBackground : 'linear-gradient(to left bottom, hsl(118, 100%, 85%) 0%,hsl(181, 100%, 85%) 100%)',
