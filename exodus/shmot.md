@@ -1,5 +1,5 @@
-# SH'MOT &sdot; שמות 
-**Parashah 14 &nbsp;&middot;&nbsp; Names** *(1:1–6:1)*
+# _Sh'mot_ &sdot; שמות 
+**Parashah 13 &nbsp;&middot;&nbsp; _Names_** (1:1–6:1)
 
 &nbsp;
 # Day 1 &middot; _The Jewish Problem_

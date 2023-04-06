@@ -1,9 +1,9 @@
-# SH’MOT
-*The Book of Exodus*
+# _Sh'mot_
+The Book of _Exodus_
 
 &nbsp;
 
-#### Introduction
+#### _Introduction_
 
 The Torah consists of the first five books of the Bible.  Exodus is the second book of the Bible. 
 
@@ -23,7 +23,7 @@ Here’s a little phrase to remember: If you’re born once, you’ll die twice.
 
 So, congratulations on having a “Genesis” in your life. But make sure there is also an Exodus, a time of deliverance from the bondage of sin. 
 
-#### <i class="fa-solid fa-marker"></i> &nbsp; How To Do This Study
+#### <i class="fa-solid fa-marker"></i> &nbsp; _How To Do This Study_
 
 Each week we will listen and take notes on Pastor Joe’s message. You can either come to Son Light at 10 AM, watch online, or catch the Youtube replay starting on Mondays. bit.ly/sonlightsermons. 
 

@@ -1,5 +1,5 @@
-# VAYAK'HEL &sdot; ויקהל
-**Parashah 22 &nbsp;&middot;&nbsp; He assembled** *(35:1–38:20)*
+# _Vayak'hel_ &sdot; ויקהל
+**Parashah 22 &nbsp;&middot;&nbsp; _He assembled_** (35:1–38:20)
 
 &nbsp;
 # Day 1 &middot; _TBD_
