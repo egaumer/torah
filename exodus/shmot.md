@@ -40,7 +40,7 @@ In [verse 6](https://www.biblegateway.com/passage/?search=Exodus+1%3A6&version=C
 
 How quickly we forget our own history. In our very own country, we are experiencing this in tremendous ways. We have a generation of Americans who really don’t know our history as one nation under God. How do you see this happening in the year you are living today? 
 
----
+</br><center><i class="fa-solid fa-pen-to-square"></i> &nbsp; [ _Your Response Here_ ]</center></br></br>
 
 [Verse 8](https://www.biblegateway.com/passage/?search=Exodus+1%3A8&version=CJB): “Then a 
 &#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95; king, to whom Joseph meant
@@ -50,13 +50,13 @@ This king forgot his own history. He had no intention of honoring the deals that
 
 Why did he change his mind about the Israelites ([vs 9-10](https://www.biblegateway.com/passage/?search=Exodus+1%3A9-10&version=CJB))?
 
----
+</br><center><i class="fa-solid fa-pen-to-square"></i> &nbsp; [ _Your Response Here_ ]</center></br></br>
 
 Do you think God was saying, “Oh no! What do I do now?” God is sovereign and He is in control. Sometimes it doesn’t seem that way. 
 
 Have you been in a moment when you thought that this is the time the God lost control? Did you need to be reminded that He is sovereign? Do you now? What is it that happened when you thought that maybe this was the time God lost control of your life?
 
----
+</br><center><i class="fa-solid fa-pen-to-square"></i> &nbsp; [ _Your Response Here_ ]</center></br></br>
 
 God and Satan have an ongoing battle. What God calls “good”, satan calls “bad.” God counted the fruitfulness of Israel as a blessing. Pharaoh counted it as a curse. There is still a battle between good and evil today. 
 
@@ -72,17 +72,17 @@ Why does this happen? Because persecution against Christians will separate the c
 
 What was the Pharaoh’s plan for the Hebrew midwives ([vs 15](https://www.biblegateway.com/passage/?search=Exodus+1%3A15&version=CJB))?
 
----
+</br><center><i class="fa-solid fa-pen-to-square"></i> &nbsp; [ _Your Response Here_ ]</center></br></br>
 
 When you think of it, this plan was ridiculous. If he actually succeeded in this infanticide, he would only be reducing his workforce. But sometimes the devil doesn’t think that far in advance. 
 
 What were the two midwives’ names?
 
----
+</br><center><i class="fa-solid fa-pen-to-square"></i> &nbsp; [ _Your Response Here_ ]</center></br></br>
 
 What was Pharaoh’s name in Exodus?
 
----
+</br><center><i class="fa-solid fa-pen-to-square"></i> &nbsp; [ _Your Response Here_ ]</center></br></br>
 
 The Bible only refers to him as Pharaoh. Yet, these two insignificant women are mentioned by name. How beautiful is that? 
 
@@ -92,7 +92,7 @@ Shiphrah and Puah were probably the supervisory midwives, which is why Pharaoh s
 
 The Bible has these two women as heroines. What other women in the Bible were used by God? 
 
----
+</br><center><i class="fa-solid fa-pen-to-square"></i> &nbsp; [ _Your Response Here_ ]</center></br></br>
 
 Pharaoh wanted the newborn sons to die. And God never forgot this. He didn’t let it go. In fact, the ultimate and final plague upon the Egyptians is the death of their
 &#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;. Pharaoh tried to kill all the male children to eradicate the race, and it will be the final plague upon Egypt. 
@@ -101,11 +101,11 @@ But the midwives feared God more than they feared man. The government gave them 
 
 In [Acts 4](https://www.biblegateway.com/passage/?search=Acts+4&version=CJB) and [5](https://www.biblegateway.com/passage/?search=Acts+5&version=CJB), a law was passed that the Gospel could not be preached publicly. It was illegal. So what did Peter and John do? They shared the Gospel with everyone. Why? Because Jesus had given them the law in [Mark 16:15](https://www.biblegateway.com/passage/?search=Mark+16%3A15&version=CJB): 
 
----
+</br><center><i class="fa-solid fa-pen-to-square"></i> &nbsp; [ _Your Response Here_ ]</center></br></br>
 
 What happened to these midwives? [Exodus 1:19-20](https://www.biblegateway.com/passage/?search=Exodus+1%3A19-20&version=CJB):
 
----
+</br><center><i class="fa-solid fa-pen-to-square"></i> &nbsp; [ _Your Response Here_ ]</center></br></br>
 
 God provided them with children of their own! They would get to see their own babies born! God is telling them, “I know you. I love you. And I am going to bless you for your obedience.” 
 
@@ -171,7 +171,7 @@ God’s ways are not ours. Egypt would seem like the least likely place for God 
 
 Read Exodus 2:24-25.  How can you relate to that?
 
----
+</br><center><i class="fa-solid fa-pen-to-square"></i> &nbsp; [ _Your Response Here_ ]</center></br></br>
 
 &nbsp;
 # Day 3 &middot; _What’s in a name?_
@@ -228,7 +228,7 @@ First, God approaches the one He has chosen. God initiates the contact. Sometime
 
 Second, the chosen one is either reluctant or outright refuses the call at first. I’m sure we could name many, many prophets that fit this category. Which one comes to your mind first?
 
----
+</br><center><i class="fa-solid fa-pen-to-square"></i> &nbsp; [ _Your Response Here_ ]</center></br></br>
 
 Third, the prophet candidate (male or female) returns to society, or wherever God sent them, without concern for the opposition they will receive, and ready to speak with authority to any power that comes against them. And often, the prophet will not receive even the tiniest amount of respect from their former friends and family. 
 
@@ -240,14 +240,14 @@ Are you actively serving in your local church?
 
 What need do you see in your church that you feel unworthy of filling, that you can’t possibly do, that if God doesn’t do it all, it simply can’t happen? 
 
----
+</br><center><i class="fa-solid fa-pen-to-square"></i> &nbsp; [ _Your Response Here_ ]</center></br></br>
 
 God understood the attributes of the man that He would use to bring His people out of Egypt. Moses did not think he was capable, but God did. 
 
 God may be calling your name to help further His church. He is calling on YOU to be a missionary and share your testimony and bring people to Him. 
 What are you waiting for?
 
----
+</br><center><i class="fa-solid fa-pen-to-square"></i> &nbsp; [ _Your Response Here_ ]</center></br></br>
 
 ?> <span style="font-size:x-large"><i class="fa-solid fa-tv"></i> &nbsp; **Watch** |</span> Carol Anne’s message on the Name of God
 
@@ -265,11 +265,11 @@ God told Moses in Exodus 3:18 that the people would listen to him. Moses disagre
 
 Write the question God asks Moses in verse 2:
 
----
+</br><center><i class="fa-solid fa-pen-to-square"></i> &nbsp; [ _Your Response Here_ ]</center></br></br>
 
 What was the first sign that God gave to Moses (verses 2-5)? 
 
----
+</br><center><i class="fa-solid fa-pen-to-square"></i> &nbsp; [ _Your Response Here_ ]</center></br></br>
 
 Moses was holding a stick, a shepherd’s staff. A shepherd was reviled by the Egyptians; but God is going to use this very symbol to lead Israel. 
 
@@ -279,13 +279,13 @@ It is interesting that satan is represented as a serpent, and Jesus is known as 
 
 The second sign (verses 6-7) was:
 
----
+</br><center><i class="fa-solid fa-pen-to-square"></i> &nbsp; [ _Your Response Here_ ]</center></br></br>
 
 The second sign was directed toward Israel. Moses’ clean hand was inserted into his cloak, but when he pulled it out, it was diseased. Then this defiled and diseased hand was put back into the cloak and became clean. God’s chosen people began pure. God allowed them to become impure in Egypt. But God can redeem. God can take the most defiled person, (or nation) and purify them. 
 
 The third sign (verse 9) was: 
 
----
+</br><center><i class="fa-solid fa-pen-to-square"></i> &nbsp; [ _Your Response Here_ ]</center></br></br>
 
 The third sign was directed toward the worthless gods of Egypt. The Egyptians had many gods which came from the Nile, but the Nile itself was also a god. Moses is going to turn the Nile water into blood. God is going to prove his complete mastery over the mysterious religious system of Egypt. 
 
@@ -296,55 +296,55 @@ We can think of ourselves as superior in our thinking, but don’t do that. Isra
 
 Where were you? What has the situation? 
 
----
+</br><center><i class="fa-solid fa-pen-to-square"></i> &nbsp; [ _Your Response Here_ ]</center></br></br>
 
 God found you right where you were- in your mess. We didn’t get our lives all together and then accept Christ. Just as it has taken us time and a lot of hard lessons, it will take time and hard lessons for Israel to comprehend the basic concept that there is but one God. Not just one God for Israel, but one God period. One God over everyone and everything. This was against their basic understanding of the way the world worked. 
 
 What was it that God made you see differently when you got saved? 
 
----
+</br><center><i class="fa-solid fa-pen-to-square"></i> &nbsp; [ _Your Response Here_ ]</center></br></br>
 
 In verse 10, Moses gives one last ditch effort in not accepting God’s calling on his life. What was it? 
 
----
+</br><center><i class="fa-solid fa-pen-to-square"></i> &nbsp; [ _Your Response Here_ ]</center></br></br>
 
 Jewish tradition says that Moses most likely had forgotten how to speak Hebrew well. Others think that with 40 years in the desert, he didn’t know Egyptian well enough to approach the king. This is most likely a better interpretation because it’s hard to imagine that Moses spoke Hebrew to the Pharaoh. 
 
 God responded with anger! Moses had no idea who God was about, what His purposes were, or how powerful He was. So God began at the beginning. What questions did God ask Moses (vs.11)? 
 
----
+</br><center><i class="fa-solid fa-pen-to-square"></i> &nbsp; [ _Your Response Here_ ]</center></br></br>
 
 What did God promise Moses in verse 12? 
 
----
+</br><center><i class="fa-solid fa-pen-to-square"></i> &nbsp; [ _Your Response Here_ ]</center></br></br>
 
 After God’s promise, what was Moses’ response (vs 13)? 
 
----
+</br><center><i class="fa-solid fa-pen-to-square"></i> &nbsp; [ _Your Response Here_ ]</center></br></br>
 
 Wrong answer. God is going to have his older brother Aaron speak for him. So, God spoke to Moses, Moses spoke to Aaron, and Aaron spoke to Pharaoh and to the people. God saw Moses as special. He was not just another Bible character, as we see him today. He was given the power to work miracles and speak as if he were God. What an incredible responsibility! No wonder he didn’t want the job. 
 
 Would you want that job? 
 
----
+</br><center><i class="fa-solid fa-pen-to-square"></i> &nbsp; [ _Your Response Here_ ]</center></br></br>
 
 What would the pros and cons be on being in Moses’ shoes?
 
----
+</br><center><i class="fa-solid fa-pen-to-square"></i> &nbsp; [ _Your Response Here_ ]</center></br></br>
 
 Moses ultimately makes the right decision; he is going to obey God. Moses gets approval from his father-in-law, Jethro, to leave and confront Pharaoh. This is customary, as Jethro was the head of the house in which Moses lived. 
 
 In verse 19, the LORD tells Moses it is safe to go back to Egypt. Why? 
 
----
+</br><center><i class="fa-solid fa-pen-to-square"></i> &nbsp; [ _Your Response Here_ ]</center></br></br>
 
 God knew that Moses would be afraid of those people. God knows our thoughts. He chose to comfort Moses in this situation. Has God ever comforted you? How? 
 
----
+</br><center><i class="fa-solid fa-pen-to-square"></i> &nbsp; [ _Your Response Here_ ]</center></br></br>
 
 The LORD speaks to Moses early on his trip to Egypt. He is going to tell Moses what is going to happen. Read the end of verse 21. What do you think about what God said regarding Pharaoh’s heart? 
 
----
+</br><center><i class="fa-solid fa-pen-to-square"></i> &nbsp; [ _Your Response Here_ ]</center></br></br>
 
 If you are having a hard time with God hardening Pharaoh’s heart, step in line. Many people have been troubled by it. Is it fair? What chance did Pharaoh have to do the right thing? Did God make Pharaoh incapable of obeying Him? Does God do this now? 
 
@@ -374,7 +374,7 @@ Does that surprise you?
 Every ancient culture believed in multiple gods and a spirit world. Every culture had a similar set of gods, but their names varied. But knowing each god’s name was all-important to the ancient mind. Knowing a god’s name was the key to communicating with that god and persuading that god to do what was desired. 
 Here, Pharaoh is not wondering if there is a “God of the Hebrews”, he has just never heard of Yahweh. Since he has not ever heard of Yahweh, he wasn’t sure where this God even fit into the hierarchy of all the Egyptian gods. So if Pharaoh had never even heard of this God, why should he be concerned about him? After all, this God only revealed His name to mankind only a few weeks prior. And now this God is demanding something of Pharoah? And the demand is that the Hebrew slaves need to make a “pilgrimage festival to Me.” Really? Put yourself in Pharaoh’s shoes right now. Would you believe Moses? 
 
----
+</br><center><i class="fa-solid fa-pen-to-square"></i> &nbsp; [ _Your Response Here_ ]</center></br></br>
 
 Pharaoh is not buying it. These Hebrews did not belong to this “God”…they belong to Pharaoh! Pharaoh does not deny that there is a god called Yahweh, and he doesn’t not deny that this was Israel’s God. He just doesn’t know what it has to do with him. 
 
@@ -382,7 +382,7 @@ There were many Egyptian gods, so why worry about one little god of a bunch of s
 
 Moses and Aaron tell Pharaoh that if they don’t obey that (verse 3) “God may 
 
----
+</br><center><i class="fa-solid fa-pen-to-square"></i> &nbsp; [ _Your Response Here_ ]</center></br></br>
 
 They may have embellished what God actually told them a bit. I mean, they are standing in front of the most powerful man in the known world. 
 
@@ -390,64 +390,57 @@ You can hear the laughter in Pharaoh’s voice as he tells them to get back to w
 
 What does Pharaoh make them do in verse 7-9? 
 
----
+</br><center><i class="fa-solid fa-pen-to-square"></i> &nbsp; [ _Your Response Here_ ]</center></br></br>
 
 [BRICK MAKING IN EGYPT. Painted on the walls of the Theban tomb of Rakhmire (mid-15th century B.C.E.), who was the Egyptian vizier (or prime minister), these realistic scenes depict slaves manufacturing mud-bricks. Included are all stages of brick making (bottom, left to right): fetching of water, kneading of clay, and carrying of moistened clay to brick makers. The top register depicts (right to left): forming of the bricks using a mold, turning of formed bricks out of a mold, and leaving the bricks to dry in the sun. Straw, which is added to the clay mix as opening material, does not appear. Photo: Kairoinfo4u; CC BY-NC-SA 2.0]
 
 How did the Hebrew overseers react to Pharaoh not giving them straw (verses 15-21)? 
 
----
+</br><center><i class="fa-solid fa-pen-to-square"></i> &nbsp; [ _Your Response Here_ ]</center></br></br>
 
 Boy, they turned on Moses pretty quickly. They went from praising God to calling on God to judge Moses by punishing him. They knew in advance how this would go. Moses already told them. They did not count on any consequences. Following God always has consequences. 
 
 Have you ever had to pay a consequence for following God?
 
----
+</br><center><i class="fa-solid fa-pen-to-square"></i> &nbsp; [ _Your Response Here_ ]</center></br></br>
 
 He completely understood why the Hebrews were upset. 
 
 What did Moses do when he did not understand what was happening (verse 22)?
 
----
+</br><center><i class="fa-solid fa-pen-to-square"></i> &nbsp; [ _Your Response Here_ ]</center></br></br>
 
 He returned to the LORD. He didn’t stamp his feet. He didn’t shake his fist at God. And even if he did, who would blame him? But Moses was learning that there is a price to pay for obedience. Oh, that we could learn that lesson. Obedience and sacrifice go hand-in-hand. We will see this throughout all of scripture. 
 
 What have you sacrificed because of your obedience to God?
 
----
+</br><center><i class="fa-solid fa-pen-to-square"></i> &nbsp; [ _Your Response Here_ ]</center></br></br>
 
 Here’s the best part. Read Exodus 6:1. Moses asks for an explanation, and God answers Moses: I’ve got it all under control. Maybe you need to hear that one statement today. God’s got this. 
 
 &nbsp;
-#### <i class="fa-solid fa-comment"></i> &nbsp; Takeaways from this week
+#### <i class="fa-solid fa-comment"></i> &nbsp; _Takeaways from this week_
 
 * What was your takeaway from Day 1? 
 
----
----
+</br><center><i class="fa-solid fa-pen-to-square"></i> &nbsp; [ _Your Response Here_ ]</center></br></br>
 
 * What was your takeaway from Day 2? 
 
----
----
+</br><center><i class="fa-solid fa-pen-to-square"></i> &nbsp; [ _Your Response Here_ ]</center></br></br>
 
 * What was your takeaway from Day 3? 
 
----
----
+</br><center><i class="fa-solid fa-pen-to-square"></i> &nbsp; [ _Your Response Here_ ]</center></br></br>
 
 * What was your takeaway from Day 4? 
 
----
----
+</br><center><i class="fa-solid fa-pen-to-square"></i> &nbsp; [ _Your Response Here_ ]</center></br></br>
 
 * What was your takeaway from Day 5? 
 
----
----
+</br><center><i class="fa-solid fa-pen-to-square"></i> &nbsp; [ _Your Response Here_ ]</center></br></br>
 
 * What was your takeaway from the Sermon? 
 
----
----
----
+</br><center><i class="fa-solid fa-pen-to-square"></i> &nbsp; [ _Your Response Here_ ]</center></br></br>
