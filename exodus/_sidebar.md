@@ -1,4 +1,4 @@
-- [<i class="fa-solid fa-circle-arrow-left"></i>&nbsp; Back to _Torah_](/)
+- [<i class="fa-solid fa-circle-arrow-left"></i>&nbsp; Books of the _Torah_](/)
     - [&equiv; Sh'mot &middot; *Book of Exodus*](exodus/exodus.md)
         - [Shmot &middot; _Names_](exodus/shmot.md)
         - [Vaera &middot; _I appeared_](exodus/vaera.md)

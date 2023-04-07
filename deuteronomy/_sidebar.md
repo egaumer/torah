@@ -1,3 +1,3 @@
-- [&lsaquo; Torah](/)
+- [<i class="fa-solid fa-circle-arrow-left"></i>&nbsp; Books of the _Torah_](/)
     - [&equiv; D’varim &middot; *Deuteronomy*](deuteronomy/deuteronomy.md)
-        - [D’varim](deuteronomy/dvarim.md)
+        - [D’varim &middot; _In the desert_](deuteronomy/dvarim.md)
