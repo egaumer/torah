@@ -1,5 +1,5 @@
 # _Va’era_ &sdot; וארא
-**Parashah 14 &nbsp;&middot;&nbsp; _I appeared_** (6:2–9:35)
+Parashah 14 &nbsp;&middot;&nbsp; _I appeared (_ 6:2&mdash;9:35 _)_
 
 &nbsp;
 

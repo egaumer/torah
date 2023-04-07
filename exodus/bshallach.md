@@ -1,5 +1,5 @@
 # _B'shallach_ &sdot; בשלח
-**Parashah 16 &nbsp;&middot;&nbsp; _After he had let go_** (13:17–17:16)
+Parashah 16 &nbsp;&middot;&nbsp; _After he had let go (_ 13:17&mdash;17:16 _)_
 
 &nbsp;
 # Day 1 &middot; _tnd_

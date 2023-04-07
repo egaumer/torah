@@ -1,5 +1,5 @@
 # _Yitro_ &sdot; יתרו
-**Parashah 17 &nbsp;&middot;&nbsp; _Jethro_** (18:1–20:23(26))
+Parashah 17 &nbsp;&middot;&nbsp; _Jethro (_ 18:1&mdash;20:23(26) _)_
 
 &nbsp;
 # Day 1 &middot; _tbd_

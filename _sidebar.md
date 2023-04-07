@@ -1,4 +1,4 @@
-* [Torah](/)
+* [<i class="fa-solid fa-scroll"></i> Torah](/)
     * [&equiv; B’reisheet &middot; *Genesis*](genesis/genesis.md)
     * [&equiv; Sh'mot &middot; *Exodus*](exodus/exodus.md)
     * [&equiv; Vayikra &middot; *Leviticus*](leviticus/leviticus.md)

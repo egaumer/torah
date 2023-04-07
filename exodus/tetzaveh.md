@@ -1,5 +1,5 @@
 # _Tetzaveh_ &sdot; תצוה
-**Parashah 20 &nbsp;&middot;&nbsp; _You are to order_** (27:20–30:10)
+Parashah 20 &nbsp;&middot;&nbsp; _You are to order (_ 27:20&mdash;30:10 _)_
 
 &nbsp;
 # Day 1 &middot; _tbd_

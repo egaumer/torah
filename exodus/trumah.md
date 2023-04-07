@@ -1,5 +1,5 @@
 # _T'rumah_ &sdot; תרומה
-**Parashah 19 &nbsp;&middot;&nbsp; _Contribution_** (25:1–27:19)
+Parashah 19 &nbsp;&middot;&nbsp; _Contribution (_ 25:1&mdash;27:19 _)_
 
 &nbsp;
 # Day 1 &middot; _tbd_

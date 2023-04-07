@@ -1,5 +1,5 @@
 # _Mishpatim_ &sdot; משפטים
-**Parashah 18 &nbsp;&middot;&nbsp; _Rulings_** (21:1–24:18)
+Parashah 18 &nbsp;&middot;&nbsp; _Rulings (_ 21:1&mdash;24:18 _)_
 
 &nbsp;
 # Day 1 &middot; _tbd_

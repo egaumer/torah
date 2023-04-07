@@ -1,5 +1,5 @@
 # _Bo_ &sdot; בא
-**Parashah 15 &nbsp;&middot;&nbsp; _Go_** (10:1–13:16)
+Parashah 15 &nbsp;&middot;&nbsp; _Go (_ 10:1&mdash;13:16 _)_
 
 &nbsp;
 # Day 1 &middot; _tbd_

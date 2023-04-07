@@ -1,5 +1,5 @@
 # _Sh'mot_ &sdot; שמות 
-**Parashah 13 &nbsp;&middot;&nbsp; _Names_** (1:1–6:1)
+Parashah 13 &nbsp;&middot;&nbsp; _Names (_ 1:1&mdash;6:1 _)_
 
 &nbsp;
 # Day 1 &middot; _The Jewish Problem_
@@ -444,3 +444,26 @@ Here’s the best part. Read Exodus 6:1. Moses asks for an explanation, and God 
 * What was your takeaway from the Sermon? 
 
 </br><center><i class="fa-solid fa-pen-to-square"></i> &nbsp; [ _Your Response Here_ ]</center></br></br>
+
+<script>
+    var refTagger = {
+        settings: {
+            bibleVersion: 'ESV',
+            tooltipStyle: 'light'
+        }
+    }; 
+
+    (function(d, t) {
+        var n=d.querySelector('[nonce]');
+        console.log(n);
+        refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce'));
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        console.log(g);
+        console.log(s);
+        /* g.src = 'https://api.reftagger.com/v2/RefTagger.js'; */
+        g.src = '/assets/js/RefTagger.js';
+        g.nonce = refTagger.settings.nonce;
+        s.parentNode.insertBefore(g, s);
+        console.log('reftagger');
+    }(document, 'script'));
+</script>

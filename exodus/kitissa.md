@@ -1,5 +1,5 @@
 # _Ki Tissa_ &sdot; כי תשא
-**Parashah 21 &nbsp;&middot;&nbsp; _When you take_** (30:11–34:35)
+Parashah 21 &nbsp;&middot;&nbsp; _When you take (_ 30:11&mdash;34:35 _)_
 
 &nbsp;
 # Day 1 &middot; _tbd_

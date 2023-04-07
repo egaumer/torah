@@ -1,5 +1,5 @@
 # _P'kudei_ &sdot; פקודי
-**Parashah 23 &nbsp;&middot;&nbsp; _Accounts_** (38:21–40:38)
+Parashah 23 &nbsp;&middot;&nbsp; _Accounts (_ 38:21&mdash;40:38 _)_
 
 &nbsp;
 # Day 1 &middot; _tbd_
