@@ -6,7 +6,7 @@ Parashah 13 &nbsp;&middot;&nbsp; _Names (_ 1:1&mdash;6:1 _)_
 
 The word _Sh'mot_ (Hebrew: שְׁמוֹת) means _names_<sup>[H8034](https://www.blueletterbible.org/lexicon/h8034 "Strong's Number H8834")</sup>. This portion is named because the book begins with the phrase `“These are the names (Sh'mot) of the sons of Israel…”` The English name _Exodus_ comes from the Greek translation of the Hebrew Bible. It means _departure._ The book opens with the children of Israel in slavery. It seems God has forgotten them - but He has not. 
 
-?> <i class="fa-solid fa-book-open"></i> Read Exodus 1.
+?> <i style='font-size: x-large' class="fa-solid fa-book-open"></i>&nbsp;&nbsp;Read Exodus 1.
 
 Up until this point, most of the Israelites had become wealthy, numerous, and politically powerful in Egypt. But that was going to change. There was a new sheriff in town. His first job was to dismantle any foreign influence that could threaten Egypt. The Hebrews were going to have a radical reversal of fortunes. 
 
@@ -28,7 +28,7 @@ Exodus 1:2 is a list of names. Read them. Go on, read them all. Why read names? 
 
 Way back in Genesis 12:2, God says to Abraham, `“I will bless you and make you a great nation.”` A few chapters later in Genesis 15:5, God calls Abraham and says, `“Come outside. Look at those stars. Your descendants will be as numerous as the stars and sands of the earth. I’m going to make you a mega nation!”` And that’s exactly what God did. Because God keeps His promises. 
 
-Do you remember how many people came to Egypt with Jacob? (Gen 46:27) ___________________
+?> <i style='font-size: x-large' class="fa-solid fa-marker"></i>&nbsp;&nbsp;Do you remember how many people came to Egypt with Jacob? (Gen 46:27)
 
 By the time we get to Exodus 12, there will be over 600,000 men (ages 20-50, not including women and children.) Estimates are between 2-3 million people. That’s some big numbers!
 
