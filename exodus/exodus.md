@@ -25,9 +25,8 @@ So, congratulations on having a “Genesis” in your life. But make sure there 
 
 #### <i class="fa-solid fa-marker"></i> &nbsp; _How To Do This Study_
 
-Each week we will listen and take notes on Pastor Joe’s message. You can either come to Son Light at 10 AM, watch online, or catch the Youtube replay starting on Mondays. bit.ly/sonlightsermons. 
+This is an in-depth, 11-week Bible study. Exodus: Shadows of the Messiah contains five daily lessons each week. Each lesson requires about 30 minutes, and their completion is crucial. Each day’s lessons consists of reading and learning activities in the form of this workbook. These will help you reap the full benefit of the study. Please do not omit them. They will contribute to you solidifying and digesting important spiritual truths. Each week we will listen and take notes on Pastor Joe’s message. You can either come to Son Light at 10 AM, watch online, or catch the [Youtube](bit.ly/sonlightsermons) replay starting on Mondays. 
 
-We will meet on Monday nights to discuss what we learned. By that time you should have completed the weekly lessons and taken notes on the sermon. Please be prepared to share what you have learned. 
+We will meet on Monday nights to discuss what we learned. By that time you should have completed the weekly lessons and taken notes on the sermon. Please be prepared to share what you have learned. Feel free to research more and dig deeper! We are so excited to study God’s Word with you this year! Take notes on what you have learned, any “ah-ha” moments, or questions you may have. We will discuss them all at our Bible Study. 
 
-Feel free to research more and dig deeper! We are so excited to study God’s Word with you this year!
-Take notes on what you have learned, any “ah-ha” moments, or questions you may have. We will discuss them all at our Bible Study. 
+There will be some sections where you are asked to just think about something. Take a moment and ponder what the question is asking you. You can take notes in the workbook found on Amazon. We will be using these notes in our Bible Study meeting. 
