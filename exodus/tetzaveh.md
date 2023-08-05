@@ -22,7 +22,7 @@ I found a great video on how olives were pressed in Nazareth in the first centur
 
 ?> <span style="font-size:x-large"><i class="fa-solid fa-tv"></i> &nbsp; **Watch** |</span> The Olive Press
 
-<iframe style="width:50vw;height:38.25vh;" src="https://www.youtube.com/watch?v=nVENKLP82X8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe style="width:50vw;height:38.25vh;" src="https://www.youtube.com/embed/nVENKLP82X8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 &nbsp;
 
@@ -76,7 +76,7 @@ As I was studying this week, and researching olive oil presses, I came across th
 
 ?> <span style="font-size:x-large"><i class="fa-solid fa-tv"></i> &nbsp; **Watch** |</span> Garden of Gethsemane: the surprising significance of the olive trees
 
-<iframe style="width:50vw;height:38.25vh;" src="https://www.youtube.com/watch?v=3tepTZ7Ms78" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe style="width:50vw;height:38.25vh;" src="https://www.youtube.com/embed/3tepTZ7Ms78" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 &nbsp;
 # Day 2 &middot; _Priest Particulars_
@@ -155,7 +155,7 @@ We’ve already talked briefly about the color gold. Gold is associated with God
 
 ?> <span style="font-size:x-large"><i class="fa-solid fa-tv"></i> &nbsp; **Watch** |</span> Murex Snail & Ancient Dye Technique
 
-<iframe style="width:50vw;height:38.25vh;" src="https://www.youtube.com/watch?v=-efM4RmDb3c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe style="width:50vw;height:38.25vh;" src="https://www.youtube.com/embed/-efM4RmDb3c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 &nbsp;
 
@@ -169,7 +169,7 @@ To create this gold thread, the artisans needed to melt the gold and draw it thr
 
 ?> <span style="font-size:x-large"><i class="fa-solid fa-tv"></i> &nbsp; **Watch** |</span> Gold Wire Drawing Machine
 
-<iframe style="width:50vw;height:38.25vh;" src="https://www.youtube.com/watch?v=5TDs81spdYM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe style="width:50vw;height:38.25vh;" src="https://www.youtube.com/embed/5TDs81spdYM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 &nbsp;
 
@@ -187,7 +187,7 @@ They crushed and boiled the snail, and then applied it to the fabric. Depending 
 
 ?> <span style="font-size:x-large"><i class="fa-solid fa-tv"></i> &nbsp; **Watch** |</span> Tunisian produces purple dye from sea snails
 
-<iframe style="width:50vw;height:38.25vh;" src="https://www.youtube.com/watch?v=XNx3a6h70h0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe style="width:50vw;height:38.25vh;" src="https://www.youtube.com/embed/XNx3a6h70h0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 &nbsp;
 

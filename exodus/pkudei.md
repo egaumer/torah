@@ -87,7 +87,9 @@ It means a total and complete change. It's a word used to describe the larva - c
 
 ?> <i style='font-size: x-large' class="fa-solid fa-marker"></i>&nbsp;&nbsp;As a personal reflection, in what areas are you spiritually hungry? How do you feed yourself?
 
-<iframe style="width:50vw;height:38.25vh;" src="https://www.youtube.com/watch?v=LuizL9vN69g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+?> <span style="font-size:x-large"><i class="fa-solid fa-tv"></i> &nbsp; **Watch** |</span> How a Caterpillar Becomes a Butterfly, Explained
+
+<iframe style="width:50vw;height:38.25vh;" src="https://www.youtube.com/embed/LuizL9vN69g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 When it’s time, the caterpillar enters a transformative phase called the chrysalis. Inside this protective casing, hidden from the world, a miraculous process unfolds. The caterpillar’s body undergoes a complete overhaul, breaking down its old self and restructuring into something entirely new. In this phase, the caterpillar needs to surrender itself to the process.
 
@@ -141,9 +143,9 @@ There were eight articles of clothing that the high priest wore. Four of those a
 
 The Ephod was a vest. It was connected together by two stones. 
 
-?> <span style="font-size:x-large"><i class="fa-solid fa-tv"></i> &nbsp; **Watch** |</span> Watch this video on the priestly garments:
+?> <span style="font-size:x-large"><i class="fa-solid fa-tv"></i> &nbsp; **Watch** |</span> The Jewish Priestly Garments
 
-<iframe style="width:50vw;height:38.25vh;" src="https://www.youtube.com/watch?v=mznSvWsv0Xc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe style="width:50vw;height:38.25vh;" src="https://www.youtube.com/embed/mznSvWsv0Xc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ?> <i style='font-size: x-large' class="fa-solid fa-marker"></i>&nbsp;&nbsp;Did you learn anything new by watching the video? Was is helpful to see the garments in a step-by-step way? 
 
@@ -217,6 +219,6 @@ After each book of the Torah is read, once it is finished, whether it’s Genesi
 
 Let’s do that!
 
-<iframe style="width:50vw;height:38.25vh;" src="https://www.youtube.com/watch?v=wVUcJUJBFMU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+?> <span style="font-size:x-large"><i class="fa-solid fa-tv"></i> &nbsp; **Watch** |</span> The Tabernacle and the Messiah
 
-<iframe style="width:50vw;height:38.25vh;" src="https://www.youtube.com/watch?v=wVUcJUJBFMU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe style="width:50vw;height:38.25vh;" src="https://www.youtube.com/embed/wVUcJUJBFMU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

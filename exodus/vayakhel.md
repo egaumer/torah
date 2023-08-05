@@ -163,8 +163,8 @@ When the Romans destroyed the Temple in 70 AD, Titus carried off its treasures, 
 
 One of my favorite stories of the Altar of Incense is of Zechariah! The job of offering incense was a coveted duty. The priest who offered incense came as close to the holy of holies as a common priest could come. By the time of the New Testament, the priesthood was so large that caring for the incense was a once-in-a-lifetime opportunity. 
 
-?> <span style="font-size:x-large"><i class="fa-solid fa-tv"></i> &nbsp; **Watch** |</span> Carol Anne’s message on the Altar of Incense
+?> <span style="font-size:x-large"><i class="fa-solid fa-tv"></i> &nbsp; **Watch** |</span> Seasons of Waiting
 
-<iframe style="width:50vw;height:38.25vh;" src="https://www.youtube.com/watch?v=CgyFJESJ-1o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe style="width:50vw;height:38.25vh;" src="https://www.youtube.com/embed/CgyFJESJ-1o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 What did you learn about the Altar of Incense in this video? 

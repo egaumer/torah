@@ -278,7 +278,7 @@ This will be a shorter devotional because of the video.
 
 ?> <span style="font-size:x-large"><i class="fa-solid fa-tv"></i> &nbsp; **Watch** |</span> Shadows of Christ in the Passover
 
-<iframe style="width:50vw;height:38.25vh;" src="https://www.youtube.com/watch?v=OSmCd0w_FLc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe style="width:50vw;height:38.25vh;" src="https://www.youtube.com/embed/OSmCd0w_FLc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Contrary to popular belief, the New Testament celebration of communion did not originate with Jesus at the Last Supper. The foundation of communion is the Passover festival- established 1450 years before Christ was born. But like all of the Old Testament, everything points toward the Messiah. Every story, every hero, every book points to the need for someone who comes to restore our relationship back to God. It’s why I named this series _Shadows of the Messiah_ in the first place. I want everyone to see why the Old Testament is so crucial for understanding who Jesus is. 
 
