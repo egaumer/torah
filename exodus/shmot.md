@@ -142,7 +142,7 @@ Moses’ mother hid him for three months. How difficult do you think that would 
 
 &nbsp;
 
-_Verse 2_ - Jochabed had a son and she saw that he was a &#95;&#95;&#95;&#95; child, and she hid him for three months. Different versions have different words. 
+_Verse 2_ - `Jochabed had a son and she saw that he was a ____ child`, and she hid him for three months. Different versions have different words. 
 
 Using the www.blueletterbible.org, and toggling to different versions of the Bible (right next to the search bar-it doesn’t matter which version you choose, just explore a few), what other words do you see that describe how Moses’ mother saw him? ____ NIV- fine; KJV- goodly, CSB- beautiful…
 
@@ -152,7 +152,7 @@ Whatever word you found, go back to blueletterbible.org and find out what that w
 
 Looking to the past, this is an association between Moses and the Genesis account of creation. After creating everything, _God_ said it was “good”, tov.  Moses’ birth is under divine influence. 
 
-_Verse 3_ - She hides him in a papyrus &#95;&#95;&#95;&#95;, coats it with &#95;&#95;&#95;&#95; and &#95;&#95;&#95;&#95;, and sets him in the reeds of the Nile. 
+_Verse 3_ - `She hides him in a papyrus ____, coats it with ____ and ____, and sets him in the reeds of the Nile.` 
 
 I’m sure when I was a teenager there were times when my parents wanted to put me in a boat and ship me down the river, but a baby? A 3-month-old baby? And to put your baby in the same waters where the Egyptians were drowning other Hebrew babies must have been heart-wrenching. Do you think she saw the other babies while she was saving her son? 
 
