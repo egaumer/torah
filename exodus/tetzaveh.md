@@ -1,7 +1,7 @@
 # _Tetzaveh_ &sdot; תצוה
 Parashah 20 &nbsp;&middot;&nbsp; _You are to order (_ 27:20&mdash;30:10 _)_
 
-The twentieth reading from the Torah is Tetzaveh which means “you shall command”, as in the first verse of the reading, `“You shall command the sons of Israel, that they bring you clear oil of beaten olives for the light, to make a lamp burn continually”` (Exodus 27:20). 
+The twentieth reading from the Torah is _Tetzaveh_ which means _You Shall Command_, as in the first verse of the reading, `“You shall command the sons of Israel, that they bring you clear oil of beaten olives for the light, to make a lamp burn continually”` (Exodus 27:20). 
 
 This Torah portion begins in the middle of God giving instructions for the tabernacle to Moses. It will focus on the lamp stand and the priesthood. Aaron and his sons will serve as priests, and there are specific instructions for what the priests will wear.
 

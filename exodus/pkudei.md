@@ -1,7 +1,7 @@
 # _P'kudei_ &sdot; פקודי
 Parashah 23 &nbsp;&middot;&nbsp; _Accounts (_ 38:21&mdash;40:38 _)_
 
-The twenty-third reading from the Torah and last reading from the book of Exodus is called Pekudei (פקודי), which means
+The twenty-third reading from the Torah and last reading from the book of Exodus is called _P'kudei_ (פקודי), which means
 _Aaccount_ or _Reckonings_, because this Torah portion begins with Moses making a careful accounting of the gold, silver, and 
 copper donated by the people for the construction of the Tabernacle. The first words of the first verse of the reading is 
 translated to read, `"These are the accounts [pekudei] of the Tabernacle (Exodus 38:21)`.
@@ -20,7 +20,7 @@ Then the LORD said to him, "Know for ____ that for four hundred years your desce
 And what does God follow that up with?
 
 ```
-"But I will ____ the nation they &#95;&#95;&#95;&#95; as slaves and afterward they will ____ ____ with great ____.” And boy, did they! - (Genesis 15:14? NIV)
+"But I will ____ the nation they ____ as slaves and afterward they will ____ ____ with great ____.” And boy, did they! - (Genesis 15:14? NIV)
 ```
 
 I’m a little sad that our time is coming to an end in this study. I have really enjoyed learning with you and making so many new connections. But we're not done yet! 

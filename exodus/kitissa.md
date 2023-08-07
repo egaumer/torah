@@ -1,7 +1,7 @@
 # _Ki Tissa_ &sdot; כי תשא
 Parashah 21 &nbsp;&middot;&nbsp; _When you take (_ 30:11&mdash;34:35 _)_
 
-The twenty-first reading from the Torah is Ki Tisa, which literally means “when you lift up.” It comes from the first words of the second verse of the reading (Exodus 30:12). The majority of this parsha is concerned with the sin of the golden calf and how Moses undertakes to restore the covenant relationship
+The twenty-first reading from the Torah is _Ki Tisa_, which literally means _When You Lift Up_. It comes from the first words of the second verse of the reading (Exodus 30:12). The majority of this parsha is concerned with the sin of the golden calf and how Moses undertakes to restore the covenant relationship
 
 &nbsp;
 # Day 1 &middot; _Census, Oil, and Incense_

@@ -1,7 +1,7 @@
 # _Vayak'hel_ &sdot; ויקהל
 Parashah 22 &nbsp;&middot;&nbsp; _He assembled (_ 35:1&mdash;38:20 _)_
 
-The twenty-second reading from the Torah is called Vayak’hel (ויקחל), which means _He Assembled_. The name comes from the first words of the first verse of the reading, `“Moses assembled the whole Israelite community and said to them, ‘These are the things the LORD has commanded you to do:’”`.
+The twenty-second reading from the Torah is called _Vayak’hel_ (ויקחל), which means _He Assembled_. The name comes from the first words of the first verse of the reading, `“Moses assembled the whole Israelite community and said to them, ‘These are the things the LORD has commanded you to do:’”`.
 
 This portion from the Torah describes how the assembly of Israel worked together to build the Tabernacle.
 
