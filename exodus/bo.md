@@ -20,7 +20,7 @@ Verse 10:2 `“…that you may tell your ____ and ____ how I dealt harshly with 
 
 &nbsp;
 
-?> <span style="font-size: x-large"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 1 &#8729; Study Question 1** </span><br/><br/>The Torah is very clear about the importance of remembering. Without remembering there is no gratitude and no faith. It’s only when people remember the good that has been done that they are grateful. But it’s so easy to remember the bad things that have been done. Why is that? Why is it that being grateful takes so much effort, but resentment is effortless?
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 1 &#8729; Study Question 1** </span><br/><br/>The Torah is very clear about the importance of remembering. Without remembering there is no gratitude and no faith. It’s only when people remember the good that has been done that they are grateful. But it’s so easy to remember the bad things that have been done. Why is that? Why is it that being grateful takes so much effort, but resentment is effortless?
 
 &nbsp;
 
@@ -32,7 +32,7 @@ Moses is standing up against the ruler of a nation and asking him, “How long a
 
 &nbsp;
 
-?> <span style="font-size: x-large"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 1 &#8729; Study Question 2** </span><br/><br/>These locusts are going to cover the face of the ground with such thickness that you won’t be able to see the earth! GROSS! One time I was traveling to Texas to do some Professional Development for Discovery. When we landed, there were thousands and thousands of grasshoppers all over the parking lot. I was so freaked out that they had the guts to jump toward me and not away from me. I never ran through a parking lot so carefully and quickly! Some day I’ll want to watch that on a rerun. Looking back it was hysterical. But being there was terrifying! But in verses 5-6, it lists all the things that these locusts will do. What are they?
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 1 &#8729; Study Question 2** </span><br/><br/>These locusts are going to cover the face of the ground with such thickness that you won’t be able to see the earth! GROSS! One time I was traveling to Texas to do some Professional Development for Discovery. When we landed, there were thousands and thousands of grasshoppers all over the parking lot. I was so freaked out that they had the guts to jump toward me and not away from me. I never ran through a parking lot so carefully and quickly! Some day I’ll want to watch that on a rerun. Looking back it was hysterical. But being there was terrifying! But in verses 5-6, it lists all the things that these locusts will do. What are they?
 
 &nbsp;
 
@@ -54,7 +54,7 @@ Pharaoh answers Moses in verse 10: “The Lord be with you—if I let you go, al
 
 The world has this same mindset today. The world will tell you, “Ok, be fanatical, but don’t impose your beliefs on your children. Let them decide for themselves. If you want to be a Christian, be a secret agent. Don’t take this too far. Tame it down. Do your ‘religious thing’ but leave your families with us.” 
 
-<i style='font-size: x-large' class="fa-solid fa-skull"></i> &nbsp; _Plague_ **<i style='font-size: x-large' class="fa-solid fa-8"></i>** (Exodus 10:12) &bull; _The Plague of &#95;&#95;&#95;&#95;_
+<i style='font-size: 1.25em' class="fa-solid fa-skull"></i> &nbsp; _Plague_ **<i style='font-size: x-large' class="fa-solid fa-8"></i>** (Exodus 10:12) &bull; _The Plague of &#95;&#95;&#95;&#95;_
 
 As in the plagues that came before, God is using natural forces to bring judgment on Egypt. The Egyptians believed in many gods. So they either believed in the authority of the God of Israel, or at the very least that something had gone wrong with their gods. The Egyptians had to make a choice that we also have to make- was this all a coincidence, or what is God? Is life just a series of coincidences, or is God in control? 
 
@@ -64,7 +64,7 @@ I’m praying that God will do for us what he did for Pharaoh (hold on now, hear
 
 &nbsp;
 
-?> <span style="font-size: x-large"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 1 &#8729; Study Question 3** </span><br/><br/>What do you worship besides God? Worship is the giving of devotion, reverence, or importance to something or someone. Is it material possessions, power and authority, self-image and vanity, fame, technology, sports? Where does most of your time go? What is it that consumes your thoughts that is not holy? Take time to repent and surrender it to God. 
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 1 &#8729; Study Question 3** </span><br/><br/>What do you worship besides God? Worship is the giving of devotion, reverence, or importance to something or someone. Is it material possessions, power and authority, self-image and vanity, fame, technology, sports? Where does most of your time go? What is it that consumes your thoughts that is not holy? Take time to repent and surrender it to God. 
 
 &nbsp;
 
@@ -80,11 +80,11 @@ Pharaoh is not sorry because he is repenting. This is the sorrow of the world, �
 
 &nbsp;
 
-?> <i style='font-size: x-large' class="fa-solid fa-book-open"></i>&nbsp;&nbsp;Read 10:21-29.
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-book-open"></i>&nbsp; **Read** |</span> 10:21-29
 
 &nbsp;
 
-<i style='font-size: x-large' class="fa-solid fa-skull"></i> &nbsp; _Plague_ **<i style='font-size: x-large' class="fa-solid fa-9"></i>** (Exodus 10:21) &bull; _The Plague of &#95;&#95;&#95;&#95;_
+<i style='font-size: 1.25em' class="fa-solid fa-skull"></i> &nbsp; _Plague_ **<i style='font-size: x-large' class="fa-solid fa-9"></i>** (Exodus 10:21) &bull; _The Plague of &#95;&#95;&#95;&#95;_
 
 Verse 21 `“Then the LORD said to Moses, ‘Stretch out your hand toward the sky so that darkness spreads over Egypt darkness that can be _______’”`. Yikes. _Darkness_ covered the land of Egypt for three days. They did not see one another, nor did they even get up from their place. Yet all of the children of Israel had light in their dwellings. 
 
@@ -105,7 +105,7 @@ Now Pharaoh sends out an urgent call for Moses. He is going to let all of Israel
 
 &nbsp;
 
-?> <span style="font-size: x-large"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 1 &#8729; Study Question 4** </span><br/><br/>Here’s another God principle. God wants all that we are and have. We don’t know what he will demand of us, but He wants it all. He wants your talent, your treasure, your time. What are you holding back from giving to God? Your job? Your family? Bring it all to _Yhwh_. Here’s the thing, whatever they would have left behind would have been in servitude of Pharaoh. So, if you bring everything, except your children…then they are left in bondage. Bring it ALL. God has made it clear that EVERYTHING we are is to be given to Him. Thoughts?
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 1 &#8729; Study Question 4** </span><br/><br/>Here’s another God principle. God wants all that we are and have. We don’t know what he will demand of us, but He wants it all. He wants your talent, your treasure, your time. What are you holding back from giving to God? Your job? Your family? Bring it all to _Yhwh_. Here’s the thing, whatever they would have left behind would have been in servitude of Pharaoh. So, if you bring everything, except your children…then they are left in bondage. Bring it ALL. God has made it clear that EVERYTHING we are is to be given to Him. Thoughts?
 
 &nbsp;
 
@@ -118,7 +118,7 @@ But the Lord hardened pharaoh’s heart and he would not let them go. In verse 2
 
 &nbsp;
 
-?> <i style='font-size: x-large' class="fa-solid fa-book-open"></i>&nbsp;&nbsp;Read Exodus 11.
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-book-open"></i>&nbsp; **Read** |</span> Exodus 11
 
 &nbsp;
 
@@ -145,7 +145,7 @@ Just as the Israelites could not prevent their newborn babies from being drowned
 
 &nbsp;
 
-?> <span style="font-size: x-large"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 2 &#8729; Study Question 1** </span><br/><br/>What are the differences between the people of Egypt and the people of Israel in verses 6-7?
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 2 &#8729; Study Question 1** </span><br/><br/>What are the differences between the people of Egypt and the people of Israel in verses 6-7?
 
 &nbsp;
 
@@ -185,9 +185,9 @@ When we start living from God’s perspective, and not from our own short-sighte
 
 &nbsp;
 
-?> <span style="font-size: x-large"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 2 &#8729; Study Question 2** </span><br/><br/>But just like those Israelites, we all have friends and family who will make the stubborn choice to join with the world and live in its darkness. I know we pray for Jesus to come soon, but there is a reason that He will need to wipe away every tear. It will be a bitter-sweet day. We will be rejoicing, yes! But we will also be realizing that there are some neighbors who will remain in the dark. Who are those people that you are praying for?
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 2 &#8729; Study Question 2** </span><br/><br/>But just like those Israelites, we all have friends and family who will make the stubborn choice to join with the world and live in its darkness. I know we pray for Jesus to come soon, but there is a reason that He will need to wipe away every tear. It will be a bitter-sweet day. We will be rejoicing, yes! But we will also be realizing that there are some neighbors who will remain in the dark. Who are those people that you are praying for?
 
-?> <span style="font-size: x-large"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 2 &#8729; Study Question 3** </span><br/><br/>What actions can you take today to help a dark world experience the light of Jesus?
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 2 &#8729; Study Question 3** </span><br/><br/>What actions can you take today to help a dark world experience the light of Jesus?
 
 
 &nbsp;
@@ -201,7 +201,7 @@ I can think of many examples of where I’d LOVE to get passed over for… a spe
 
 &nbsp;
 
-?> <i style='font-size: x-large' class="fa-solid fa-book-open"></i>&nbsp;&nbsp;Read Exodus 12:1-28.
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-book-open"></i>&nbsp; **Read** |</span> Exodus 12:1-28
 
 &nbsp;
 
@@ -210,7 +210,7 @@ reminding them of His covenant of a blood sacrifice. There are four things we ca
 
 &nbsp;
 
-?> <span style="font-size: x-large"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 3 &#8729; Study Question 1** </span><br/><br/>1. Our _Sin_<br/><br/>Do we really understand how expensive sin is? In verse 12 God tells them `“I will execute judgements against all the gods of Egypt”`. He is using words like _Judgment_, _Plague_, _Death_, and _Strike Down_. Romans 6:23 says, `“The wages of sin is death”`. Sin is expensive. It costs life. It takes life. This plague is the final face-off between _Yhwh_ and the Egyptian gods. They are trusting in gods who cannot perform what _Yhwh_ is about to perform. This is a judgment on pharaoh himself. In Exodus 5:2 he asked, “Who is the _Lord_ that I should obey Him?” Well, he’s about to find out! But the children of Israel are also under the death sentence, and only blood can save them. It did not matter that they were chosen at that point. If they didn’t apply the blood and follow God’s instructions, they would be a victim as well
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 3 &#8729; Study Question 1** </span><br/><br/>1. Our _Sin_<br/><br/>Do we really understand how expensive sin is? In verse 12 God tells them `“I will execute judgements against all the gods of Egypt”`. He is using words like _Judgment_, _Plague_, _Death_, and _Strike Down_. Romans 6:23 says, `“The wages of sin is death”`. Sin is expensive. It costs life. It takes life. This plague is the final face-off between _Yhwh_ and the Egyptian gods. They are trusting in gods who cannot perform what _Yhwh_ is about to perform. This is a judgment on pharaoh himself. In Exodus 5:2 he asked, “Who is the _Lord_ that I should obey Him?” Well, he’s about to find out! But the children of Israel are also under the death sentence, and only blood can save them. It did not matter that they were chosen at that point. If they didn’t apply the blood and follow God’s instructions, they would be a victim as well
 
 &nbsp;
 
@@ -218,7 +218,7 @@ Why did the Israelites deserve punishment as much as the Egyptians? First, They 
 
 &nbsp;
 
-?> <span style="font-size: x-large"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 3 &#8729; Study Question 2** </span><br/><br/>2. Our _Substitute_ <br/><br/>As an act of mercy God provides a substitute, a yearling lamb. It had to be perfect, with no defect. It had to be whole. It had to be inspected. It was a substitute for the whole family- it stood in the place of the family. It literally took their place in the judgment. 
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 3 &#8729; Study Question 2** </span><br/><br/>2. Our _Substitute_ <br/><br/>As an act of mercy God provides a substitute, a yearling lamb. It had to be perfect, with no defect. It had to be whole. It had to be inspected. It was a substitute for the whole family- it stood in the place of the family. It literally took their place in the judgment. 
 
 &nbsp;
 
@@ -234,7 +234,7 @@ Do you have chills? I do! This is a message that is a pattern in the Bible. To g
 
 &nbsp;
 
-?> <span style="font-size: x-large"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 3 &#8729; Study Question 3** </span><br/><br/>3. Our _Salvation_<br/><br/> Let’s get a little more specific on this. God doesn’t only require a lamb, He requires a dead lamb. This chapter is super bloody…which is not one of my favorite topics (I get a little squeamish at blood). But there is blood everywhere in this chapter. Killing an animal is not a tidy activity. Then blood is going to be put into some kind of container so they can dip hyssop branches into it and apply the blood to their doorposts. There is going to be blood everywhere. Why? Blood represents life. Leviticus 17:11 tells us `“For the life of the flesh is in the blood”`. It’s a sign that a life has been ended, but it is a substitute for your life being ended. 
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 3 &#8729; Study Question 3** </span><br/><br/>3. Our _Salvation_<br/><br/> Let’s get a little more specific on this. God doesn’t only require a lamb, He requires a dead lamb. This chapter is super bloody…which is not one of my favorite topics (I get a little squeamish at blood). But there is blood everywhere in this chapter. Killing an animal is not a tidy activity. Then blood is going to be put into some kind of container so they can dip hyssop branches into it and apply the blood to their doorposts. There is going to be blood everywhere. Why? Blood represents life. Leviticus 17:11 tells us `“For the life of the flesh is in the blood”`. It’s a sign that a life has been ended, but it is a substitute for your life being ended. 
 
 &nbsp;
 
@@ -250,7 +250,7 @@ Why is it so precious? Because it didn’t cover one person, or a family, or eve
 
 &nbsp;
 
-?> <span style="font-size: x-large"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 3 &#8729; Study Question 4** </span><br/><br/>4. Our own _Selves_<br/><br/> There is a change about to take place for the children of Israel. Their future is going to dramatically change after the Passover. The Passover is so significant that the nation of Israel had to rearrange and reset their calendar. God is saying it’s a new year. It’s a do-over. (Do you need a do-over?) God was teaching them to link even their measuring of time to his calling on their lives. The Passover happens in the spring. Isn’t it kind of amazing that that is also a symbol of new beginnings? Coincidence?
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 3 &#8729; Study Question 4** </span><br/><br/>4. Our own _Selves_<br/><br/> There is a change about to take place for the children of Israel. Their future is going to dramatically change after the Passover. The Passover is so significant that the nation of Israel had to rearrange and reset their calendar. God is saying it’s a new year. It’s a do-over. (Do you need a do-over?) God was teaching them to link even their measuring of time to his calling on their lives. The Passover happens in the spring. Isn’t it kind of amazing that that is also a symbol of new beginnings? Coincidence?
 
 &nbsp;
 
@@ -260,7 +260,7 @@ Why is it so precious? Because it didn’t cover one person, or a family, or eve
 
 &nbsp;
 
-?> <span style="font-size: x-large"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 3 &#8729; Study Question 4** </span><br/><br/>How has your life changed since you accepted Jesus into your life?
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 3 &#8729; Study Question 4** </span><br/><br/>How has your life changed since you accepted Jesus into your life?
 
 &nbsp;
 
@@ -276,7 +276,7 @@ One lamb can make all the difference! Praise the _Lord_, we have been passed ove
 
 This will be a shorter devotional because of the video.
 
-?> <span style="font-size:x-large"><i class="fa-solid fa-tv"></i> &nbsp; **Watch** |</span> Shadows of Christ in the Passover
+?> <span style="font-size:1.25em"><i class="fa-solid fa-tv"></i> &nbsp; **Watch** |</span> Shadows of Christ in the Passover
 
 <iframe style="width:50vw;height:38.25vh;" src="https://www.youtube.com/embed/OSmCd0w_FLc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -306,12 +306,12 @@ All the way through the Bible it points to the lamb. And the Passover lamb is wh
 
 &nbsp;
 
-?> <span style="font-size: x-large"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 4 &#8729; Study Question 1** </span><br/><br/>What did you learn today?
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 4 &#8729; Study Question 1** </span><br/><br/>What did you learn today?
 
 &nbsp;
 # Day 5 &middot; _The Night Nobody Slept_
 
-?> <i style='font-size: x-large' class="fa-solid fa-book-open"></i>&nbsp;&nbsp;Read Exodus 12:29-13:6
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-book-open"></i>&nbsp; **Read** |</span> Exodus 12:29-13:6
 
 This is when the real drama starts in this book. This is the night that nobody slept. Read verse 29-32. 
 
@@ -335,7 +335,7 @@ And in Exodus 12:15-20 God has some more instructions. For all future Passovers,
 
 &nbsp;
 
-?> <span style="font-size: x-large"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 5 &#8729; Study Question 1** </span><br/><br/>What rule did the _Lord_ give in verse 43 to Moses and Aaron? 
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 5 &#8729; Study Question 1** </span><br/><br/>What rule did the _Lord_ give in verse 43 to Moses and Aaron? 
 
 &nbsp;
 
@@ -349,7 +349,7 @@ God already had them in military divisions (verse 51). They had not fought one b
 
 &nbsp;
 
-?> <span style="font-size: x-large"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 5 &#8729; Study Question 2** </span><br/><br/>How come it is so easy for us to believe that God was in control then…but He might have a harder time in our day and age?
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 5 &#8729; Study Question 2** </span><br/><br/>How come it is so easy for us to believe that God was in control then…but He might have a harder time in our day and age?
 
 &nbsp;
 
@@ -357,7 +357,7 @@ A lamb changed the lives of the Israelites. They were slaves, and now they are f
 
 &nbsp;
 
-?> <span style="font-size: x-large"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 5 &#8729; Study Question 3** </span><br/><br/>What do you think the Israelites did the minute they realized they were free? What physical responses do you imagine they had to their freedom?
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 5 &#8729; Study Question 3** </span><br/><br/>What do you think the Israelites did the minute they realized they were free? What physical responses do you imagine they had to their freedom?
 
 &nbsp;
 
@@ -365,4 +365,4 @@ We sing songs in church like, “I’m no longer a slave to sin,” and “He se
 
 &nbsp;
 
-?> <span style="font-size: x-large"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 5 &#8729; Study Question 4** </span><br/><br/>Think about this week. To you, is Christ _A_ lamb, _The_ Lamb or _Your_ Lamb? The Bible says, `“Behold, I make all things new!”` He is beginning to make us new.
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 5 &#8729; Study Question 4** </span><br/><br/>Think about this week. To you, is Christ _A_ lamb, _The_ Lamb or _Your_ Lamb? The Bible says, `“Behold, I make all things new!”` He is beginning to make us new.

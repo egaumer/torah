@@ -8,9 +8,11 @@ This Torah portion begins in the middle of God giving instructions for the taber
 &nbsp;
 # Day 1 &middot; _The Crushing_
 
-?> <i style='font-size: x-large' class="fa-solid fa-book-open"></i>&nbsp;&nbsp;Read Exodus 27:20-21.
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-book-open"></i>&nbsp; **Read** |</span> Exodus 27:20-21
 
-Exodus 27:20 `“____ the Israelites to bring you clear oil of ____ olives for the light so that the lamps may be kept burning.”`
+```
+“____ the Israelites to bring you clear oil of ____ olives for the light so that the lamps may be kept burning.” - (Exodus 27:20 NIV)
+```
 
 Inside the tabernacle, the menorah burned continuously. This directive is God's desire for a perpetual flame, a symbol of God’s enduring presence among His people. This flame would be a constant reminder of Israel’s dependence on Yahweh and His guiding light. 
 
@@ -20,7 +22,7 @@ I found a great video on how olives were pressed in Nazareth in the first centur
 
 &nbsp;
 
-?> <span style="font-size:x-large"><i class="fa-solid fa-tv"></i> &nbsp; **Watch** |</span> The Olive Press
+?> <span style="font-size:1.25em"><i class="fa-solid fa-tv"></i> &nbsp; **Watch** |</span> The Olive Press
 
 <iframe style="width:50vw;height:38.25vh;" src="https://www.youtube.com/embed/nVENKLP82X8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -30,7 +32,7 @@ Where did they take the first fruits of the olive oil? What did the Temple (in t
 
 &nbsp;
 
-?> <i style='font-size: x-large' class="fa-solid fa-marker"></i>&nbsp;&nbsp;From the video, how many times were the olives pressed? What were the uses for each time?
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 1 &#8729; Study Question 1** </span><br/><br/>From the video, how many times were the olives pressed? What were the uses for each time?
 
 &nbsp;
 
@@ -42,7 +44,7 @@ In order to get the oil, the fruit (including the seeds) needed to be crushed. I
 
 &nbsp;
 
-?> <i style='font-size: x-large' class="fa-solid fa-marker"></i>&nbsp;&nbsp;Look up the word _beaten_ (כָּתִית)<sup>[H3795](https://www.blueletterbible.org/lexicon/h3795/kjv/wlc/0-1/ "Strong's Number H3795")</sup> in [blueletterbible.org](https://www.blueletterbible.org/lexicon/h3795/kjv/wlc/0-1/) and write down the meaning.
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 1 &#8729; Study Question 2** </span><br/><br/>Look up the word _beaten_ (כָּתִית)<sup>[H3795](https://www.blueletterbible.org/lexicon/h3795/kjv/wlc/0-1/ "Strong's Number H3795")</sup> in [blueletterbible.org](https://www.blueletterbible.org/lexicon/h3795/kjv/wlc/0-1/) and write down the meaning.
 
 &nbsp;
 
@@ -60,9 +62,9 @@ Isaiah's prophecy echoes the imagery of the pressing of olives and connects it t
 
 &nbsp;
 
-?> <i style='font-size: x-large' class="fa-solid fa-marker"></i>&nbsp;&nbsp;Read Luke 22:39-46. Where is Jesus? What happened as he prayed (vs 44)? Read Matthew 26:36 and Mark 14:32-42. Where is Jesus? Using the [blueletterbible.org](https://www.blueletterbible.org/lexicon/g1068/kjv/tr/0-1/), what does the word _Gethsemane_ (Γεθσημανί)<sup>[G1068](https://www.blueletterbible.org/lexicon/g1068/kjv/tr/0-1/ "Strong's Number G1068")</sup>mean? 
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 1 &#8729; Study Question 3** </span><br/><br/>Read Luke 22:39-46. Where is Jesus? What happened as he prayed (vs 44)? Read Matthew 26:36 and Mark 14:32-42. Where is Jesus? Using the [blueletterbible.org](https://www.blueletterbible.org/lexicon/g1068/kjv/tr/0-1/), what does the word _Gethsemane_ (Γεθσημανί)<sup>[G1068](https://www.blueletterbible.org/lexicon/g1068/kjv/tr/0-1/ "Strong's Number G1068")</sup>mean? 
 
-?> <i style='font-size: x-large' class="fa-solid fa-marker"></i>&nbsp;&nbsp;How many times did Jesus return to his disciples in these passages?
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 1 &#8729; Study Question 4** </span><br/><br/>How many times did Jesus return to his disciples in these passages?
 
 &nbsp;
 
@@ -74,14 +76,16 @@ As I was studying this week, and researching olive oil presses, I came across th
 
 &nbsp;
 
-?> <span style="font-size:x-large"><i class="fa-solid fa-tv"></i> &nbsp; **Watch** |</span> Garden of Gethsemane: the surprising significance of the olive trees
+?> <span style="font-size:1.25em"><i class="fa-solid fa-tv"></i> &nbsp; **Watch** |</span> Garden of Gethsemane: the surprising significance of the olive trees
 
 <iframe style="width:50vw;height:38.25vh;" src="https://www.youtube.com/embed/3tepTZ7Ms78" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 &nbsp;
 # Day 2 &middot; _Priest Particulars_
 
-?> <i style='font-size: x-large' class="fa-solid fa-book-open"></i>&nbsp;&nbsp;Read Exodus 28.
+&nbsp;
+
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-book-open"></i>&nbsp; **Read** |</span> Exodus 28
 
 &nbsp;
 
@@ -89,7 +93,7 @@ What did you want to be when you were little? In these days, little kids didn’
 
 &nbsp;
 
-?> <i style='font-size: x-large' class="fa-solid fa-book-open"></i>&nbsp;&nbsp;Exodus 28:2 `“Make ____ garments for your brother Aaron to give him ___ and ___.”` What four pieces of garments were the craftsmen to make for the priest?
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 2 &#8729; Study Question 1** </span><br/><br/>Exodus 28:2 `“Make ____ garments for your brother Aaron to give him ___ and ___.”` What four pieces of garments were the craftsmen to make for the priest?
 
 &nbsp;
 
@@ -99,11 +103,11 @@ The Hebrew word for priest is _Kohen_ (כֹּהֵן)<sup>[H3548](https://www.blu
 
 &nbsp;
 
-?> <i style='font-size: x-large' class="fa-solid fa-marker"></i>&nbsp;&nbsp;Looking through this chapter, what colors do you note that are found on the priestly clothing? 
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 2 &#8729; Study Question 2** </span><br/><br/>Looking through this chapter, what colors do you note that are found on the priestly clothing? 
 
 &nbsp;
 
-**Notes on the Priesthood**
+_Notes on the Priesthood_
 
 * Priests were appointed by God. God calls them and ordains them. No one could say, “I feel led to go into the ministry.” No dice. If you were not related to Aaron, you could not serve. There were no volunteers. This calling was a divine calling upon the family. (Exodus 28:1)
 
@@ -133,19 +137,20 @@ There is one last piece that the priest would wear and it is very unique. It is 
 
 &nbsp;
 
-?> <i style='font-size: x-large' class="fa-solid fa-marker"></i>&nbsp;&nbsp;Draw a picture of what you think the priestly garments would look like. Do a Google search if you need to, or (better yet) just follow the instructions in Exodus! 
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 2 &#8729; Study Question 3** </span><br/><br/>Draw a picture of what you think the priestly garments would look like. Do a Google search if you need to, or (better yet) just follow the instructions in Exodus! 
 
 &nbsp;
 # Day 3 &middot; _Sacrificial Colors_
 
 This lesson is for all of my Learner friends! :)
 
-`“These are a ___ of the things that were to come; the ___, however, is found in ___."` Colossians 2:17.
+```
+“These are a ___ of the things that were to come; the ___, however, is found in ___." - (Colossians 2:17 NIV)
+```
 
 &nbsp;
 
-?> <i style='font-size: x-large' class="fa-solid fa-marker"></i>&nbsp;&nbsp; Let’s revisit the colors of the garments really quickly. 
-Skimming back at Exodus 28, list all the colors you see. In Exodus 26:1 and 31, what colors were the tabernacle curtains? In Exodus 27:16, what colors were on the East side of the courtyard? I’m sensing a theme here. So what is significant about these colors?
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 3 &#8729; Study Question 1** </span><br/><br/>Let’s revisit the colors of the garments really quickly. Skimming back at Exodus 28, list all the colors you see. In Exodus 26:1 and 31, what colors were the tabernacle curtains? In Exodus 27:16, what colors were on the East side of the courtyard? I’m sensing a theme here. So what is significant about these colors?
 
 &nbsp;
 
@@ -153,7 +158,7 @@ We’ve already talked briefly about the color gold. Gold is associated with God
 
 &nbsp;
 
-?> <span style="font-size:x-large"><i class="fa-solid fa-tv"></i> &nbsp; **Watch** |</span> Murex Snail & Ancient Dye Technique
+?> <span style="font-size:1.25em"><i class="fa-solid fa-tv"></i> &nbsp; **Watch** |</span> Murex Snail & Ancient Dye Technique
 
 <iframe style="width:50vw;height:38.25vh;" src="https://www.youtube.com/embed/-efM4RmDb3c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -167,13 +172,13 @@ To create this gold thread, the artisans needed to melt the gold and draw it thr
 
 &nbsp;
 
-?> <span style="font-size:x-large"><i class="fa-solid fa-tv"></i> &nbsp; **Watch** |</span> Gold Wire Drawing Machine
+?> <span style="font-size:1.25em"><i class="fa-solid fa-tv"></i> &nbsp; **Watch** |</span> Gold Wire Drawing Machine
 
 <iframe style="width:50vw;height:38.25vh;" src="https://www.youtube.com/embed/5TDs81spdYM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 &nbsp;
 
-?> <i style='font-size: x-large' class="fa-solid fa-marker"></i>&nbsp;&nbsp;What did you learn about gold?
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 3 &#8729; Study Question 2** </span><br/><br/>What did you learn about gold?
 
 &nbsp;
 
@@ -185,13 +190,13 @@ They crushed and boiled the snail, and then applied it to the fabric. Depending 
 
 &nbsp;
 
-?> <span style="font-size:x-large"><i class="fa-solid fa-tv"></i> &nbsp; **Watch** |</span> Tunisian produces purple dye from sea snails
+?> <span style="font-size:1.25em"><i class="fa-solid fa-tv"></i> &nbsp; **Watch** |</span> Tunisian produces purple dye from sea snails
 
 <iframe style="width:50vw;height:38.25vh;" src="https://www.youtube.com/embed/XNx3a6h70h0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 &nbsp;
 
-?> <i style='font-size: x-large' class="fa-solid fa-marker"></i>&nbsp;&nbsp;What did you learn about blue? 
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 3 &#8729; Study Question 3** </span><br/><br/>What did you learn about blue? 
 
 &nbsp;
 
@@ -200,16 +205,21 @@ Purple die was derived from a different species of snail. The extract process wa
 Scarlet dye was made from a particular worm called a Cermes vermilion. They have an interesting life cycle. The worm breaks the thin bark of twigs to suck 
 the sap- from which it prepares a waxy scale to protect its soft body. The red dye is in this scale. When the female lays her eggs the larvae hatch and feed on the body of the worm. She gives her live for her children. Now get this. When she gives her life, it leaves a scarlet spot on the branch. But in three days, when that spot dries out, it changes to white and flakes off. 
 
-Isaiah 1:18 says, `“Come now, let us reason together", says the LORD. "Though your sins are like _________ they shall be as _____ as snow; though they are 
-____ as crimson, they shall be like ___."`
+```
+“Come now, let us reason together", says the LORD. "Though your sins are like _________ they shall be as _____ as snow; though they are ____ as crimson, they shall be like ___." - (Isaiah 1:18 NIV)
+```
 
-?> <i style='font-size: x-large' class="fa-solid fa-marker"></i>&nbsp;&nbsp;What are your thoughts?
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 3 &#8729; Study Question 4** </span><br/><br/>What are your thoughts?
 
 
 &nbsp;
 # Day 4 &middot; _Ordination Ceremony_
 
-?> <i style='font-size: x-large' class="fa-solid fa-book-open"></i>&nbsp;&nbsp;Read Exodus 29.
+&nbsp;
+
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-book-open"></i>&nbsp; **Read** |</span> Exodus 29
+
+&nbsp;
 
 In order to be ordained the priests had to do certain things…and attending Bible college was not one of them. They had to wash themselves totally, total immersion like a baptism. They had to be anointed by oil. Sacrifices of animals were given seven days of it, and they were anointed or sprinkled with blood on their garments. I’m going to skim over the sacrifices a bit. 
 
@@ -219,42 +229,54 @@ The priests didn’t just sacrifice the animal, they first put their hand on the
 
 Exodus 29:14 “But burn the bull's flesh and its hide and its intestines &#95;&#95;&#95;&#95; the camp. It is a &#95;&#95;&#95;&#95; offering.” The sin offerings needed to be taken care of outside of the camp.
 
-Hebrews 13:11-12 `“The high priest carries the blood of animals into the Most Holy Place as a sin offering, but the bodies are burned outside the camp. And so Jesus also suffering outside the city gate to make the people holy through his own blood."` Calvary was outside the City Gates. There is a direct line from the old covenant to the new covenant here.
+```
+“The high priest carries the blood of animals into the Most Holy Place as a sin offering, but the bodies are burned outside the camp. And so Jesus also suffering outside the city gate to make the people holy through his own blood." - (Hebrews 13:11-12 NIV)
+``` 
+
+Calvary was outside the City Gates. There is a direct line from the old covenant to the new covenant here.
 
 &nbsp;
 
-?> <i style='font-size: x-large' class="fa-solid fa-marker"></i>&nbsp;&nbsp;How do you see Christ fulfilled in the function of the Old Testament priesthood? I mean, this is just a gross mess. But wait. Let's look at this a little closer. 
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 4 &#8729; Study Question 1** </span><br/><br/>How do you see Christ fulfilled in the function of the Old Testament priesthood? I mean, this is just a gross mess. But wait. Let's look at this a little closer. 
 
 &nbsp;
 
 In Exodus 29:20 they are going to take the ram and “Slaughter it, take some of its blood and put it on the lobes of the right ears of Aaron and his sons, on the thumbs of their right hands, and on the big toes of the right feet. Then splash blood against the sides of the altar.” I know you think I’ve probably lost my mind at this point, but stick with me. The act of slaughtering the ram (which is a male sheep) symbolized a total consecration to one’s life to God. 
 
-Romans 12:1 `"Therefore, I urge you, brothers and sisters, in view of God’s mercy, to offer your bodies as a _____ _____, holy and pleasing to God- this is your true and proper worship.” `
+```
+"Therefore, I urge you, brothers and sisters, in view of God’s mercy, to offer your bodies as a ____ ____, holy and pleasing to God - this is your true and proper worship.” - (Romans 12:1 NIV)
+```
 
 But what do all these random body parts covered in blood mean? Well, I'm glad you asked! They are going to put blood on the lobe of the right ear, on the thumb of their right hand, and the big toe of the right foot. This priest is going to hear the word of God, do the work of God and walk in the ways of God before God's people. This is the idea of consecration. 
 
 Blood is like the spiritual detergent and the priests have to be cleansed before they can participate in cleansing others. They have to deal with their own stuff first. We all have to deal with our own log before we can start surgery on others. If we’re not aware of our own sin, we’re not qualified to help others through theirs. 
 
-Exodus 29:38 `“This is what you are to offer on the altar ____ each day: two lambs a year old.”`
+```
+“This is what you are to offer on the altar ____ each day: two lambs a year old.” - (Exodus 29:38 NIV)
 
-Verse 42 `“For the ____ to come this burnt offering is to be made regularly at the entrance to the tent of meeting, before the LORD. There I will ___ you and ___ to you.”`
+“For the ____ to come this burnt offering is to be made regularly at the entrance to the tent of meeting, before the LORD. There I will ___ you and ___ to you.” - (Exodus 29:42 NIV)
+```
 
 Once the tabernacle is built, the priests are consecrated and their ministry begins, every morning and every night a lamb will be sacrificed. When the day starts, we sacrifice. When the day ends, we sacrifice. It's all about God. It’s all about shedding blood. It's all about keeping a door open so they can approach God day and night. 
 
 Thank God, that Jesus stopped the need for all of those sacrifices. Why, why did there need to be so much blood? Because no matter how many animals died, there would never be enough blood to cover the sins of all those people. Every time God looked at a lamb being sacrificed, He thought, “No, that’s not enough.” But when His Son willingly sacrificed His own life as the Lamb of God, heaven resounded, “YES! It’s enough!”
 
-Hebrews 9:26, “But he [Christ] has appeared ___ and for ___ at the culmination of the ages to do away with sin by the ___ of ___.” Jesus completed the work. Nothing needs to be added to it. 
+```
+“But he [Christ] has appeared ___ and for ___ at the culmination of the ages to do away with sin by the ___ of ___.” Jesus completed the work. Nothing needs to be added to it. - (Hebrews 9:26 NIV)
+```
 
-But what if you sin? 1 John 1:9 “If we ___ our sins, He is ___ and ___ and will ___ our sins and ___ us from all unrighteousness.” And read verse 10 "If we claim we have not sinned, we make Him out to be a ___ and His word is ___ in us.” 
+But what if you sin? 1 John 1:9 `“If we ___ our sins, He is ___ and ___ and will ___ our sins and ___ us from all unrighteousness.”` And read _Verse 10_ `"If we claim we have not sinned, we make Him out to be a ___ and His word is ___ in us.”`
 
 Before they left Egypt, God said He would deliver them, they would be free, and He would dwell among them. “I will be your God and you will be my people.” And here they are, doing just that. Later on, the Children of Israel will be just going through the motions. In Isaiah 1:11 God says, “'The multitude of your sacrifices- what are they to me?’ Says the LORD.”
 
-In Isaiah 1:13 He says, “Stop bringing meaningless offerings! Your incense is detestable to me. New Moons, Sabbaths and convocations- I cannot bear your worthless assemblies.” 
+```
+“Stop bringing meaningless offerings! Your incense is detestable to me. New Moons, Sabbaths and convocations- I cannot bear your worthless assemblies.” - (Isaiah 1:13 NIV)
+```
 
 The Israelites were still holding worship services. They were still going to church. They were ticking off all the boxes. But that’s all they were doing. Their hearts weren’t in it. If that’s you today, you're not alone. But please, please don't stay there. I hope you still have a hunger and thirst for Bible study. Apply the word to yourself- don't just listen to God’s word, DO it, WALK it! 
 
 We can't lose sight of the purpose of all of this. They are building a temple so God can move into the neighborhood. They were preparing a place for 
-_YHWH_. There's no point in making a pilgrimage (like other religions) to Mount Sinai - God is coming with them. They are going to take Him with them. What 
+_Yhwh_. There's no point in making a pilgrimage (like other religions) to Mount Sinai - God is coming with them. They are going to take Him with them. What 
 good news! God doesn't want to dwell in a place where we are not. They live in tents, so God is going to live in a tent... right in the center of town. This is how much God desires to be with us.
 
 &nbsp;
@@ -274,7 +296,7 @@ The rituals performed in the Old Testament are always prophetic of the spiritual
 
 &nbsp;
 
-?> <i style='font-size: x-large' class="fa-solid fa-marker"></i>&nbsp;&nbsp;Read Exodus 30:1-10. 
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-book-open"></i>&nbsp; **Read** |</span> Exodus 30:1-10 
 
 &nbsp;
 
@@ -290,11 +312,15 @@ Burning incense (as well as sacrifice and prayer) was a common practice in Middl
 * Worship offers us a time of reflection and contemplation. It offers us a space for expressing gratitude, seeking forgiveness and gives us peace. 
 * Worship prepares our hearts for the teaching of God’s Word.
 
-2 Chronicles 20:22 “`As they began to sing and praise, the Lord set ambushes against the men of Ammon and Moab and Mount Weir who were invading Judah, and they were defeated.”` (Sounds like another really good reason to sing and praise the Lord, right?)
+```
+“As they began to sing and praise, the Lord set ambushes against the men of Ammon and Moab and Mount Weir who were invading Judah, and they were defeated.” - (2 Chronicles 20:22 NIV)
+``` 
+
+(Sounds like another really good reason to sing and praise the Lord, right?)
 
 &nbsp;
 
-?> <i style='font-size: x-large' class="fa-solid fa-marker"></i>&nbsp;&nbsp;What other ways does worship benefit you, personally? 
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 5 &#8729; Study Question 1** </span><br/><br/>What other ways does worship benefit you, personally? 
 
 &nbsp;
 
@@ -314,7 +340,11 @@ Second, we must be washed clean by means of water- as the high priest was in was
 
 Next we enter the Holy Place. For Moses and the Israelites, the Holy Place was a tent. It would later become a wood and stone building called the Temple. Today, the holy place is within us. In fact, as believers, there is no place we can go where we are not in in His presence. So does that mean that we do not need to go to church for collective worship? Can we just go to the beach and hang out and call that “church?” 
 
-Not according to Hebrews 10:25: `”Do not give up ____ together, as some are in the ___ of doing, but encouraging one another- and all the ___ as you see the Day approaching.”` 
+Not according to Hebrews 10:25
+
+```
+”Do not give up ____ together, as some are in the ___ of doing, but encouraging one another- and all the ___ as you see the Day approaching.” - (Hebrews 10:25)
+``` 
 
 Now, more than ever, we need to encourage each other to go to church for fellowship with other believers. Covid played a dirty trick on the church. It got people out of the habit of being in fellowship with other believers. I understand staying home when you are sick- but that is not what this verse is speaking about. This is a habit. It is habitual and a pattern in once’s life. 
 
@@ -322,7 +352,7 @@ Is there someone in your church that you need to encourage to come back into fel
 
 &nbsp;
 
-?> <i style='font-size: x-large' class="fa-solid fa-marker"></i>&nbsp;&nbsp;Read Revelation 8:1-4. What is the smoke of the incense?
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 5 &#8729; Study Question 2** </span><br/><br/>Read Revelation 8:1-4. What is the smoke of the incense?
 
 &nbsp;
 
@@ -330,16 +360,22 @@ Listen, God doesn’t let us just “wing it” when it comes to worshipping. Th
 
 When Jesus went tot Samaria a woman came to him and basically said, “What's the big deal? Our Father’s worship right here on this mountain. You Jews say Jerusalem is the place to worship.” You can’t make up your own system. 
 
-In John 4:23, Jesus said, `“Yet a time is coming and now come when the ___ worshipers will worship the Father in ___ and in ___, for they are the kind of worshipers the Father seeks.”`
+```
+“Yet a time is coming and now come when the ___ worshipers will worship the Father in ___ and in ___, for they are the kind of worshipers the Father seeks.” - (John 4:23 NIV)
+```
 
 This is the idea that most people have…”Any way is ok. You have your way. I have my way. All paths lead to God.” This is fascinating because they do not buy this philosophy in other areas of their lives. If you had paralysis on your left side, what if your doctor said, “Oh, just go home and follow your heart. When it comes to your condition, just go with the flow. Find your own path. All paths lead to health and healing. It really doesn’t matter as long as you are sincere. Just believe in yourself.”
 
 &nbsp;
 
-?> <i style='font-size: x-large' class="fa-solid fa-marker"></i>&nbsp;&nbsp;If this is not tolerated in medicine, why is it tolerated when it comes to God and spirituality? 
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 5 &#8729; Study Question 3** </span><br/><br/>If this is not tolerated in medicine, why is it tolerated when it comes to God and spirituality? 
 
 &nbsp;
 
 The crazy thing is that in our culture, if you believe in a single truth, you are labeled “intolerant.” But the fact still remains: worship that God accepts is the worship that God prescribes. 
 
-Proverbs 4:12 `“There is a way that appears to be ___, but in the end it leads to ___.”` You certainly can pick your own way. You can choose your own adventure. It just ends up in death - eternal death. 
+```
+“There is a way that appears to be ___, but in the end it leads to ___.” - (Proverbs 14:12 NIV)
+``` 
+
+You certainly can pick your own way. You can choose your own adventure. It just ends up in death - eternal death. 

@@ -6,7 +6,7 @@ The word _Sh'mot_ (שְׁמוֹת) means _Names_<sup>[H8034](https://www.bluelet
 &nbsp;
 # Day 1 &middot; _The Jewish Problem_
 
-?> <i style='font-size: x-large' class="fa-solid fa-book-open"></i>&nbsp;&nbsp;Read Exodus 1.
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-book-open"></i>&nbsp; **Read** |</span> Exodus 1
 
 &nbsp;
 
@@ -38,7 +38,7 @@ How quickly we forget our own history. In our very own country, we are experienc
 
 &nbsp;
 
-?> <span style="font-size: x-large"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 1 &#8729; Study Question 1** </span><br/><br/>How quickly we forget our own history. In our very own country, we are experiencing this in tremendous ways. We have a generation of Americans who really don’t know our history as one nation under _God_. In what ways do we see a lack of historical awareness and forgetting of our own history in society today? What impact does it have?
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 1 &#8729; Study Question 1** </span><br/><br/>How quickly we forget our own history. In our very own country, we are experiencing this in tremendous ways. We have a generation of Americans who really don’t know our history as one nation under _God_. In what ways do we see a lack of historical awareness and forgetting of our own history in society today? What impact does it have?
 
 &nbsp;
 
@@ -60,7 +60,7 @@ This _God_ pattern is something we see today as well. The more that _God’s_ pe
 
 &nbsp;
 
-?> <span style="font-size: x-large"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 1 &#8729; Study Question 2** </span><br/><br/>Why do you think persecution often leads to greater fruitfulness for _God’s_ people? How does it challenge our notions of success and comfort?
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 1 &#8729; Study Question 2** </span><br/><br/>Why do you think persecution often leads to greater fruitfulness for _God’s_ people? How does it challenge our notions of success and comfort?
 
 &nbsp;
 
@@ -84,7 +84,7 @@ _Shiphrah_ and _Puah_ were probably the supervisory midwives, which is why Phara
 
 &nbsp;
 
-?> <span style="font-size: x-large"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 1 &#8729; Study Question 3** </span><br/><br/>The Bible has these two women as heroines. In what other incidences in the Bible do we see women being used by _God_ to play significant roles? How does their inclusion challenge societal norms & expectations? 
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 1 &#8729; Study Question 3** </span><br/><br/>The Bible has these two women as heroines. In what other incidences in the Bible do we see women being used by _God_ to play significant roles? How does their inclusion challenge societal norms & expectations? 
 
 &nbsp;
 
@@ -96,7 +96,7 @@ In Acts 4 and 5, a law was passed that the Gospel could not be preached publicly
 
 &nbsp;
 
-?> <span style="font-size: x-large"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 1 &#8729; Study Question 4** </span><br/><br/>What happened to these midwives in Exodus 1: 19-20? What does the reward of children for the midwives’ obedience teach us about _God’s_ faithfulness and blessings in the face of adversity?
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 1 &#8729; Study Question 4** </span><br/><br/>What happened to these midwives in Exodus 1: 19-20? What does the reward of children for the midwives’ obedience teach us about _God’s_ faithfulness and blessings in the face of adversity?
 
 &nbsp;
 
@@ -114,11 +114,11 @@ Watch The Prince of Egypt Opening Song. If you are paying attention, (and you ha
 
 &nbsp;
 
-?> <span style="font-size:x-large"><i class="fa-solid fa-tv"></i> &nbsp; **Watch** |</span> The Prince of Egypt Opening Song
+?> <span style="font-size:1.25em"><i class="fa-solid fa-tv"></i> &nbsp; **Watch** |</span> The Prince of Egypt Opening Song
 
 <iframe style="width:50vw;height:38.25vh;" src="https://www.youtube.com/embed/aZ9CJIlFGOQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-?> <i class="fa-solid fa-book-open"></i> Read Exodus 2.
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-book-open"></i>&nbsp; **Read** |</span> Exodus 2.
 
 &nbsp;
 
@@ -138,7 +138,7 @@ Moses’ mother hid him for three months. How difficult do you think that would 
 
 &nbsp;
 
-?> <span style="font-size: x-large"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 2 &#8729; Study Question 1** </span><br/><br/>If you had to write the concluding statement in a sermon about Hebrews 11:23 and Exodus 2:2, what would it be?
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 2 &#8729; Study Question 1** </span><br/><br/>If you had to write the concluding statement in a sermon about Hebrews 11:23 and Exodus 2:2, what would it be?
 
 &nbsp;
 
@@ -178,7 +178,7 @@ A word to the moms out there. Jochabed had faith to hide him, but it wasn’t ov
 
 &nbsp;
 
-?> <span style="font-size: x-large"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 2 &#8729; Study Question 2** </span><br/><br/>How does the story of Moses being raised in a foreign culture challenge our assumptions about where and how _God_ can work? 
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 2 &#8729; Study Question 2** </span><br/><br/>How does the story of Moses being raised in a foreign culture challenge our assumptions about where and how _God_ can work? 
 
 &nbsp;
 
@@ -190,9 +190,9 @@ God’s ways are not ours. Egypt would seem like the least likely place for _God
 
 &nbsp;
 
-?> <span style="font-size: x-large"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 2 &#8729; Study Question 3** </span><br/><br/>How does Moses’ failure and subsequent years of exile in the desert contribute to his growth and preparation for leadership? 
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 2 &#8729; Study Question 3** </span><br/><br/>How does Moses’ failure and subsequent years of exile in the desert contribute to his growth and preparation for leadership? 
 
-?> <span style="font-size: x-large"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 2 &#8729; Study Question 4** </span><br/><br/>Have you felt like you are in a holding pattern or experiencing delays in your life? 
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 2 &#8729; Study Question 4** </span><br/><br/>Have you felt like you are in a holding pattern or experiencing delays in your life? 
 
 &nbsp;
 
@@ -203,7 +203,7 @@ How can you find comfort and hope in knowing that _God_ hears your cries, feels 
 &nbsp;
 # Day 3 &middot; _What’s in a name?_
 
-?> <i class="fa-solid fa-book-open"></i> Read Exodus 3. 
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-book-open"></i>&nbsp; **Read** |</span> Exodus 3. 
 
 &nbsp;
 
@@ -211,7 +211,7 @@ Moses is now a shepherd. He did not own his own flock, as he was tending his fat
 
 &nbsp;
 
-?> <span style="font-size: x-large"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 3 &#8729; Study Question 1** </span><br/><br/>Think of the differences between who he was in Egypt and who he is now. What differences in his lifestyle can you think of? 
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 3 &#8729; Study Question 1** </span><br/><br/>Think of the differences between who he was in Egypt and who he is now. What differences in his lifestyle can you think of? 
 
 &nbsp;
 
@@ -229,7 +229,7 @@ The removal of one’s sandals was, and remains, a standard Middle Eastern sign 
 
 &nbsp;
 
-?> <span style="font-size: x-large"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 3 &#8729; Study Question 2** </span><br/><br/>_God_ introduces Himself to Moses in verse 6. How does He do that? What significance does His introduction hold?
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 3 &#8729; Study Question 2** </span><br/><br/>_God_ introduces Himself to Moses in verse 6. How does He do that? What significance does His introduction hold?
 
 &nbsp;
 
@@ -264,7 +264,7 @@ _God_ is calling Moses to be His instrument of deliverance. This is a _God_ patt
 
 &nbsp;
 
-?> <span style="font-size: x-large"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 3 &#8729; Study Question 3** </span><br/><br/>What characteristics does _God_ look for in the people He chooses to carry out His plan? How do these characteristics apply to you?
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 3 &#8729; Study Question 3** </span><br/><br/>What characteristics does _God_ look for in the people He chooses to carry out His plan? How do these characteristics apply to you?
 
 &nbsp;
 
@@ -272,7 +272,7 @@ _God_ is looking for specific characteristics of the people He chooses. _God_ wa
 
 &nbsp;
 
-?> <span style="font-size: x-large"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 3 &#8729; Study Question 4** </span><br/><br/>What need do you see in your church that you feel unworthy of filling, that you can’t possibly do, that if _God_ doesn’t do it all, it simply can’t happen? 
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 3 &#8729; Study Question 4** </span><br/><br/>What need do you see in your church that you feel unworthy of filling, that you can’t possibly do, that if _God_ doesn’t do it all, it simply can’t happen? 
 
 &nbsp;
 
@@ -280,7 +280,7 @@ _God_ understood the attributes of the man that He would use to bring His people
 
 &nbsp;
 
-?> <span style="font-size: x-large"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 3 &#8729; Study Question 5** </span><br/><br/>What are you waiting for?
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 3 &#8729; Study Question 5** </span><br/><br/>What are you waiting for?
 
 &nbsp;
 
@@ -294,7 +294,7 @@ _God_ gave Moses what he was looking for, His characteristics. `“I Am that I A
 
 &nbsp;
 
-?> <span style="font-size:x-large"><i class="fa-solid fa-tv"></i> &nbsp; **Watch** |</span> Our God, YAHWEH
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-tv"></i> &nbsp; **Watch** |</span> Our God, YAHWEH
 
 <iframe style="width:50vw;height:38.25vh;" src="https://www.youtube.com/embed/K1lXPwgPgzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -303,11 +303,11 @@ _God_ gave Moses what he was looking for, His characteristics. `“I Am that I A
 
 Exodus 4 is just a continuation of Exodus 3. We are still in the same conversation between Moses and _God_ at the burning bush. 
 
-?> <i class="fa-solid fa-book-open"></i> Read Exodus 4. 
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-book-open"></i>&nbsp; **Read** |</span> Exodus 4. 
 
 &nbsp;
 
-?> <span style="font-size: x-large"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 4 &#8729; Study Question 1** </span><br/><br/>In Exodus 4, Moses expresses doubts about his ability to fulfill God’s calling. Have you ever doubted yourself in a similar way? How did you overcome those doubts? Let’s make a list of strategies we can share! Moses is a little nervous. God is saying some really great things, but Moses is not buying that he’s “the man to do it.”
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 4 &#8729; Study Question 1** </span><br/><br/>In Exodus 4, Moses expresses doubts about his ability to fulfill God’s calling. Have you ever doubted yourself in a similar way? How did you overcome those doubts? Let’s make a list of strategies we can share! Moses is a little nervous. God is saying some really great things, but Moses is not buying that he’s “the man to do it.”
 
 &nbsp;
 
@@ -336,7 +336,7 @@ other gods is exactly what it meant.
 
 &nbsp;
 
-?> <span style="font-size: x-large"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 4 &#8729; Study Question 2** </span><br/><br/>We can think of ourselves as superior in our thinking, but don’t do that. Israel was in the beginning stages of their walk with the Lord. When you first accepted _Christ_, where were you and how did your understanding of _God_ and the world change? 
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 4 &#8729; Study Question 2** </span><br/><br/>We can think of ourselves as superior in our thinking, but don’t do that. Israel was in the beginning stages of their walk with the Lord. When you first accepted _Christ_, where were you and how did your understanding of _God_ and the world change? 
 
 &nbsp;
 
@@ -344,7 +344,7 @@ _God_ found you right where you were- in your mess. We didn’t get our lives al
 
 &nbsp;
 
-?> <span style="font-size: x-large"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 4 &#8729; Study Question 3** </span><br/><br/>What was Mose’s last ditch effort to avoid accepting God’s calling on his life in verse 10? Can you relate to this kind of resistance to following a divine calling?
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 4 &#8729; Study Question 3** </span><br/><br/>What was Mose’s last ditch effort to avoid accepting God’s calling on his life in verse 10? Can you relate to this kind of resistance to following a divine calling?
 
 &nbsp;
 
@@ -360,7 +360,7 @@ Wrong answer. _God_ is going to have his older brother Aaron speak for him. So, 
 
 &nbsp;
 
-?> <span style="font-size: x-large"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 4 &#8729; Study Question 4** </span><br/><br/>Would you want the responsibility and authority that Moses had in speaking and performing miracles on behalf of _God_? What pros and cons do you see in such a role?
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 4 &#8729; Study Question 4** </span><br/><br/>Would you want the responsibility and authority that Moses had in speaking and performing miracles on behalf of _God_? What pros and cons do you see in such a role?
 
 &nbsp;
 
@@ -372,7 +372,7 @@ THINK ABOUT IT: Has _God_ ever comforted you? How?
 
 &nbsp;
 
-?> <span style="font-size: x-large"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 4 &#8729; Study Question 5** </span><br/><br/>The _Lord_ speaks to Moses early on his trip to Egypt. He is going to tell Moses what is going to happen. Read the end of _Verse 21_. What do you think about what _God_ said regarding Pharaoh’s heart? 
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 4 &#8729; Study Question 5** </span><br/><br/>The _Lord_ speaks to Moses early on his trip to Egypt. He is going to tell Moses what is going to happen. Read the end of _Verse 21_. What do you think about what _God_ said regarding Pharaoh’s heart? 
 
 &nbsp;
 
@@ -399,7 +399,7 @@ _Lord_, keep us in your perfect will. Keep our hearts soft toward Your voice. He
 &nbsp;
 # Day 5 &middot; _The name of the Lord_
 
-?> <i class="fa-solid fa-book-open"></i> Read Exodus 5-6:1.
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-book-open"></i>&nbsp; **Read** |</span> Exodus 5-6:1.
 
 &nbsp;
 
@@ -411,7 +411,7 @@ We are going to see another _God_-pattern here. _God_ first comes with revelatio
 
 &nbsp;
 
-?> <span style="font-size: x-large"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 5 &#8729; Study Question 1** </span><br/><br/>In what ways does _God’s_ pattern of revealing grace and mercy before judgment apply to our own lives and experiences? 
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 5 &#8729; Study Question 1** </span><br/><br/>In what ways does _God’s_ pattern of revealing grace and mercy before judgment apply to our own lives and experiences? 
 
 &nbsp;
 
@@ -423,7 +423,7 @@ Satan WILL submit to _God’s_ power. There is no question. But it’s not going
 
 &nbsp;
 
-?> <span style="font-size: x-large"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 5 &#8729; Study Question 2** </span><br/><br/>How does satan’s opposition and resistance intensify when someone decides to pursue a godly life? Have you experiences this in your own spiritual journey?<br/><br/>Record how many times you read the word _Lord_ and _God_ in this chapter.
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 5 &#8729; Study Question 2** </span><br/><br/>How does satan’s opposition and resistance intensify when someone decides to pursue a godly life? Have you experiences this in your own spiritual journey?<br/><br/>Record how many times you read the word _Lord_ and _God_ in this chapter.
 
 &nbsp;
 
@@ -437,7 +437,7 @@ Pharaoh is not buying it. These Hebrews did not belong to this “God”… they
 
 &nbsp;
 
-?> <span style="font-size: x-large"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 4 &#8729; Study Question 3** </span><br/><br/>Moses and Aaron tell Pharaoh that if they don’t obey that (_Verse 3_) `“God may ____"`.
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 4 &#8729; Study Question 3** </span><br/><br/>Moses and Aaron tell Pharaoh that if they don’t obey that (_Verse 3_) `“God may ____"`.
 
 &nbsp;
 
@@ -458,7 +458,7 @@ How did the Hebrew overseers react to Pharaoh not giving them straw (_Verses 15-
 
 &nbsp;
 
-?> <span style="font-size: x-large"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 5 &#8729; Study Question 4** </span><br/><br/>Have you ever faced consequences or paid a price for following God? What was that experience like for you? 
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 5 &#8729; Study Question 4** </span><br/><br/>Have you ever faced consequences or paid a price for following God? What was that experience like for you? 
 
 &nbsp;
 

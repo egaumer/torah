@@ -6,23 +6,23 @@ The sixteenth reading from the _Torah_ is named _B'shalach_ (בשלח)<sup>[H797
 &nbsp;
 # Day 1 &middot; _I've Been Redeemed_
 
-?> <i style='font-size: x-large' class="fa-solid fa-book-open"></i>&nbsp;&nbsp;Read Romans 6:15-18.
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-book-open"></i>&nbsp; **Read** |</span> Romans 6:15-18.
 
 We are all slaves to something. Some people are slaves to their jobs- they are driven by it. You can be a slave of what you own. You can be a slave to what you don’t own, but you do everything you can so you can own it. That’s slavery. Are you a slave to other people’s opinions? I’m not sure the “like” button on Facebook did anyone any favors. Some people are a slave to getting other people’s approval.
 
-?> <span style="font-size: x-large"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 1 &#8729; Study Question 1** </span><br/><br/>How is being a slave of righteousness different from being a slave to sin? _Think About It_: What are some things in your life that you might be a slave to? How do they affect your life and relationship with God? 
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 1 &#8729; Study Question 1** </span><br/><br/>How is being a slave of righteousness different from being a slave to sin? _Think About It_: What are some things in your life that you might be a slave to? How do they affect your life and relationship with God? 
 
 As we go through Exodus, we are going to see the children of Israel are redeemed out of Egypt. They have been taken out of Egypt, but Egypt has not been taken out of them. Some of them want Egypt back. Do you know anyone like that? 
 
 &nbsp;
 
-?> <i style='font-size: x-large' class="fa-solid fa-book-open"></i>&nbsp;&nbsp;Read Exodus 13:1-16.
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-book-open"></i>&nbsp; **Read** |</span> Exodus 13:1-16.
 
 &nbsp;
 
 The first thing the LORD says to Moses is, `“Consecrate to me every firstborn male. The first offspring of every wombamong the Israelites belongs to me, whether human or animal.”`
 
-?> <span style="font-size: x-large"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 1 &#8729; Study Question 2** </span><br/><br/>Given the circumstances of chapter 12, why do you think this is so significant? 
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 1 &#8729; Study Question 2** </span><br/><br/>Given the circumstances of chapter 12, why do you think this is so significant? 
 
 This idea of redemption is important in the Bible, and it shows how God saves and delivers people. It's a bit hard for people to understand, even today. In the Bible, the firstborn refers to the first son born in a family, whether animal or human. Back then, fathers would pay money to a priest to "redeem" their sons within a month of their birth by bringing an animal to sacrifice. 
 
@@ -44,7 +44,7 @@ There have been so many times when parents have come to dedicate their children 
 
 &nbsp;
 
-?> <span style="font-size: x-large"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 1 &#8729; Study Question 3** </span><br/><br/>What are some strategies for sharing our personal testimonies with others, particularly with our children?
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 1 &#8729; Study Question 3** </span><br/><br/>What are some strategies for sharing our personal testimonies with others, particularly with our children?
 
 &nbsp;
 
@@ -58,7 +58,7 @@ God makes it perfectly clear that there is not an option but to redeem firstborn
 
 Here’s the interesting thing, while God was redeeming the firstborn sons, other cultures around Israel were killing theirs. Yes, you heard that right. The Phoenicians sacrifices their firstborn son to their false god and goddesses. They said it would bring honor to their god. God never wanted that. He hated child sacrifice, and still hates it today. Our culture still practices child sacrifice, but it often happens before birth in the form of abortion. God says, “NO! Don’t do that! They are mine! Redeem them!”
 
-?> <i style='font-size: x-large' class="fa-solid fa-book-open"></i>&nbsp;&nbsp;Read Exodus 13:17-22.
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-book-open"></i>&nbsp; **Read** |</span> Exodus 13:17-22.
 
 God did not take the Israelites on “the way of the Philistines” - that was the northern route and a straight shot to Canaan. But it was also the most used route by travelers. Had they gone that route, it would have taken them approximately 2-3 weeks to get to the Promised Land. Anyone remember how long it actually took them? Yeah… 40 years! That’s a big difference! 
 
@@ -82,13 +82,13 @@ And in Revelation 1:7 it says, `“‘Look, he is coming with the clouds,’ and
 
 &nbsp;
 
-?> <span style="font-size: x-large"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 1 &#8729; Study Question 4** </span><br/><br/> Can you find any other instances in scripture where God is connected with a cloud? 
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 1 &#8729; Study Question 4** </span><br/><br/> Can you find any other instances in scripture where God is connected with a cloud? 
 
 
 &nbsp;
 # Day 2 &middot; _The Red Sea_
 
-?> <i style='font-size: x-large' class="fa-solid fa-book-open"></i>&nbsp;&nbsp;Read Exodus 14. 
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-book-open"></i>&nbsp; **Read** |</span> Exodus 14. 
 
 How did Pharaoh know where the Israelites were? Well, 3 million people, plus hundreds of thousands of animals are not easy to hide. The Israelites were not blazing a new trail, they were taking well-known routes. Egyptian scouts would report back using smoke signals, signal fires, and reflecting light off of shiny objects. 
 
@@ -106,7 +106,7 @@ What are the Israelite’s eyes seeing right now? I’m sure the Hebrew watchman
 
 &nbsp;
 
-?> <span style="font-size: x-large"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 2 &#8729; Study Question 1** </span><br/><br/>Which cloud are you looking at? 
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 2 &#8729; Study Question 1** </span><br/><br/>Which cloud are you looking at? 
 
 &nbsp;
 
@@ -116,7 +116,7 @@ Yes, God led them into that hardship. God led them into that vulnerable spot. Wh
 
 &nbsp;
 
-?> <span style="font-size: x-large"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 2 &#8729; Study Question 2** </span><br/><br/>Are you in a spot where you can’t see any way at all? Are you focused on the crises or the Christ? 
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 2 &#8729; Study Question 2** </span><br/><br/>Are you in a spot where you can’t see any way at all? Are you focused on the crises or the Christ? 
 
 
 &nbsp;
@@ -139,7 +139,7 @@ But first God does something that should sound very familiar to both the Israeli
 
 &nbsp;
 
-?> <span style="font-size: x-large"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 4 &#8729; Study Question 3** </span><br/><br/>Review the words “darkness” and “light” on your study guide
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 4 &#8729; Study Question 3** </span><br/><br/>Review the words “darkness” and “light” on your study guide
 
 &nbsp;
 
@@ -167,7 +167,7 @@ This chapter ends with the Israelites fearing the LORD and putting their trust i
 &nbsp;
 # Day 3 &middot; _The First Worship Song_
 
-?> <i style='font-size: x-large' class="fa-solid fa-book-open"></i>&nbsp;&nbsp;Read Exodus 15: 1-21.
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-book-open"></i>&nbsp; **Read** |</span> Exodus 15: 1-21.
 
 The first twenty-one verses of Exodus are a song- often called _The Song of Moses_. In Hebrew, this song rhymes as a poem. This is the very first song recorded in the Bible! It’s a song of redemption. The children of Israel are throwing a party in the desert! They would have had musical instruments and the entire congregation would sing this song. It was such a hit that it was sung as the closing hymn of every Sabbath service for thousands of years! How’s that for a #1 hit?! 
 
@@ -175,7 +175,7 @@ After they are delivered through the Red Sea and saw the enemy lying dead on the
 
 &nbsp;
 
-?> <span style="font-size: x-large"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 3 &#8729; Study Question 1** </span><br/><br/>Just glancing at this poem, what emotionally charged words do you read? I’ll start you off: shattered, smashed… What do you think is the main theme is of this poem?
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 3 &#8729; Study Question 1** </span><br/><br/>Just glancing at this poem, what emotionally charged words do you read? I’ll start you off: shattered, smashed… What do you think is the main theme is of this poem?
 
 &nbsp;
 
@@ -185,7 +185,7 @@ The first worship song written was about redemption. Moses’ song of worship is
 
 &nbsp;
 
-?> <span style="font-size: x-large"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 3 &#8729; Study Question 2** </span><br/><br/>Worship needs to be focused. Worship is about God. In these first 18 verses, how many times do you count the word “LORD”? It’s all about Him! Now Moses did a lot of things in this story, but he is not mentioned one time in the song. He was being used by God as an instrument. Worship should be focused on God and not man.
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 3 &#8729; Study Question 2** </span><br/><br/>Worship needs to be focused. Worship is about God. In these first 18 verses, how many times do you count the word “LORD”? It’s all about Him! Now Moses did a lot of things in this story, but he is not mentioned one time in the song. He was being used by God as an instrument. Worship should be focused on God and not man.
 
 &nbsp;
 
@@ -203,7 +203,7 @@ I saw a bumper sticker that said, “God is my co-pilot.” Um… God is no one�
 
 &nbsp;
 
-?> <span style="font-size: x-large"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 3 &#8729; Study Question 3** </span><br/><br/>What nations were mentioned in verses 14-15?
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 3 &#8729; Study Question 3** </span><br/><br/>What nations were mentioned in verses 14-15?
 
 &nbsp;
 
@@ -213,9 +213,9 @@ This song was also prophetic, reminding Israel that even they would be in the mi
 
 &nbsp;
 
-?> <span style="font-size: x-large"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 3 &#8729; Study Question 4** </span><br/><br/>What are your favorite worship songs? 
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 3 &#8729; Study Question 4** </span><br/><br/>What are your favorite worship songs? 
 
-?> <i style='font-size: x-large' class="fa-solid fa-book-open"></i>&nbsp;&nbsp;Read Exodus 15:22-27.
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-book-open"></i>&nbsp; **Read** |</span> Exodus 15:22-27
 
 &nbsp;
 
@@ -233,7 +233,7 @@ Do you believe that God can lead you into difficult times and places? Jesus made
 
 &nbsp;
 
-?> <span style="font-size: x-large"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 3 &#8729; Study Question 5** </span><br/><br/>This is always a shock. God is going to lead you into some interesting places. He might lead you to a Red Sea, or a place of Marah- a place of bitterness. This is why God wants you to live by faith. When you come to a bitter place and there is no water, you can trust God. Maybe your Marah is a lost job, or a bad medical diagnosis. Have you been to Marah? Have you been there more than once?
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 3 &#8729; Study Question 5** </span><br/><br/>This is always a shock. God is going to lead you into some interesting places. He might lead you to a Red Sea, or a place of Marah- a place of bitterness. This is why God wants you to live by faith. When you come to a bitter place and there is no water, you can trust God. Maybe your Marah is a lost job, or a bad medical diagnosis. Have you been to Marah? Have you been there more than once?
 
 &nbsp;
 
@@ -252,7 +252,7 @@ An oasis is coming. You won’t be in this bitterness forever. There is a place 
 &nbsp;
 # Day 4 &middot; _Manna From Heaven_
 
-?> <i style='font-size: x-large' class="fa-solid fa-book-open"></i>&nbsp;&nbsp;Read Exodus 16.
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-book-open"></i>&nbsp; **Read** |</span> Exodus 16.
 
 God is going to start teaching Israel how to live as a redeemed people- a people bought with the price of a life. The Israelites had just watched the power of God demonstrated. But they’re hungry now. It’s almost as if they had forgotten what they have seen and now feel like they’re hung out to dry and life its’t worth living. With their own eyeballs they saw God open a body of water, provide a cloud for shade during the day and fire for warmth at night. They were given enough water for over 3 million of them, and their animals. But have hunger amnesia. 
 
@@ -260,7 +260,7 @@ We often forget what we should remember and remember what we should forget! We l
 
 &nbsp;
 
-?> <span style="font-size: x-large"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 4 &#8729; Study Question 1** </span><br/><br/>They are 2-months into their wilderness journey and what do they start doing? You guessed it! They start complaining. We are going to see this pattern over and over again. And who are they complaining about this time? Moses and Aaron, their leaders. I wouldn’t have made a good Moses…you probably wouldn’t either. Because when they said, “If only we had died by the LORD’s hand”… I would have shouted, “Amen!” It’s going to get really old for Moses to hear all the complaining year after year. Now we’ve heard this complaint before, but it is a little comical to read it in hind sight. What is their complaint in verse 3?
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 4 &#8729; Study Question 1** </span><br/><br/>They are 2-months into their wilderness journey and what do they start doing? You guessed it! They start complaining. We are going to see this pattern over and over again. And who are they complaining about this time? Moses and Aaron, their leaders. I wouldn’t have made a good Moses…you probably wouldn’t either. Because when they said, “If only we had died by the LORD’s hand”… I would have shouted, “Amen!” It’s going to get really old for Moses to hear all the complaining year after year. Now we’ve heard this complaint before, but it is a little comical to read it in hind sight. What is their complaint in verse 3?
 
 &nbsp;
 
@@ -278,7 +278,7 @@ This manna will be an ongoing test, continual training for them to depend on God
 
 &nbsp;
 
-?> <span style="font-size: x-large"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 4 &#8729; Study Question 2** </span><br/><br/>What happened when they didn’t obey and gathered more manna than they needed and kept it till the next day? 
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 4 &#8729; Study Question 2** </span><br/><br/>What happened when they didn’t obey and gathered more manna than they needed and kept it till the next day? 
 
 &nbsp;
 
@@ -288,7 +288,7 @@ In verses 10-11, Moses tells the community to come before the LORD and look up t
 
 &nbsp;
 
-?> <span style="font-size: x-large"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 4 &#8729; Study Question 3** </span><br/><br/>Before we start condemning them, we have to ask ourselves, “Has God ever gone unnoticed in our lives? Have you ever just quit looking to God for help? When?” I think that’s a question we can all say “yes” to. 
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 4 &#8729; Study Question 3** </span><br/><br/>Before we start condemning them, we have to ask ourselves, “Has God ever gone unnoticed in our lives? Have you ever just quit looking to God for help? When?” I think that’s a question we can all say “yes” to. 
 
 &nbsp;
 
@@ -320,7 +320,7 @@ Let’s brainstorm all the ways manna is like the Word of God:
 
 &nbsp;
 
-?> <span style="font-size: x-large"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 4 &#8729; Study Question 4** </span><br/><br/>What other ways do you see manna as the Word of God? 
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 4 &#8729; Study Question 4** </span><br/><br/>What other ways do you see manna as the Word of God? 
 
 &nbsp;
 
@@ -336,9 +336,9 @@ The people in Jesus’ day basically told him that when He fed the 5,000 that wa
 &nbsp;
 # Day 5 &middot; _Confrontation From Within and Without_
 
-?> <i style='font-size: x-large' class="fa-solid fa-book-open"></i>&nbsp;&nbsp;Read Exodus 17:1-7. Confrontation From Within.
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-book-open"></i>&nbsp; **Read** |</span> Exodus 17:1-7. Confrontation From Within.
 
-?> <span style="font-size: x-large"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 5 &#8729; Study Question 1** </span><br/><br/>If Moses had a playlist, what would it be? On the Road Again? Long and Winding Road? How about, I Can’t Get No Satisfaction? What’s your playlist for Moses?
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 5 &#8729; Study Question 1** </span><br/><br/>If Moses had a playlist, what would it be? On the Road Again? Long and Winding Road? How about, I Can’t Get No Satisfaction? What’s your playlist for Moses?
 
 Let’s review the list of miracles that the Israelites have seen up until this point. On your worksheet list as many as you can think of starting with them being slaves in Egypt. How is it that they have so quickly forgotten all that God had done for them? How is it that they are physically looking at avisible cloud by day and fire by night and have God’s real presence actually with them, and not understand that God is in control? 
 
@@ -356,7 +356,7 @@ And once again, God is merciful. He doesn’t rebuke them, He simply provides fo
 
 &nbsp;
 
-?> <span style="font-size: x-large"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 5 &#8729; Study Question 2** </span><br/><br/>This striking of the rock is another shadow of the Messiah. Christ is called the Rock, and would be broken so He could provide living water for us. See 1 Corinthians 10:1-4. Why do you think Christ is depicted as a rock? 
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 5 &#8729; Study Question 2** </span><br/><br/>This striking of the rock is another shadow of the Messiah. Christ is called the Rock, and would be broken so He could provide living water for us. See 1 Corinthians 10:1-4. Why do you think Christ is depicted as a rock? 
 
 &nbsp;
 
@@ -366,7 +366,7 @@ One more note: later, Israel will again come to a place where there is no water.
 
 &nbsp;
 
-?> <i style='font-size: x-large' class="fa-solid fa-book-open"></i>&nbsp;&nbsp;Read Exodus 17:8-15. Confrontation From Without.
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-book-open"></i>&nbsp; **Read** |</span> Exodus 17:8-15. Confrontation From Without.
 
 &nbsp;
 
@@ -394,9 +394,9 @@ Moses is in a posture of his hands raised in worship. In spiritual battles, we n
 
 &nbsp;
 
-?> <span style="font-size: x-large"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 5 &#8729; Study Question 3** </span><br/><br/>Are you needing your Heavenly Father to pick you up today? People raise their hands as a signal for distress. It is also a sign of excitement and celebration! It’s also a sign of surrender. Which posture most fits your situation today?
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 5 &#8729; Study Question 3** </span><br/><br/>Are you needing your Heavenly Father to pick you up today? People raise their hands as a signal for distress. It is also a sign of excitement and celebration! It’s also a sign of surrender. Which posture most fits your situation today?
 
-?> <span style="font-size: x-large"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 5 &#8729; Study Question 4** </span><br/><br/>And because Moses’ hands became heavy, his friends and family helped to support him. Isn’t that beautiful? Who is in your posse? Who do you trust to help you when you are in a spiritual war? Don’t for a minute think that a spiritual war is a one-and-done war. It’s for life. Find a posse that you can trust! Write their names down and start praying for them.
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 5 &#8729; Study Question 4** </span><br/><br/>And because Moses’ hands became heavy, his friends and family helped to support him. Isn’t that beautiful? Who is in your posse? Who do you trust to help you when you are in a spiritual war? Don’t for a minute think that a spiritual war is a one-and-done war. It’s for life. Find a posse that you can trust! Write their names down and start praying for them.
 
 &nbsp;
 

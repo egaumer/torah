@@ -9,7 +9,9 @@ The title _Mishpatim_ comes from the first words of the first verse of the readi
 &nbsp;
 # Day 1 &middot; _tbd_
 
-?> <i style='font-size: x-large' class="fa-solid fa-book-open"></i>&nbsp;&nbsp;Read Exodus 21:1-6. 
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-book-open"></i>&nbsp; **Read** |</span> Exodus 21:1-6 
+
+&nbsp;
 
 The laws of Exodus 21 are among the most controversial of the Old Testament laws. People have asked, “Why would you worship a God who allows Israel to keep slaves?” We are going to look at rules and regulations from a standpoint of the God principle they embody. Each of these laws and regulations cover various aspects of social justice, personal injury, and property rights in ancient Israelite society. But they are also valid principles for us. Yep, even in 2023!
 
@@ -19,7 +21,7 @@ We must remember that Israel had just left slavery. They experienced it in its u
 
 &nbsp;
 
-?> <i style='font-size: x-large' class="fa-solid fa-pen-to-square"></i>&nbsp;&nbsp;How did the experience of slavery shape the laws that were given to the Israelites?
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 1 &#8729; Study Question 1** </span><br/><br/>How did the experience of slavery shape the laws that were given to the Israelites?
 
 &nbsp;
 
@@ -37,7 +39,7 @@ Servants in the Old Testament were chosen or mutually arranged, of limited durat
 
 &nbsp;
 
-?> <i style='font-size: x-large' class="fa-solid fa-marker"></i>&nbsp;&nbsp;Can you think of examples from the passage that show how the laws protected the well-being of the people enslaved?
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 1 &#8729; Study Question 2** </span><br/><br/>Can you think of examples from the passage that show how the laws protected the well-being of the people enslaved?
 
 &nbsp;
 
@@ -53,9 +55,9 @@ When Christians talk about “the law," we ordinarily think of lists of rules of
 
 &nbsp;
 
-?> <i style='font-size: x-large' class="fa-solid fa-pen-to-square"></i>&nbsp;&nbsp;What does it mean to say we are not under the law? Does it mean we do not have to keep God’s laws? For example, does it mean that we can commit adultery and theft? Of course not. No one would say that. 
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 1 &#8729; Study Question 3** </span><br/><br/>What does it mean to say we are not under the law? Does it mean we do not have to keep God’s laws? For example, does it mean that we can commit adultery and theft? Of course not. No one would say that. 
 
-?> <i style='font-size: x-large' class="fa-solid fa-book-open"></i>&nbsp;&nbsp;The Sanctity of Life: Read Exodus 21:7-11.
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-book-open"></i>&nbsp; **Read** |</span> The Sanctity of Life: Exodus 21:7-11
 
 &nbsp;
 
@@ -90,14 +92,14 @@ When Jesus talks in the Sermon on the Mount, He’s not raising the bar on the T
 
 &nbsp;
 
-?> <i style='font-size: x-large' class="fa-solid fa-pen-to-square"></i>&nbsp;&nbsp;What values and principles can we learn from these laws, such as equity, respect, and compassion?
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 1 &#8729; Study Question 4** </span><br/><br/>What values and principles can we learn from these laws, such as equity, respect, and compassion?
 
 &nbsp;
 # Day 2 &middot; _Protecting the Innocent_
 
-?> <i style='font-size: x-large' class="fa-solid fa-book-open"></i>&nbsp;&nbsp;Read Exodus 22.
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-book-open"></i>&nbsp; **Read** |</span> Exodus 22
 
-?> <i style='font-size: x-large' class="fa-solid fa-pen-to-square"></i>&nbsp;&nbsp;How does the law in Exodus 22 address the issue of theft and property protection?
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 2 &#8729; Study Question 1** </span><br/><br/>How does the law in Exodus 22 address the issue of theft and property protection?
 
 &nbsp;
 
@@ -125,7 +127,7 @@ This is speaking of premarital sex. If a young man and young woman get together,
 
 &nbsp;
 
-?> <i style='font-size: x-large' class="fa-solid fa-pen-to-square"></i>&nbsp;&nbsp;What does the law about premarital sex in verse 16 teach us about responsibility and consequences?
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 2 &#8729; Study Question 2** </span><br/><br/>What does the law about premarital sex in verse 16 teach us about responsibility and consequences?
 
 &nbsp;
 
@@ -139,15 +141,19 @@ Idolatry, in verse 20, became the greatest temptation for the children of Israel
 
 &nbsp;
 
-?> <i style='font-size: x-large' class="fa-solid fa-pen-to-square"></i>&nbsp;&nbsp;Why do you think idolatry was a temptation for the children of Israel? 
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 2 &#8729; Study Question 3** </span><br/><br/>Why do you think idolatry was a temptation for the children of Israel? 
 
 
-?> <i style='font-size: x-large' class="fa-solid fa-pen-to-square"></i>&nbsp;&nbsp;How can we resist peer pressure in our own lives? Give three realistic examples. 
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 2 &#8729; Study Question 4** </span><br/><br/>How can we resist peer pressure in our own lives? Give three realistic examples. 
 
 &nbsp;
 # Day 3 &middot; _It's Personal_
 
-?> <i style='font-size: x-large' class="fa-solid fa-book-open"></i>&nbsp;&nbsp;Read Exodus 20:8-10 and 23:1-13.
+&nbsp;
+
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-book-open"></i>&nbsp; **Read** |</span> Exodus 20:8-10 and 23:1-13
+
+&nbsp;
 
 The Fourth Commandment gets revisited in this chapter. There are five things we need to notice: 
 
@@ -162,7 +168,7 @@ In Exodus 23:10-13, God is using the _Sabbath_ (שַׁבָּת)<sup>[H7676](http
 
 &nbsp;
 
-?> <i style='font-size: x-large' class="fa-solid fa-pen-to-square"></i>&nbsp;&nbsp;List the benefits of resting from work? 
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 3 &#8729; Study Question 1** </span><br/><br/>List the benefits of resting from work? 
 
 &nbsp;
 
@@ -183,9 +189,9 @@ Well meaning people will say, "Id rather burn out that rust out.” In other wor
 nothing is bad. Now, those of you know me know that I am completely speaking to myself in this chapter. I love to work. I 
 enjoy being busy. Resting is not something I do well. Does anyone else understand that?! 
 
-&nbsp
+&nbsp;
 
-?> <i style='font-size: x-large' class="fa-solid fa-pen-to-square"></i>&nbsp;&nbsp;How does taking a Sabbath rest help you, personally? 
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 3 &#8729; Study Question 2** </span><br/><br/>How does taking a Sabbath rest help you, personally? 
 
 &nbsp;
 
@@ -203,7 +209,7 @@ This was for all the people and animals, and visitors. It wasn’t just for reli
 
 &nbsp;
 
-?> <i style='font-size: x-large' class="fa-solid fa-pen-to-square"></i>&nbsp;&nbsp;Parents, when was the last time your children had a day off? An honest Sabbath rest? Think about it. We are so scheduled. Our schedules often revolve around the busy lives of our children. They have school, after school sports, lessons, and the list goes on and on. 
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 3 &#8729; Study Question 3** </span><br/><br/>Parents, when was the last time your children had a day off? An honest Sabbath rest? Think about it. We are so scheduled. Our schedules often revolve around the busy lives of our children. They have school, after school sports, lessons, and the list goes on and on. 
 
 &nbsp;
 
@@ -225,12 +231,14 @@ Romans 14:5 says, `“One person considers one day more sacred than another; ano
 
 &nbsp;
 
-?> <i style='font-size: x-large' class="fa-solid fa-pen-to-square"></i>&nbsp;&nbsp;How would you respond to Romans 14:5 as it pertains to the Sabbath? 
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 3 &#8729; Study Question 4** </span><br/><br/>How would you respond to Romans 14:5 as it pertains to the Sabbath? 
 
 &nbsp;
 # Day 4 &middot; _Celebrate and Subjugate_
 
-?> <i style='font-size: x-large' class="fa-solid fa-book-open"></i>&nbsp;&nbsp;Read Exodus 23:14-19.
+&nbsp;
+
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-book-open"></i>&nbsp; **Read** |</span> Exodus 23:14-19
 
 &nbsp;
 
@@ -245,7 +253,7 @@ Sin is often pictured as leaven in Scripture (Matthew 16:6, 11; Mark 8:15; Luke 
 
 &nbsp;
 
-?> <i style='font-size: x-large' class="fa-solid fa-marker"></i>&nbsp;&nbsp;Why do you think sin is pictured as leaven/yeast? 
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 4 &#8729; Study Question 1** </span><br/><br/>Why do you think sin is pictured as leaven/yeast? 
 
 &nbsp;
 
@@ -267,7 +275,7 @@ Let’s turn our attention to the last portion of chapter 23 for a moment. I wan
 
 &nbsp;
 
-?> <i style='font-size: x-large' class="fa-solid fa-book-open"></i>&nbsp;&nbsp;Read Exodus 23:20-33. 
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-book-open"></i>&nbsp; **Read** |</span>Exodus 23:20-33 
 
 &nbsp;
 
@@ -279,11 +287,11 @@ _Yhwh_ names the nations they will conquer. Why? Because these nations are not g
 
 &nbsp;
 
-?> <i style='font-size: x-large' class="fa-solid fa-pen-to-square"></i>&nbsp;&nbsp;When we picture conquests, we picture bloody battle fields. But as you reread this portion of scripture, it’s hard to see the bloodshed. What do you see instead? 
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 4 &#8729; Study Question 2** </span><br/><br/>When we picture conquests, we picture bloody battle fields. But as you reread this portion of scripture, it’s hard to see the bloodshed. What do you see instead? 
 
 There are some things that God says He will do, and some things that they are supposed to do. 
 
-?> <i style='font-size: x-large' class="fa-solid fa-pen-to-square"></i>&nbsp;&nbsp;What is Yahweh going to do?
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 4 &#8729; Study Question 3** </span><br/><br/>What is _Yhwh__ going to do?
 
 &nbsp;
 
@@ -293,7 +301,7 @@ So why can't the Canaanites stay? Because they worship other gods that will be a
 
 &nbsp;
 
-?> <i style='font-size: x-large' class="fa-solid fa-marker"></i>&nbsp;&nbsp;Let’s look ahead just a bit and see if we can see the bloodshed in Deuteronomy 7:1-2. Aha! Here it is! In verse 2, God tells them to “utterly destroy them”. But again, he tells them not to make covenants. Can you make a covenant with a dead man? What does the word _Destroy_ (חָרַם)<sup>[H2763](https://www.blueletterbible.org/lexicon/h2763/kjv/wlc/0-1/ "Strong's Number H2763")</sup> mean in verse 2? 
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 4 &#8729; Study Question 4** </span><br/><br/>Let’s look ahead just a bit and see if we can see the bloodshed in Deuteronomy 7:1-2. Aha! Here it is! In verse 2, God tells them to “utterly destroy them”. But again, he tells them not to make covenants. Can you make a covenant with a dead man? What does the word _Destroy_ (חָרַם)<sup>[H2763](https://www.blueletterbible.org/lexicon/h2763/kjv/wlc/0-1/ "Strong's Number H2763")</sup> mean in verse 2? 
 
 &nbsp;
 
@@ -307,7 +315,7 @@ Last week Target stores offered a shirt geared toward children that read, “Sat
 &nbsp;
 # Day 5 &middot; _Confirmed Covenant_
 
-?> <i style='font-size: x-large' class="fa-solid fa-book-open"></i>&nbsp;&nbsp;Read Exodus 24.
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-book-open"></i>&nbsp; **Read** |</span> Exodus 24
 
 God is getting the people ready to inhabit the land of Canaan. But first, they must agree to the covenant. In verse three they 
 responded in one voice, `“Everything the LORD has said we will do.”` Then Moses wrote down everything the LORD had 
@@ -315,7 +323,7 @@ said. They are willing participants in the covenant with _Yhwh_.
 
 &nbsp;
 
-?> <i style='font-size: x-large' class="fa-solid fa-pen-to-square"></i>&nbsp;&nbsp;Why do you think the people of Israel agree to the covenant of _Yhwh_ with one voice? 
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 5 &#8729; Study Question 1** </span><br/><br/>hy do you think the people of Israel agree to the covenant of _Yhwh_ with one voice? 
 
 &nbsp;
 
@@ -326,8 +334,9 @@ The land of Canaan was first and foremost, a gift. The Israelites did not deserv
 ```
 Not that I have already obtained all this, or have already arrived at my goal, but I press on to take hold of that for which Christ Jesus took hold of me. Brothers and sisters, I do not consider myself yet to have taken hold of it. But one thing I do: Forgetting what is behind and straining toward what is ahead, I press on toward the goal to win the prize for which God has called me heavenward in Christ Jesus. - (NIV Philippians 3:12-14)
 ```
+&nbsp;
 
-?> <i style='font-size: x-large' class="fa-solid fa-pen-to-square"></i>&nbsp;&nbsp;In what ways is spiritual maturity a process and not instantaneous?
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 5 &#8729; Study Question 2** </span><br/><br/>In what ways is spiritual maturity a process and not instantaneous?
 
 &nbsp;
 
@@ -337,7 +346,7 @@ Like the Israelites, we often settle for less than what God has promised us. The
 
 &nbsp;
 
-?> <i style='font-size: x-large' class="fa-solid fa-pen-to-square"></i>&nbsp;&nbsp;What can we learn from the fact that the Israelites only occupied a small portion of the land God promised them? Why do we settle for less than what God has promised us?
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 5 &#8729; Study Question 3** </span><br/><br/>What can we learn from the fact that the Israelites only occupied a small portion of the land God promised them? Why do we settle for less than what God has promised us?
 
 &nbsp;
 
@@ -345,11 +354,13 @@ The beauty in our walk with the LORD is that we can grow as much as we want to g
 
 &nbsp;
 
-?> <i style='font-size: x-large' class="fa-solid fa-pen-to-square"></i>&nbsp;&nbsp;Why is worship considered a high privilege and responsibility?
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 5 &#8729; Study Question 4** </span><br/><br/>Why is worship considered a high privilege and responsibility?
 
 &nbsp;
 
-?> <span style="font-size: x-large"><i class="fa-solid fa-circle-info"></i>&nbsp; **Note** &nbsp;|</span>&nbsp; Nadab and Abihu are going to be struck dead for being “innovative” in the temple with their worship. I wonder if this mention of them is a foreshadowing. They got to go up to the presence of God and they’re going to take it very lightly. Hmmm… let’s reflect on that a moment. 
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-circle-info"></i>&nbsp; **Note** &nbsp;|</span>&nbsp; Nadab and Abihu are going to be struck dead for being “innovative” in the temple with their worship. I wonder if this mention of them is a foreshadowing. They got to go up to the presence of God and they’re going to take it very lightly. Hmmm… let’s reflect on that a moment. 
+
+&nbsp;
 
 But who does God call up all the way? Moses, the mediator. He’s going to act as both prophet and priest in this instance. 
 

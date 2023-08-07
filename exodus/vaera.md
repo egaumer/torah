@@ -11,7 +11,7 @@ _Va'era_ teaches us important lessons about the power of God, obedience, identit
 
 # Day 1 &middot; _God’s Promise_
 
-?> <i style='font-size: x-large' class="fa-solid fa-book-open"></i>&nbsp;&nbsp;Read Exodus 6:2-30
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-book-open"></i>&nbsp; **Read** |</span> Exodus 6:2-30
 
 &nbsp;
 
@@ -21,7 +21,7 @@ God answers Moses by letting him know that He has it all under control.
 
 &nbsp;
 
-?> <span style="font-size: x-large"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 1 &#8729; Study Question 1** </span><br/><br/>In verse 2, the first two words God says to Moses is `"I AM”. I am`. Those two words carry a lot of weight. If God spoke to you right now, what would follow the words, `“I am”`? What is it you need to hear from Him? I am... Write God’s entire sentence in verse 2. 
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 1 &#8729; Study Question 1** </span><br/><br/>In verse 2, the first two words God says to Moses is `"I AM”. I am`. Those two words carry a lot of weight. If God spoke to you right now, what would follow the words, `“I am”`? What is it you need to hear from Him? I am... Write God’s entire sentence in verse 2. 
 
 &nbsp;
 
@@ -35,7 +35,7 @@ Jehovah is the self-existent and eternal God. His name is Yahweh, Jehovah, LORD.
 
 &nbsp;
 
-?> <span style="font-size: x-large"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 1 &#8729; Study Question 2** </span><br/><br/>What is the meaning of the word _LORD_ in Exodus 6:2, according to blueletterbible.org?
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 1 &#8729; Study Question 2** </span><br/><br/>What is the meaning of the word _LORD_ in Exodus 6:2, according to blueletterbible.org?
 
 The word `lord` (אָדוֹן)<sup>[H113](https://www.blueletterbible.org/lexicon/h113/kjv/wlc/0-1/ "Strong's NumberH113")</sup>, written in all lower-case letters means _Master_, or one who has authority over another. Sarah describes her husband, Abraham, as `lord`. It ALWAYS refers to human masters or owners. This word is used _354 Times_ in the Bible.
 
@@ -47,7 +47,7 @@ _God_ is slowly revealing Himself to mankind throughout scripture. The differenc
 
 &nbsp;
 
-?> <i style='font-size: x-large' class="fa-solid fa-book-open"></i>&nbsp;&nbsp;Read Exodus 6:3-4. 
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-book-open"></i>&nbsp; **Read** |</span> Exodus 6:3-4. 
 
 &nbsp;
 
@@ -55,7 +55,7 @@ Moses totally understood this. God is about to step into his world in a new way,
 
 &nbsp;
 
-?> <span style="font-size: x-large"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 1 &#8729; Study Question 3** </span><br/><br/>Look up the word _Groaning_ (נְאָקָה)<sup>[H5009](https://www.blueletterbible.org/lexicon/h5009/kjv/wlc/0-1/ "Strong's Number H5009")</sup> in [blueletterbible.org](https://www.blueletterbible.org/lexicon/h5009/kjv/wlc/0-1/). What do you think this sounds like? How does God hear our _Groaning_ and respond to it according to the text?
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 1 &#8729; Study Question 3** </span><br/><br/>Look up the word _Groaning_ (נְאָקָה)<sup>[H5009](https://www.blueletterbible.org/lexicon/h5009/kjv/wlc/0-1/ "Strong's Number H5009")</sup> in [blueletterbible.org](https://www.blueletterbible.org/lexicon/h5009/kjv/wlc/0-1/). What do you think this sounds like? How does God hear our _Groaning_ and respond to it according to the text?
 
 &nbsp;
 
@@ -69,7 +69,7 @@ By the way, this is also the kind of “hearing” _God_ wants us to do. He is n
 
 &nbsp;
 
-?> <span style="font-size: x-large"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 1 &#8729; Study Question 4** </span><br/><br/>In Exodus 6:6-8, what is it that God is promising them? (List all the _I Will_ statements.)
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 1 &#8729; Study Question 4** </span><br/><br/>In Exodus 6:6-8, what is it that God is promising them? (List all the _I Will_ statements.)
 
 &nbsp;
 
@@ -103,7 +103,7 @@ Yep, probably not how you wanted to end this day’s lesson, but it’s the trut
 &nbsp;
 # Day 2 &middot; _The Showdown Begins_
 
-?> <i style='font-size: x-large' class="fa-solid fa-book-open"></i>&nbsp;&nbsp;Read Exodus 7:1-13
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-book-open"></i>&nbsp; **Read** |</span> Exodus 7:1-13
 
 I cannot believe I get to write this chapter during this week of the year. In just a few days will be Passover. This is the beginning of that story! This is story of redemption, a celebration of deliverance, a reminder of what it means to be truly free. It’s a story of the power of faith and perseverance; family and community. It serves as a powerful symbol of hope and what _God_ can do with your life when you surrender fully to Him. 
 
@@ -141,9 +141,9 @@ This week I got to go see the theatrical production of Moses with Eric, Shannon 
 
 &nbsp;
 
-?> <span style="font-size: x-large"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 2 &#8729; Study Question 1** </span><br/><br/>List how Moses behaves, the things he does, and what _God_ expects of Moses in this chapter.
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 2 &#8729; Study Question 1** </span><br/><br/>List how Moses behaves, the things he does, and what _God_ expects of Moses in this chapter.
 
-?> <span style="font-size: x-large"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 2 &#8729; Study Question 2** </span><br/><br/>What reasons can you see for Pharaoh to NOT let the Hebrews go?
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 2 &#8729; Study Question 2** </span><br/><br/>What reasons can you see for Pharaoh to NOT let the Hebrews go?
 
 &nbsp;
 
@@ -189,7 +189,7 @@ What’s the big deal about a snake? Pharaoh literally wore a serpent on his reg
 
 &nbsp;
 
-?> <span style="font-size: x-large"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 2 &#8729; Study Question 3** </span><br/><br/>How does the interaction between Moses and Pharaoh reflect a shadow of the _Messiah_? 
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 2 &#8729; Study Question 3** </span><br/><br/>How does the interaction between Moses and Pharaoh reflect a shadow of the _Messiah_? 
 
 &nbsp;
 
@@ -198,7 +198,7 @@ This is the last warning shot before God plays rough. Please keep your hands, ar
 &nbsp;
 # Day 3 &middot; _There's Power in the Blood_
 
-?> <i style='font-size: x-large' class="fa-solid fa-book-open"></i>&nbsp;&nbsp;Read Exodus 7:14-24
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-book-open"></i>&nbsp; **Read** |</span> Exodus 7:14-24
 
 Based on the development of certain crops that were affected by the plagues, we can estimate that the entire process from the first plague (blood in the Nile) to the last (death of the firstborns) was approximately 10 months time - beginning in May/June and ending the following March/April. These plagues played out in an extended period, so Pharaoh had plenty of time to consider and reconsider what was happening. Their response should have been repentance and obedience. Instead, when the plagues eased up and a sense of normalcy came, they chose to harden their hearts. It’s interesting to see how when things start to ease up we forget what God has told us. 
 
@@ -229,7 +229,7 @@ _God_ put His one and only Son on a cross so that through His shedding of blood 
 
 &nbsp;
 
-?> <span style="font-size: x-large"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 3 &#8729; Study Question 1** </span><br/><br/>The same sun hardens clay and softens wax. Which are you? 
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 3 &#8729; Study Question 1** </span><br/><br/>The same sun hardens clay and softens wax. Which are you? 
 
 &nbsp;
 
@@ -279,16 +279,16 @@ We care. And we want to pass this legacy to our children.
 
 &nbsp;
 
-?> <span style="font-size: x-large"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 3 &#8729; Study Question 3** </span><br/><br/>Why did some people pretend to care or remain 
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 3 &#8729; Study Question 3** </span><br/><br/>Why did some people pretend to care or remain 
 indifferent when faced with the sacrifice of the young boy in the story, and how does it reflect society’sresponse to Jesus’ sacrifice? 
 
-?> <span style="font-size: x-large"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 3 &#8729; Study Question 4** </span><br/><br/>How can we pass on the the legacy of _God’s_ love and 
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 3 &#8729; Study Question 4** </span><br/><br/>How can we pass on the the legacy of _God’s_ love and 
 sacrifice to future generations and ensure that they understand its significance? 
 
 &nbsp;
 # Day 4 &middot; _One More Night With the Frogs, Please_
 
-?> <i style='font-size: x-large' class="fa-solid fa-book-open"></i>&nbsp;&nbsp;Read Exodus 8.
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-book-open"></i>&nbsp; **Read** |</span> Exodus 8.
 
 As I write this, my daughter Katy is 4 months pregnant. She is due in September 2023.
 
@@ -298,7 +298,7 @@ The word _Exodus_ means _Outgoing_ or _Exit_. The people of Israel are going to 
 
 The themes of this book are _Redemption_, _Salvation_, _Deliverance_ and _Revelation_. _God_ redeems His people. He saves His people, delivers them, and then He reveals Himself. That’s pretty much our story, too! _God_ has redeemed you, saved you, delivered you, and then He reveals Himself to you
 
-?> <span style="font-size: x-large"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 4 &#8729; Study Question 1** </span><br/><br/>We all have a story. Do you remember the day you met God?
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 4 &#8729; Study Question 1** </span><br/><br/>We all have a story. Do you remember the day you met God?
 
 Let’s review a little. The first plague was ______. And that is significant because ______. 
 
@@ -306,7 +306,7 @@ The Nile was the primary source of water. It was actually considered a god to be
 
 All of these plagues are answering Pharaoh’s question, “Who is the Lord? Who is Yahweh that I should obey Him?” So _God_ is going to graciously answer his question. He is going to introduce Himself to Pharaoh through a series of unmistakable attention-getting events. 
 
-<i style='font-size: x-large' class="fa-solid fa-skull"></i> &nbsp; _Plague_ **<i style='font-size: x-large' class="fa-solid fa-2"></i>** (Exodus 8:5) &bull; _The Plague of &#95;&#95;&#95;&#95;_
+<i style='font-size: 1.25em' class="fa-solid fa-skull"></i> &nbsp; _Plague_ **<i style='font-size: x-large' class="fa-solid fa-2"></i>** (Exodus 8:5) &bull; _The Plague of &#95;&#95;&#95;&#95;_
 
 In Egypt, one of the most beautiful temples for worship was for the ugliest goddess: the frog-goddess, _Heqet_ (pronounced Heket.) Heqet had the body of a woman and the head of a frog. 
 
@@ -336,7 +336,7 @@ Sin is just like that. When you you want to get rid of this mess? When do you wa
 
 &nbsp;
 
-?> <span style="font-size: x-large"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 4 &#8729; Study Question 2** </span><br/><br/>How does Pharaoh’s answer resemble our own resistance to God’s grace and mercy? 
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 4 &#8729; Study Question 2** </span><br/><br/>How does Pharaoh’s answer resemble our own resistance to God’s grace and mercy? 
 
 &nbsp;
 
@@ -346,7 +346,7 @@ I’ve had a dead mouse in my house, and the smell was horrible. But can you ima
 
 And the Lord hardened Pharaoh’s heart. Isn’t that just like human nature? How many times do we promise, “Oh God, please give me this and I promise I’ll do this for you.” Then relief comes, and you say, “What? Did I say that?” No doubt the pattern of hardening his heart because easier and easier for Pharaoh.
 
-<i style='font-size: x-large' class="fa-solid fa-skull"></i> &nbsp; _Plague_ **<i style='font-size: x-large' class="fa-solid fa-3"></i>** (Exodus 8:16-19) &bull; _The Plague of &#95;&#95;&#95;&#95;_
+<i style='font-size: 1.25em' class="fa-solid fa-skull"></i> &nbsp; _Plague_ **<i style='font-size: x-large' class="fa-solid fa-3"></i>** (Exodus 8:16-19) &bull; _The Plague of &#95;&#95;&#95;&#95;_
 
 One of the gods the Egyptians worshiped was the earth god, Geb (or Seb). Geb reported the state of the earth and the harvest to Osiris (god of the afterlife) on a regular basis. This plague came unannounced. This time _God_ did not show Pharaoh the mercy of a warning and in invitation to repentance. We must never think _God_ is unfair when He does not show mercy. If someone were totally fair, they would never show mercy. 
 
@@ -360,7 +360,7 @@ blueletterbible.org - What is the word for “God” in verse 19? _______
 
 It is the finger of _Elohim_ not the finger of _Yhwh_. They’re not being specific. Moses is saying “The _Lord_ _Yhwh_ has sent us.” But the magicians were saying “this is the finger of _Elohim_, in plural, the gods.” That is what they’re acknowledging. They know it is a supernatural source, but they are not acknowledging _Yhwh_… yet.
 
-<i style='font-size: x-large' class="fa-solid fa-skull"></i> &nbsp; _Plague_ **<i style='font-size: x-large' class="fa-solid fa-4"></i>** (Exodus 8:20-32) &bull; _The Plague of &#95;&#95;&#95;&#95;_
+<i style='font-size: 1.25em' class="fa-solid fa-skull"></i> &nbsp; _Plague_ **<i style='font-size: x-large' class="fa-solid fa-4"></i>** (Exodus 8:20-32) &bull; _The Plague of &#95;&#95;&#95;&#95;_
 
 Verse 20: Then the _Lord_ said to Moses, `“Get up early in the morning and confront Pharaoh as he goes to the river and say to him, ‘This is what the Lord says: ___________, so that they may worship me’”`.
 
@@ -401,13 +401,13 @@ That’s what compromise will do.
 
 &nbsp;
 
-?> <span style="font-size: x-large"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 4 &#8729; Study Question 3** </span><br/><br/>How might the plagues serve as a warning to those who refuse to repent and turn to _God_ for salvation? 
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 4 &#8729; Study Question 3** </span><br/><br/>How might the plagues serve as a warning to those who refuse to repent and turn to _God_ for salvation? 
 
 
 &nbsp;
 # Day 5 &middot; _Children of Israel_
 
-?> <i style='font-size: x-large' class="fa-solid fa-book-open"></i>&nbsp;&nbsp;Read Exodus 9. 
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-book-open"></i>&nbsp; **Read** |</span> Exodus 9. 
 
 The people of Egypt were very superstitions. They had a vast amount of gods, so many that it is difficult to determine an exact number. Some estimates suggest that there were over 2,000 different gods and goddesses worshipped in ancient Egypt. The Pharaoh, himself, was considered deity as well. Rememberthe conversation when he asked, `“Who is the Lord that I should obey him?”` (Exodus 5:2). And as we’ve been discovering, _God_ is happy to introduce Himself. Pharaoh is not only going to know who _Yhwh_ is, but that He is greater by far than any of his gods or goddesses. 
 
@@ -415,13 +415,13 @@ Can you just imagine Moses acting like a little kid with Pharaoh and saying, “
 
 &nbsp;
 
-?> <span style="font-size: x-large"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 5 &#8729; Study Question 1** </span><br/><br/>Has God ever had to get your attention in a dramatic way? 
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 5 &#8729; Study Question 1** </span><br/><br/>Has God ever had to get your attention in a dramatic way? 
 
 &nbsp;
 
 Sometimes He does. It really depends on the person. Some people don’t need much discipline to get back in line. You just give them a little nudge and they get the message. Others have to be more persuaded. Here’s the thing about God. He’s not intimidated by either type of person. He is happy to gently nudge us. But if we don’t want to listen, _God_ has very creative ways of getting your attention. 
 
-<i style='font-size: x-large' class="fa-solid fa-skull"></i> &nbsp; _Plague_ **<i style='font-size: x-large' class="fa-solid fa-5"></i>** (Exodus 9:3) &bull; _The Plague of &#95;&#95;&#95;&#95;_
+<i style='font-size: 1.25em' class="fa-solid fa-skull"></i> &nbsp; _Plague_ **<i style='font-size: x-large' class="fa-solid fa-5"></i>** (Exodus 9:3) &bull; _The Plague of &#95;&#95;&#95;&#95;_
 
 This is the fifth time Moses has told Pharaoh, `“Let my people go, so that they may ____ me”` (9:1). In this appeal two things are clear: 
 
@@ -440,7 +440,7 @@ What did Pharaoh do after all of the livestock of the Egyptians died? Verse 7: H
 
 &nbsp;
 
-?> <span style="font-size: x-large"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 5 &#8729; Study Question 2** </span><br/><br/>What do you think Pharaoh thought when he investigated and it was exactly like Moses had said?
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 5 &#8729; Study Question 2** </span><br/><br/>What do you think Pharaoh thought when he investigated and it was exactly like Moses had said?
 
 &nbsp;
 
@@ -457,13 +457,13 @@ All the cows are dead. No more burgers or steaks. You could say _God_ had a real
 
 &nbsp;
 
-?> <span style="font-size: x-large"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 5 &#8729; Study Question 3** </span><br/><br/>What is the opposite of a hardened heart? How do you know if someone’s heart is hard or soft towards _God_?
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 5 &#8729; Study Question 3** </span><br/><br/>What is the opposite of a hardened heart? How do you know if someone’s heart is hard or soft towards _God_?
 
 &nbsp;
 
 A soft heart fears the Lord. A soft heart obeys God’s word. Pharaoh did not fear God. 
 
-<i style='font-size: x-large' class="fa-solid fa-skull"></i> &nbsp; _Plague_ **<i style='font-size: x-large' class="fa-solid fa-6"></i>** (Exodus 9:8-12) &bull; _The Plague of &#95;&#95;&#95;&#95;_
+<i style='font-size: 1.25em' class="fa-solid fa-skull"></i> &nbsp; _Plague_ **<i style='font-size: x-large' class="fa-solid fa-6"></i>** (Exodus 9:8-12) &bull; _The Plague of &#95;&#95;&#95;&#95;_
 
 We are going to see _God_ establish patterns. We’ve seen it since Genesis 1. _God_ is a _God_ of order, not of chaos. We can look at history and see the _God_ never changes. These patterns should give us confidence. When we read in the Torah of the patterns that God has established, then we can see in the NT that they are brought to a fuller meaning by Jesus. 
 
@@ -491,7 +491,7 @@ _God_ is giving Pharaoh chance after chance after chance. He is gracious. But He
 
 God is in the process of making the gospel so absolutely crystal clear through scripture, through believers testimonies, preaching and teaching, evangelism, Christian leaders, and you and me. In our day and age there is no excuse- there is social media, podcasts, video sermons, internet…access to the gospel has never been more available. But here’s the kicker. People still won’t believe. 
 
-<i style='font-size: x-large' class="fa-solid fa-skull"></i> &nbsp; _Plague_ **<i style='font-size: x-large' class="fa-solid fa-7"></i>** (Exodus 9:13-35) &bull; _The Plague of &#95;&#95;&#95;&#95;_
+<i style='font-size: 1.25em' class="fa-solid fa-skull"></i> &nbsp; _Plague_ **<i style='font-size: x-large' class="fa-solid fa-7"></i>** (Exodus 9:13-35) &bull; _The Plague of &#95;&#95;&#95;&#95;_
 
 Moses is going to warn Pharaoh again. Let my people go, so that they may worship me. Fill in the blanks for verse 14: `“or this time I will send the ____ of my plagues against you and against your officials and your people, so you may know that there is ____ ____ like me in all the earth”`.
 
@@ -527,7 +527,7 @@ The word god is Elohim (אֱלֹהִים) <sup>[H430](https://www.blueletterbibl
 
 &nbsp;
 
-?> <span style="font-size: x-large"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 5 &#8729; Study Question 4** </span><br/><br/>What does the interaction between Moses and Pharaoh reveal about the nature of their respective gods? 
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 5 &#8729; Study Question 4** </span><br/><br/>What does the interaction between Moses and Pharaoh reveal about the nature of their respective gods? 
 
 &nbsp;
 

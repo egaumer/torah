@@ -52,7 +52,7 @@ Exodus 25:9 says, `“Make this ____ and all its furnishings exactly like the pa
 
 &nbsp;
 
-?> <i style='font-size: x-large' class="fa-solid fa-marker"></i>&nbsp;&nbsp;Read the following scriptures and state what the obvious purpose is of the tabernacle (Exodus 25:22; 29:42-43; and 30:6, 36): Read Exodus 25:2. What did the LORD want?
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 1 &#8729; Study Question 1** </span><br/><br/>Read the following scriptures and state what the obvious purpose is of the tabernacle (Exodus 25:22; 29:42-43; and 30:6, 36): Read Exodus 25:2. What did the LORD want?
 
 &nbsp;
 
@@ -72,7 +72,7 @@ Here's a thought- maybe we should be giving to God how we would want God to give
 
 &nbsp;
 
-?> <i style='font-size: x-large' class="fa-solid fa-marker"></i>&nbsp;&nbsp;When was the last time you gave to the work of the LORD and were truly happy just because you were able to give? 
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 1 &#8729; Study Question 2** </span><br/><br/>When was the last time you gave to the work of the LORD and were truly happy just because you were able to give? 
 
 &nbsp;
 
@@ -91,7 +91,11 @@ The tabernacle is where God met with mankind. It was called the Tent of Meeting.
 
 Fast forward to Revelation 21:3, “And I heard in a loud voice from the throne saying, “Look! God’s dwelling place is now among the people, and He will dwell with them. They will be His people, and God Himself will be with them and be their God.” The word “dwelling place”
 
-?> <i style='font-size: x-large' class="fa-solid fa-book-open"></i>&nbsp;&nbsp;The Ark. Read Exodus 25:10-22.
+&nbsp;
+
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-book-open"></i>&nbsp; **Read** |</span> The Ark: Exodus 25:10-22
+
+& nbsp;
 
 The very first thing that God had them make was the ark. The ark itself was a chest that would hold the two tables of the law (written with the finger of God). It is the holiest of all the furnishings, and was located in the holiest room of the tabernacle: the holy of holies. The ark symbolized God’s presence and His throne. 
 
@@ -117,7 +121,7 @@ The atonement cover in Exodus 25:17-22 is also called “the Mercy Seat.” The 
 
 &nbsp;
 
-?> <i style='font-size: x-large' class="fa-solid fa-marker"></i>&nbsp;&nbsp;What was the significance of the Mercy Seat in Exodus 25:22? 
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 2 &#8729; Study Question 1** </span><br/><br/>What was the significance of the Mercy Seat in Exodus 25:22? 
 
 &nbsp;
 
@@ -133,7 +137,7 @@ One person prayed, "Dear God, so far today I've been pretty good. I haven't lied
 
 &nbsp;
 
-?> <i style='font-size: x-large' class="fa-solid fa-book-open"></i>&nbsp;&nbsp;Read Psalm 99:1 and Isaiah 37:16. 
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-book-open"></i>&nbsp; **Read** |</span> Psalm 99:1 and Isaiah 37:16 
 
 &nbsp;
 
@@ -141,7 +145,7 @@ I don’t know about you, but when I imagine angels, I think of winged “people
 
 &nbsp;
 
-?> <i style='font-size: x-large' class="fa-solid fa-marker"></i>&nbsp;&nbsp;They are guardians and protectors, watching over God’s people (Psalm 91:11-12; Acts 12:7-10). But the part I love the most is the sound of the angel’s wings. Close your eyes and imagine the sound. I hear soft fluttering, like a dove flying. Ha! Wrong! Read Ezekiel 1:24. What do their wings sound like? Now close your eyes again. What do you hear now? Describe the sound. 
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 2 &#8729; Study Question 2** </span><br/><br/>They are guardians and protectors, watching over God’s people (Psalm 91:11-12; Acts 12:7-10). But the part I love the most is the sound of the angel’s wings. Close your eyes and imagine the sound. I hear soft fluttering, like a dove flying. Ha! Wrong! Read Ezekiel 1:24. What do their wings sound like? Now close your eyes again. What do you hear now? Describe the sound. 
 
 &nbsp;
 
@@ -150,9 +154,9 @@ refer back to death. There is no access to God but by a death. Thank you, Jesus,
 
 &nbsp;
 
-?> <i style='font-size: x-large' class="fa-solid fa-marker"></i>&nbsp;&nbsp;Read Luke 24:1-8. How many men “in clothes that gleamed like lightning stood beside them”? What did the women do?
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 2 &#8729; Study Question 3** </span><br/><br/>Read Luke 24:1-8. How many men “in clothes that gleamed like lightning stood beside them”? What did the women do?
 
-?> <i style='font-size: x-large' class="fa-solid fa-marker"></i>&nbsp;&nbsp;Read John 20:10-13. It is the same story, but told from John’s perspective. There are still two angels. Describe their role and positions.
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 2 &#8729; Study Question 4** </span><br/><br/>Read John 20:10-13. It is the same story, but told from John’s perspective. There are still two angels. Describe their role and positions.
 
 &nbsp;
 
@@ -162,11 +166,13 @@ Can you imagine those angels being called for this job? They must have stood mot
 &nbsp;
 # Day 3 &middot; _The Table and Lamp Stand_
 
-?> <i style='font-size: x-large' class="fa-solid fa-book-open"></i>&nbsp;&nbsp;The Table. Read Exodus 25:23-30.
+&nbsp;
 
-?> <i style='font-size: x-large' class="fa-solid fa-marker"></i>&nbsp;&nbsp;What materials were used to make the table? Look back at Day 2 this week and rewrite what is symbolic about the wood and gold.
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-book-open"></i>&nbsp; **Read** |</span> The Table: Exodus 25:23-30
 
-?> <i style='font-size: x-large' class="fa-solid fa-marker"></i>&nbsp;&nbsp;What did they place on the table (verse 30)?
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 3 &#8729; Study Question 1** </span><br/><br/>What materials were used to make the table? Look back at Day 2 this week and rewrite what is symbolic about the wood and gold.
+
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 3 &#8729; Study Question 2** </span><br/><br/>What did they place on the table (verse 30)?
 
 &nbsp;
 
@@ -198,7 +204,7 @@ Arch of Titus in the Roman Colosseum. To this day, no one knows where the Ark of
 
 &nbsp;
 
-?> <i style='font-size: x-large' class="fa-solid fa-book-open"></i>&nbsp;&nbsp;The Lamp Stand. Read Exodus 25:31-40.
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-book-open"></i>&nbsp; **Read** |</span> The Lamp Stand: Exodus 25:31-40
 
 &nbsp;
 
@@ -214,7 +220,7 @@ oil lamps that used a special olive oil as fuel.
 
 &nbsp;
 
-?> <i style='font-size: x-large' class="fa-solid fa-marker"></i>&nbsp;&nbsp;What kind of flowers were in the lamp stand design (verse 33)? 
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 3 &#8729; Study Question 3** </span><br/><br/>What kind of flowers were in the lamp stand design (verse 33)? 
 
 &nbsp;
 
@@ -231,7 +237,11 @@ Is it no wonder that Jesus said, `“I am the light of the world”` (John 8:12)
 &nbsp;
 # Day 4 &middot; _The Tabernacle_
 
-?> <i style='font-size: x-large' class="fa-solid fa-book-open"></i>&nbsp;&nbsp;Read Exodus 26:1-14.
+&nbsp;
+
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-book-open"></i>&nbsp; **Read** |</span>Exodus 26:1-14
+
+&nbsp;
 
 Thank you for being willing to learn and study, even when the scriptures seem a bit confusing. I hope that as we learn together we can untangle some of these ideas so you can understand that all of the Old Testament points to Jesus. Every law, every command, every piece of furniture- all leads to Jesus.
 
@@ -241,7 +251,7 @@ The first thing to notice is that all of the measurements of the entire tabernac
 
 &nbsp;
 
-?> <i style='font-size: x-large' class="fa-solid fa-marker"></i>&nbsp;&nbsp;As you read, how do you see shadows of the Messiah in the tabernacle construction? 
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 4 &#8729; Study Question 1** </span><br/><br/>As you read, how do you see shadows of the Messiah in the tabernacle construction? 
 
 &nbsp;
 
@@ -251,7 +261,7 @@ The design for this tabernacle is ingenious. Well… it is God who gave it, so t
 
 &nbsp;
 
-?> <i style='font-size: x-large' class="fa-solid fa-marker"></i>&nbsp;&nbsp;God is giving instructions for the frame. On the frame, there are 4 layers of fabrics. What types of fabrics were used on each layer? 
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 4 &#8729; Study Question 2** </span><br/><br/>God is giving instructions for the frame. On the frame, there are 4 layers of fabrics. What types of fabrics were used on each layer? 
 
 &nbsp;
 
@@ -279,7 +289,11 @@ In Matthew 16:13-17 Jesus asked his disciples, `“Who do men say that I am?”`
 
 The outer covering is what man sees, but God sees the heart. 
 
-?> <i style='font-size: x-large' class="fa-solid fa-book-open"></i>&nbsp;&nbsp;Read Exodus 26:15-30. 
+&nbsp;
+
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-book-open"></i>&nbsp; **Read** |</span> Exodus 26:15-30 
+
+&nbsp;
 
 All of those fabrics need to be on a frame. Let’s look at that! OK, we have boards that were made of acacia wood. Now we’ve seen that wood before. Around each board is a covering of gold- but on a foundation of two parts of silver. Could this be speaking prophetically of the Old Testament and the New Testament? God’s work with Jews and Gentiles: two parts in one. Silver, in Scripture speaks of redemption. Literally, the tabernacle was built on the foundation of redemption. It's also joined together with a system of gold-overlaid crossbars. 
 
@@ -289,9 +303,9 @@ This tabernacle was approximately 15’ wide, 45’ long, and 15’ tall. It’s
 
 &nbsp;
 
-?> <i style='font-size: x-large' class="fa-solid fa-book-open"></i>&nbsp;&nbsp;Let’s look at the veil in the tabernacle. Read Exodus 26:31-37.
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 4 &#8729; Study Question 3** </span><br/><br/>Let’s look at the veil in the tabernacle. Read Exodus 26:31-37.
 
-?> <i style='font-size: x-large' class="fa-solid fa-marker"></i>&nbsp;&nbsp;The tabernacle was divided into two compartments: The Holy Place and the Holy of Holies. It was separated by a veil. How was it decorated?
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 4 &#8729; Study Question 4** </span><br/><br/>The tabernacle was divided into two compartments: The Holy Place and the Holy of Holies. It was separated by a veil. How was it decorated?
 
 &nbsp;
 
@@ -307,7 +321,7 @@ If you look at the graphic map I drew of the tabernacle (in lesson 2) you will n
 
 &nbsp;
 
-?> <i style='font-size: x-large' class="fa-solid fa-marker"></i>&nbsp;&nbsp;n verse 36 there is another curtain. This curtain is an exterior curtain. The veil is an interior curtain. Describe this exterior curtain. 
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 4 &#8729; Study Question 5** </span><br/><br/>In verse 36 there is another curtain. This curtain is an exterior curtain. The veil is an interior curtain. Describe this exterior curtain. 
 
 &nbsp;
 
@@ -316,7 +330,11 @@ These posts were cast out of bronze. Bronze was representative of judgement beca
 &nbsp;
 # Day 5 &middot; _The Altar of Burnt Offering and Courtyard_
 
-?> <i style='font-size: x-large' class="fa-solid fa-book-open"></i>&nbsp;&nbsp;Read Exodus 26:1-19.
+&nbsp;
+
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-book-open"></i>&nbsp; **Read** |</span> Exodus 26:1-19
+
+&nbsp;
 
 Just a recap of where we are. Moses is up on Mount Sinai. He is going to be there for 40 days as God gives him these instructions for the tabernacle. The children of Israel have just vowed to do everything God tells them. We began in the tabernacle, now we’re going to move to the outside. God is giving these instructions from His perspective, not ours. He starts on the inside and works out. We are always coming in the opposite direction. 
 

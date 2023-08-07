@@ -8,7 +8,7 @@ Each portion of the Torah is named for the first word appearing in the portion. 
 &nbsp;
 # Day 1 &middot; _Jethro_
 
-?> <i style='font-size: x-large' class="fa-solid fa-book-open"></i>&nbsp;&nbsp;Read Exodus 18
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-book-open"></i>&nbsp; **Read** |</span> Exodus 18
 
 &nbsp;
 
@@ -28,11 +28,11 @@ Jethro’s solution for Moses is to work smarter, not harder, by organizing a mi
 
 &nbsp;
 
-?> <span style="font-size: x-large"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 1 &#8729; Question 1** </span><br/><br/>Why does Jethro want Moses to set up a structure of people to help him? Have you ever been burned out in a job? How did you find relief?
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 1 &#8729; Question 1** </span><br/><br/>Why does Jethro want Moses to set up a structure of people to help him? Have you ever been burned out in a job? How did you find relief?
 
 Moses was a hard worker. There is nothing wrong with that. But I’m sure his family was not too excited about his workload.
 
-?> <span style="font-size: x-large"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 1 &#8729; Question 2** </span><br/><br/>Jethro's counsel to Moses allows him to focus on the most important matters and not bear the burden alone. How does Jesus, as the Messiah, invite us to cast our burdens on Him and find rest?
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 1 &#8729; Question 2** </span><br/><br/>Jethro's counsel to Moses allows him to focus on the most important matters and not bear the burden alone. How does Jesus, as the Messiah, invite us to cast our burdens on Him and find rest?
 
 &nbsp;
 
@@ -57,7 +57,7 @@ Most people do not respond well to criticism. We can become easily offended in o
 
 &nbsp;
 
-?> <span style="font-size: x-large"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 1 &#8729; Question 3** </span><br/><br/>When receiving advice or criticism, how do you know when to be offended and when to be thankful? That all depends on the intentions of the person giving the advice. Ask yourself: Does that person have your best interests at heart? Are they trying to hurt you in some way? Is the person honorable? How well do you know them? Do they have a history of having your back?
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 1 &#8729; Question 3** </span><br/><br/>When receiving advice or criticism, how do you know when to be offended and when to be thankful? That all depends on the intentions of the person giving the advice. Ask yourself: Does that person have your best interests at heart? Are they trying to hurt you in some way? Is the person honorable? How well do you know them? Do they have a history of having your back?
 
 &nbsp;
 
@@ -68,7 +68,7 @@ Moses obviously trusted Jethro when he took his advice. Moses cared more about t
 &nbsp;
 # Day 2 &middot; _Embracing God's Call_
 
-?> <i style='font-size: x-large' class="fa-solid fa-book-open"></i>&nbsp;&nbsp;Read Exodus 19. 
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-book-open"></i>&nbsp; **Read** |</span> Exodus 19 
 
 &nbsp;
 
@@ -80,7 +80,7 @@ God is about to reveal His law to His people at Mount Sinai. And at the heart of
 
 &nbsp;
 
-?> <span style="font-size: x-large"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 2 &#8729; Question 1** </span><br/><br/>There are two types of covenants: unconditional and conditional. The covenant that God made with Abraham , Isaac and Jacob was unconditional. It had no conditions. God said, “I am going to give you and your descendants the land, the land of Israel, the land of Canaan as an everlasting possession.” That’s unconditional. However, the Mosaic covenant is a conditional covenant. The land they are to occupy is unconditional. Their tenure in the land and God’s blessing them in the land is conditional. So, what do you think will happen if God puts them into The Promised Land and they don’t obey God?
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 2 &#8729; Question 1** </span><br/><br/>There are two types of covenants: unconditional and conditional. The covenant that God made with Abraham , Isaac and Jacob was unconditional. It had no conditions. God said, “I am going to give you and your descendants the land, the land of Israel, the land of Canaan as an everlasting possession.” That’s unconditional. However, the Mosaic covenant is a conditional covenant. The land they are to occupy is unconditional. Their tenure in the land and God’s blessing them in the land is conditional. So, what do you think will happen if God puts them into The Promised Land and they don’t obey God?
 
 &nbsp;
 
@@ -100,7 +100,7 @@ God is giving them a conditional covenant. He is not saying, “I will, I will, 
 
 &nbsp;
 
-?> <span style="font-size: x-large"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 2 &#8729; Question 2** </span><br/><br/>Do a little research. In Exodus 19:5-6, God speaks of the Israelites being His treasured possession. What does it mean for God’s people to be treasured, and how does this concept apply to believers in Jesus Christ? (What 
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 2 &#8729; Question 2** </span><br/><br/>Do a little research. In Exodus 19:5-6, God speaks of the Israelites being His treasured possession. What does it mean for God’s people to be treasured, and how does this concept apply to believers in Jesus Christ? (What 
 research tools did you use?)
 
 &nbsp;
@@ -116,9 +116,9 @@ If you have watched Season 3 of “The Chosen” you would have seen a mikvah in
 ```
  &nbsp;
 
-?> <span style="font-size: x-large"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 2 &#8729; Question 3** </span><br/><br/>Describe the dramatic scene of God’s descent on Mount Sinai in Exodus 19:16-19. How do these manifestations reflect God’s power and holiness? What would you be thinking if you were there?
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 2 &#8729; Question 3** </span><br/><br/>Describe the dramatic scene of God’s descent on Mount Sinai in Exodus 19:16-19. How do these manifestations reflect God’s power and holiness? What would you be thinking if you were there?
 
-?> <span style="font-size: x-large"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 2 &#8729; Question 4** </span><br/><br/>The mountain is enveloped in thunder, lightning’s and a thick cloud. The blast of the trumpet grows louder, and the people tremble. How does this scene foreshadow the arrival of the Messiah, and Christ’s future return? 
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 2 &#8729; Question 4** </span><br/><br/>The mountain is enveloped in thunder, lightning’s and a thick cloud. The blast of the trumpet grows louder, and the people tremble. How does this scene foreshadow the arrival of the Messiah, and Christ’s future return? 
 
 &nbsp;
 
@@ -137,7 +137,7 @@ This is truly a remarkable moment when the LORD audibly speaks from the mountain
 
 &nbsp;
 
-?> <span style="font-size: x-large"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 3 &#8729; Question 1** </span><br/><br/>I know you’re all probably really excited that we are at the point in Exodus where the law is introduced. Before we start, when I mention “The Law”, what things come to mind?
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 3 &#8729; Question 1** </span><br/><br/>I know you’re all probably really excited that we are at the point in Exodus where the law is introduced. Before we start, when I mention “The Law”, what things come to mind?
 
 &nbsp;
 
@@ -172,7 +172,11 @@ Why even have the law? In science class, have you ever looked at your hair in a 
 
 In the same way, a mirror reveals the truth about us. I have a love-hate relationship with my bathroom mirror. It tells the truth. I can put soft lights all around, or even dim the lights (ha), but I can’t get ready in the morning without the mirror. The mirror only reveals the need. It doesn't fix the problem. So in the next few days we are going to look into the mirror of these commandments. It’s going to show us who we are, and our need to be cleansed. That’s why Paul wrote in Galatians 2:16, `“a person is not justified by the works of the law, but by faith in Jesus Christ.”` What these commandments are going to do is to show us the truth about ourselves, and point the way to Christ so we can be cleansed. Are you ready? 
 
-?> <i style='font-size: x-large' class="fa-solid fa-book-open"></i>&nbsp;&nbsp;Read Exodus 20:1-17.
+&nbsp;
+
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-book-open"></i>&nbsp; **Read** |</span> Exodus 20:1-17
+
+&nbsp;
 
 Exodus 20:1: And God spoke all these words: `“I ____ the ____ your ____, who brought you out of Egypt, out of the land of slavery. You shall have ____ other gods before me.”`
 
@@ -189,9 +193,9 @@ These commandments are not as a new form of slavery. _Yhwh_ has freed them and H
 
 &nbsp;
 
-?> <span style="font-size: x-large"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 3 &#8729; Question 2** </span><br/><br/>Can you think of examples of how a lack of boundaries and discipline actually creates the conditions for enslavement? 
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 3 &#8729; Question 2** </span><br/><br/>Can you think of examples of how a lack of boundaries and discipline actually creates the conditions for enslavement? 
 
-?> <span style="font-size: x-large"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 3 &#8729; Question 3** </span><br/><br/>How do the first four commandments (related to our relationship with God) reflect the importance of putting God first in our lives? How can we practically apply these commandments in our daily lives?_
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 3 &#8729; Question 3** </span><br/><br/>How do the first four commandments (related to our relationship with God) reflect the importance of putting God first in our lives? How can we practically apply these commandments in our daily lives?_
 
 &nbsp;
 
@@ -221,7 +225,7 @@ An idol is simply anything or any one that replaces God. It is anything or anyon
 
 &nbsp;
 
-?> <span style="font-size: x-large"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 3 &#8729; Question 4** </span><br/><br/>What types of idols do we have in our culture? Name as many as you can
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 3 &#8729; Question 4** </span><br/><br/>What types of idols do we have in our culture? Name as many as you can
 
 &nbsp;
 
@@ -233,7 +237,7 @@ God’s name is _Yahweh_ / _Jehovah_. God’s name is not _God_. Speaking God’
 
 &nbsp;
 
-?> <span style="font-size: x-large"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 3 &#8729; Question 5** </span><br/><br/>Look up Exodus 20:7 in different translations (www.biblegateway.com): Try the following examples: [The Amplified Bible](https://www.biblegateway.com/passage/?search=Exodus+20%3A7&version=AMP) | [NLT](https://www.biblegateway.com/passage/?search=Exodus+20%3A7&version=NLT) | [MSG](https://www.biblegateway.com/passage/?search=Exodus+20%3A7&version=MSG) | [Complete Jewish Bible](https://www.biblegateway.com/passage/?search=Exodus+20%3A7&version=CJB), etc. What did you find?
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 3 &#8729; Question 5** </span><br/><br/>Look up Exodus 20:7 in different translations (www.biblegateway.com): Try the following examples: [The Amplified Bible](https://www.biblegateway.com/passage/?search=Exodus+20%3A7&version=AMP) | [NLT](https://www.biblegateway.com/passage/?search=Exodus+20%3A7&version=NLT) | [MSG](https://www.biblegateway.com/passage/?search=Exodus+20%3A7&version=MSG) | [Complete Jewish Bible](https://www.biblegateway.com/passage/?search=Exodus+20%3A7&version=CJB), etc. What did you find?
 
 &nbsp;
 
@@ -276,7 +280,7 @@ Let’s do a quick review before we look more closely at this one. The first com
 
 &nbsp;
 
-?> <span style="font-size: x-large"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 4 &#8729; Question 1** </span><br/><br/>Keeping the Sabbath holy is mentioned 90 times in the Old Testament, and another 50 times in the New Testament. The Hebrew word is _Shabbat_ (שַׁבָּת)<sup>[H7676](https://www.blueletterbible.org/lexicon/h7676/kjv/wlc/0-1/ "Strong's Number H7676")</sup>. The primitive root literally means _To Cease_ (שָׁבַת)<sup>[H7673](https://www.blueletterbible.org/lexicon/h7673/kjv/wlc/0-1/ "Strong's Number H7673")</sup>.  What are the goals of the Sabbath? The idea is to put an end to the workweek.
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 4 &#8729; Question 1** </span><br/><br/>Keeping the Sabbath holy is mentioned 90 times in the Old Testament, and another 50 times in the New Testament. The Hebrew word is _Shabbat_ (שַׁבָּת)<sup>[H7676](https://www.blueletterbible.org/lexicon/h7676/kjv/wlc/0-1/ "Strong's Number H7676")</sup>. The primitive root literally means _To Cease_ (שָׁבַת)<sup>[H7673](https://www.blueletterbible.org/lexicon/h7673/kjv/wlc/0-1/ "Strong's Number H7673")</sup>.  What are the goals of the Sabbath? The idea is to put an end to the workweek.
 
 &nbsp;
 
@@ -290,7 +294,7 @@ In Genesis the world was created in six days and on the seventh day God rested. 
 
 &nbsp;
 
-?> <span style="font-size: x-large"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 4 &#8729; Question 2** </span><br/><br/>What are the goals of the Sabbath? The goal behind the Sabbath is simple. Stop your regular work. Focus on your family, on _Yhwh_ and His Word, and relax and enjoy one another in a day of physical and spiritual renewal. The most important thing is that you are being obedient to the LORD’s commands. Remembrance is commanded, so how can we remember to keep the Sabbath? Write it in your day planner! Fit it in your schedule to just chill with your family and friends. Go to church. Eat together. 
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 4 &#8729; Question 2** </span><br/><br/>What are the goals of the Sabbath? The goal behind the Sabbath is simple. Stop your regular work. Focus on your family, on _Yhwh_ and His Word, and relax and enjoy one another in a day of physical and spiritual renewal. The most important thing is that you are being obedient to the LORD’s commands. Remembrance is commanded, so how can we remember to keep the Sabbath? Write it in your day planner! Fit it in your schedule to just chill with your family and friends. Go to church. Eat together. 
 
 &nbsp;
 
@@ -358,7 +362,7 @@ This means exactly what it says. Stealing was a problem from the beginning of ti
 
 &nbsp;
 
-?> <span style="font-size: x-large"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 5 &#8729; Question 1** </span><br/><br/>God’s commandments are all about protecting and providing for us. In the first commandments, or words, God is showing us whom to worship, _Yhwh_ alone, and how to worship (no idols, no distractions). Can you fill in the rest of the commandments with what is God protecting in commands 2-10? (Can you name them in 1-2 words?) I’ll give you a start: in #3 God is protecting His name.
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 5 &#8729; Question 1** </span><br/><br/>God’s commandments are all about protecting and providing for us. In the first commandments, or words, God is showing us whom to worship, _Yhwh_ alone, and how to worship (no idols, no distractions). Can you fill in the rest of the commandments with what is God protecting in commands 2-10? (Can you name them in 1-2 words?) I’ll give you a start: in #3 God is protecting His name.
 
 &nbsp;
 
@@ -376,7 +380,7 @@ In Proverbs 6:16-19 Solomon lists 6 things that the LORD hates. Lying and a fals
 
 &nbsp;
 
-?> <span style="font-size: x-large"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 5 &#8729; Question 2** </span><br/><br/>How are we as a culture, as a country, in telling the truth? How can we do better? Where do we start? Ha! Sometimes I wonder if we would even recognize truth if it hit us. We lie about all kinds of things. God wants us to have verbal integrity. Our God loves truth. And perfect truth does not tolerate evil. 
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 5 &#8729; Question 2** </span><br/><br/>How are we as a culture, as a country, in telling the truth? How can we do better? Where do we start? Ha! Sometimes I wonder if we would even recognize truth if it hit us. We lie about all kinds of things. God wants us to have verbal integrity. Our God loves truth. And perfect truth does not tolerate evil. 
 
 &nbsp;
 
@@ -396,9 +400,9 @@ Getting more things and stuff will not make you happy. But your attitude towards
 
 &nbsp;
 
-?> <span style="font-size: x-large"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 5 &#8729; Question 3** </span><br/><br/>Who in your life is the happiest, most contented person you know? Why?
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 5 &#8729; Question 3** </span><br/><br/>Who in your life is the happiest, most contented person you know? Why?
 
-?> <span style="font-size: x-large"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 5 &#8729; Question 4** </span><br/><br/>List the things you should not covet, according to Exodus 20:17.
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 5 &#8729; Question 4** </span><br/><br/>List the things you should not covet, according to Exodus 20:17.
 
 &nbsp;
 
