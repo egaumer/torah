@@ -1,10 +1,7 @@
 # _P'kudei_ &sdot; פקודי
 Parashah 23 &nbsp;&middot;&nbsp; _Accounts (_ 38:21&mdash;40:38 _)_
 
-The twenty-third reading from the Torah and last reading from the book of Exodus is called _P'kudei_ (פקודי), which means
-_Aaccount_ or _Reckonings_, because this Torah portion begins with Moses making a careful accounting of the gold, silver, and 
-copper donated by the people for the construction of the Tabernacle. The first words of the first verse of the reading is 
-translated to read, `"These are the accounts [pekudei] of the Tabernacle (Exodus 38:21)`.
+The twenty-third reading from the Torah and last reading from the book of Exodus is called _P'kudei_ (פקודי), which means _Aaccount_ or _Reckonings_, because this Torah portion begins with Moses making a careful accounting of the gold, silver, and copper donated by the people for the construction of the Tabernacle. The first words of the first verse of the reading is translated to read, `"These are the accounts [pekudei] of the Tabernacle (Exodus 38:21)`.
 
 &nbsp;
 # Day 1 &middot; _Accounting_
@@ -20,7 +17,7 @@ Then the LORD said to him, "Know for ____ that for four hundred years your desce
 And what does God follow that up with?
 
 ```
-"But I will ____ the nation they ____ as slaves and afterward they will ____ ____ with great ____.” And boy, did they! - (Genesis 15:14? NIV)
+"But I will ____ the nation they ____ as slaves and afterward they will ____ ____ with great ____.” And boy, did they! - (Genesis 15:14 NIV)
 ```
 
 I’m a little sad that our time is coming to an end in this study. I have really enjoyed learning with you and making so many new connections. But we're not done yet! 
@@ -29,7 +26,9 @@ The book of Genesis captivated us with creation and beginnings. It unveiled the 
 
 Before we jump into the last portion of Exodus, I want to reemphasize a crucial point. Each one of us has experienced a Genesis, a unique beginning. But not everyone has encountered an Exodus- a liberation from the bondage of sin. 
 
-Exodus 38:8 They made the bronze basin and its bronze stand from the mirrors of the women who &#95;&#95;&#95;&#95; at the entrance to the tent of meeting. 
+```
+They made the bronze basin and its bronze stand from the mirrors of the women who ____ at the entrance to the tent of meeting. - (Exodus 38:8 NIV)
+```
 
 Just one note before we move on. Who are these women gathered at the tabernacle door? And what service are they doing? According to the Jewish Talmud and Midrash, these were women who dedicated their lives to prayer. There are two verses in the Hebrew Bible where women are serving in the Tabernacle (Exodus 38:8 and 1 Samuel 2:22). They would gather and pray for the priests, and for the nation of Israel. They dedicated themselves to this. Later, in 1 Samuel, when Eli was High priest, the Bible says his sons did not know the Lord. They would sleep with the women who came to the door of the tabernacle, taking advantage of them. 
 
