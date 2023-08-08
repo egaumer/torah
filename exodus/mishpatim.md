@@ -1,13 +1,13 @@
 # _Mishpatim_ &sdot; משפטים
 Parashah 18 &nbsp;&middot;&nbsp; _Rulings (_ 21:1&mdash;24:18 _)_
 
-The Torah contains more than the ten commandments. This portion of the Torah contains fifty of the total [613 commands](https://www.jewfaq.org/613_commandments). Immediately after speaking the ten commandments from Mount Sinai, God gave Moses a series of laws called _Mishpatim_ (מִשְׁפָּט)<sup>[H4941](https://www.blueletterbible.org/lexicon/h4941/kjv/wlc/0-1/ "Strong's Number H$($!)")</sup>, “judgments,” which form the foundations and case presidents for the practice of Torah law. 
+The _Torah_ contains more than the ten commandments. This portion of the _Torah_ contains fifty of the total [613 commands](https://www.jewfaq.org/613_commandments). Immediately after speaking the ten commandments from Mount Sinai, God gave Moses a series of laws called _Mishpatim_ (מִשְׁפָּט)<sup>[H4941](https://www.blueletterbible.org/lexicon/h4941/kjv/wlc/0-1/ "Strong's Number H$($!)")</sup> or _Judgment_/_Rulings_, which form the foundations and case presidents for the practice of [Torah Law](https://en.wikipedia.org/wiki/Torah). 
 
 The title _Mishpatim_ comes from the first words of the first verse of the reading, which could literally be translated to say, `“And these are the judgments which you will place before them”` (Exodus 21:1). This portion will contain many laws on a wide variety of subjects including: employment law regarding the treatment of servants, murder, manslaughter, liability for one’s animals, theft, rape, dowry, idolatry and sorcery and many others. Remember that Jesus summed up all these laws with “Love God and Love Man.”
 
 
 &nbsp;
-# Day 1 &middot; _tbd_
+# Day 1 &middot; _It's the Principle of the Matter_
 
 ?> <span style="font-size: 1.25em"><i class="fa-solid fa-book-open"></i>&nbsp; **Read** |</span> Exodus 21:1-6 
 
@@ -15,7 +15,7 @@ The title _Mishpatim_ comes from the first words of the first verse of the readi
 
 The laws of Exodus 21 are among the most controversial of the Old Testament laws. People have asked, “Why would you worship a God who allows Israel to keep slaves?” We are going to look at rules and regulations from a standpoint of the God principle they embody. Each of these laws and regulations cover various aspects of social justice, personal injury, and property rights in ancient Israelite society. But they are also valid principles for us. Yep, even in 2023!
 
-Exodus 21:2-6: The law of Hebrew servants. This chapter begins with the most difficult laws to grapple with- The laws of slavery. In North America, our collective memory of slavery is ugly. People were kidnapped, maltreated, bought and sold, subjugated to all sorts of cruelties and denied basic human dignities. We have to look at this law as it was intended: to prevent exploitation. 
+Exodus 21:2-6: The law of Hebrew servants. This chapter begins with the most difficult laws to grapple with - [The Laws of Slavery](https://www.jewishvirtuallibrary.org/slavery-in-judaism). In North America, our collective memory of slavery is ugly. People were kidnapped, maltreated, bought and sold, subjugated to all sorts of cruelties and denied basic human dignities. We have to look at this law as it was intended: to prevent exploitation. 
 
 We must remember that Israel had just left slavery. They experienced it in its ugliest form. God is going to deal with the elephant in the room and talk first about maltreatment of slaves. All of the Bible’s laws about slaves are meant for the protection and well-being of the people enslaved. You can compare this to an abusive home where the son is beaten by the father. When he grows up, he beats his own children because he learned to parent from his father. The Bible’s laws of slavery are meant to break that pattern of mistreatment of another human being, and bring compassion and protection for the vulnerable. These are going to be brand new concepts to the recently freed slaves. So why would they need a slave in the first place? There are laws against kidnapping, laws against the slave trade, so what is this about?
 
@@ -25,9 +25,9 @@ We must remember that Israel had just left slavery. They experienced it in its u
 
 &nbsp;
 
-We must also remember that the realization that servanthood in the ancient world was a real and normal part of the economy. There was no standard of currency. People didn’t work jobs like we do. If you were a land owner you most likely had people you hired to help work the land. For the landless lower-class, servitude was an attractive option. It mean learning new skills, employment and food and shelter for the person and his dependents. In most societies, slaves had no rights. The Torah changed that. 
+We must also remember that the realization that servanthood in the ancient world was a real and normal part of the economy. There was no standard of currency. People didn’t work jobs like we do. If you were a land owner you most likely had people you hired to help work the land. For the landless lower-class, servitude was an attractive option. It mean learning new skills, employment and food and shelter for the person and his dependents. In most societies, slaves had no rights. The _Torah_ changed that. 
 
-If we equated slaves in Biblical times to our current economy, the Torah would have us treat employees fairly, with dignity and with a worthy compensation. This law was a social safety net for someone at the point of desperation. They were provided an opportunity to work, but there were boundaries to how that was overseen. 
+If we equated slaves in Biblical times to our current economy, the _Torah_ would have us treat employees fairly, with dignity and with a worthy compensation. This law was a social safety net for someone at the point of desperation. They were provided an opportunity to work, but there were boundaries to how that was overseen. 
 
 In the entire ancient world there were people who worked for others as servants. They were slaves in some sense, though not necessarily in the brutal and degraded sense most think of slavery. Just a note: slavery existed long before Israel or Moses. The Bible is responsible for the elimination of slavery, not its establishment. 
 
@@ -51,7 +51,7 @@ The concept of 6-1 is interesting, as the Jewish year currently (as of May 2023)
 
 Now if the servant worked for six years and wanted to stay because they developed a good relationship with the master, it would change from servant to bondservant. The servant is a servant because he has to. But he can become a bondservant because he wants to. This is a voluntary situation, not coerced. 
 
-When Christians talk about “the law," we ordinarily think of lists of rules of do's and don’ts. Some Christian teachers seem to view the laws of the Torah as if they are a bad thing. It is commonly taught that the law is the opposite of grace. I’m sure you’re heard someone say, “We are no longer under the law. We are under grace.” This implies that because of Jesus, we do not need to concern ourselves with the laws in the Old Testament.
+When Christians talk about “the law," we ordinarily think of lists of rules of do's and don’ts. Some Christian teachers seem to view the laws of the _Torah_ as if they are a bad thing. It is commonly taught that the law is the opposite of grace. I’m sure you’re heard someone say, “We are no longer under the law. We are under grace.” This implies that because of Jesus, we do not need to concern ourselves with the laws in the Old Testament.
 
 &nbsp;
 
@@ -80,7 +80,7 @@ Foundational principles of all these laws are: equity, respect, protection of th
 
 Exodus 21:17 The law of cursing parents. This law is similar to verse 15. Once again, God is emphasizing the important of respecting parents and honoring them. What does it mean to “curse” your parents? It is in the sense of a son insulting or being an embarrassment to his parents because they are of no account. It would include his not caring for them if they needed his help. A son who humiliated his parents by his behavior, who showed his parents disrespect, or who was simply a deadbeat should be put to death according to Yahweh’s law. God saw this as guarding life, because the people who do these things steal life from those whom _Yhwh_ sees as innocent and upright.
 
-In God's eyes, the intention of a person’s heart has everything to do with the consequences of his or her actions. The idea of an eye for an eye, tooth for tooth, etc. (vs 24) is not literal. It is about compensation. According to the Torah, the death penalty is only used when the taking of human life is intentional. Mutilation was not a permitted punishment. 
+In God's eyes, the intention of a person’s heart has everything to do with the consequences of his or her actions. The idea of an eye for an eye, tooth for tooth, etc. (vs 24) is not literal. It is about compensation. According to the _Torah_, the death penalty is only used when the taking of human life is intentional. Mutilation was not a permitted punishment. 
 
 Just a side note: Islam follows Allah's instructions when they mutilate the offenders of the Islamic Sharia law. They cut off hands, fingers, feet, tongues, etc. Islam loves to claim that Christians, Hebrews, and Muslims all share the same god, but the Bible teaches against such things while the Koran, the Muslim holy book, commands mutilations. Just further proof that Allah is not another culture’s name for _Yhwh_. 
 
@@ -178,16 +178,11 @@ Moses tells this new generation of Israelites in Deuteronomy 5:12, `"Observe the
 
 God is getting personal with them. God is saying, “I am asking you, my people, to do these things because I care for you!”. God cares about you! As slaves, the Israelites worked 24/7. God is setting up a different rhythm for this community. The Sabbath is rooted in the pattern of creation. You need to understand something. The Sabbath is good for you personally. It’s God’s gift to you, personally. 
 
-Mark 2:23-28. Jesus and his disciples were walking through the grain fields on the Sabbath. As they were talking and talking, they were brushing their hands over the heads of grain, rubbing off the chaff, and popping the grains in their mouth. It was permitted to do. It was called the law of gleaning. But it was the Sabbath. The Pharisees were outraged. “This is unlawful!" 
+Jesus and his disciples were walking through the grain fields on the Sabbath. As they were talking and talking, they were brushing their hands over the heads of grain, rubbing off the chaff, and popping the grains in their mouth. It was permitted to do. It was called the law of gleaning. But it was the Sabbath. The Pharisees were outraged. “This is unlawful!" Mark 2:23-28
 
-Jesus answered, “Have you never read what David did when he and his companions were hungry and in need? In the days 
-of Abiathar the high priest, he entered the house of God and ate the consecrated bread, which is lawful only for priests to 
-eat.” Then he said, “The Sabbath was made for man, not man for the Sabbath.” God is giving you a break for your benefit, 
-not His. 
+Jesus answered, `“Have you never read what David did when he and his companions were hungry and in need? In the days of Abiathar the high priest, he entered the house of God and ate the consecrated bread, which is lawful only for priests to eat.”` Then he said, `“The Sabbath was made for man, not man for the Sabbath.”` God is giving you a break for your benefit, not His. 
 
-Well meaning people will say, "Id rather burn out that rust out.” In other words, overwork is good. Sitting around doing 
-nothing is bad. Now, those of you know me know that I am completely speaking to myself in this chapter. I love to work. I 
-enjoy being busy. Resting is not something I do well. Does anyone else understand that?! 
+Well meaning people will say, "I'd rather burn out than rust out.” In other words, overwork is good. Sitting around doing nothing is bad. Now, those of you know me know that I am completely speaking to myself in this chapter. I love to work. I enjoy being busy. Resting is not something I do well. Does anyone else understand that?! 
 
 &nbsp;
 
@@ -199,13 +194,17 @@ God wants us to take a break because it's good for us. Even Jesus took a rest. J
 
 Last week I got Covid. I didn’t have any of the normal symptoms: cough, fever, etc. I was just exhausted. Exhausted. I slept most of the day and worried that I wouldn't be able to sleep at night. But not a problem, I slept through the entire night. This went on for 7 days. I couldn’t concentrate to watch TV, I couldn't write. (Well, I did write a chapter for this study and threw it away after my head was out of the fog! Hahaha! You can thank me later for not having to suffer through it.)
 
-WebMD (where I got my “doctorate”) says that when you relax, your heart rate slows, your breathing slows, your blood pressure goes down, your muscles relax… all things in your immune system work better- all from rest! And you know what else? You are more creative when you rest. Next time you have to make a quick decision, try sleeping on it. Walk away and spend a night thinking about it and asking God for a solution. 
+[WebMD](https://www.webmd.com) (where I got my “doctorate”) says that when you relax, your heart rate slows, your breathing slows, your blood pressure goes down, your muscles relax… all things in your immune system work better- all from rest! And you know what else? You are more creative when you rest. Next time you have to make a quick decision, try sleeping on it. Walk away and spend a night thinking about it and asking God for a solution. 
 
-Psalms 23 says, “The LORD is my shepherd, I shall not want. He _____ me lie down.” I can testify to that! And why would a shepherd do that? To restore your world. God has to make some of us lie down because we don’t do it on our own. So He is going to force you to lie down. 
+Psalms 23:1-2 says, `“The LORD is my shepherd, I shall not want. He _____ me lie down in green pastures.”` I can testify to that! And why would a shepherd do that? To restore your world. God has to make some of us lie down because we don’t do it on our own. So He is going to force you to lie down. 
 
-The Sabbath is also good for your relationships. Look at Deuteronomy 5:14: “On it you shall not do any work, neither you, nor your son or daughter, nor your male or female servant, nor your ox, your donkey or any of your animals, nor any foreigner residing in your towns, so that your male and female servants may rest, as you do.”
+The Sabbath is also good for your relationships.
 
-This was for all the people and animals, and visitors. It wasn’t just for religious people, or those that felt like it. It wasn’t long ago that in our country, everything stopped on Sundays. In Israel, everything is closed on Saturday. Even the elevators in hotels get a Sabbath rest (remember that when we take your trip and if you are on the 10th floor and get on the elevator it will automatically stop at each floor going down because on the Sabbath the orthodox Jew was not permitted to press the buttons. So the entire nation takes time off, people can relate to each other in a different way. They can't work, so they might as well enjoy each other! 
+```
+“On it you shall not do any work, neither you, nor your son or daughter, nor your male or female servant, nor your ox, your donkey or any of your animals, nor any foreigner residing in your towns, so that your male and female servants may rest, as you do.” - (Deuteronomy 5:14 NIV)
+```
+
+This was for all the people and animals, and visitors. It wasn’t just for religious people, or those that felt like it. It wasn’t long ago that in our country, everything stopped on Sundays ([Blue Law](https://en.wikipedia.org/wiki/Blue_law)). In Jeruslaem, everything is [closed on Shabbat](https://www.touristisrael.com/shabbat-in-jerusalem/11023/). Even the [elevators in hotels get a Sabbath rest](https://en.wikipedia.org/wiki/Shabbat_elevator) (remember that when we take your trip and if you are on the 10th floor and get on the elevator it will automatically stop at each floor going down because on the Sabbath the orthodox Jew was not permitted to press the buttons. So the entire nation takes time off, people can relate to each other in a different way. They can't work, so they might as well enjoy each other! 
 
 &nbsp;
 
@@ -213,21 +212,29 @@ This was for all the people and animals, and visitors. It wasn’t just for reli
 
 &nbsp;
 
-The Sabbath is also good for you spiritually. This is a Sabbath of the LORD your God. When you take a Sabbath, you are acknowledging God. You are saying, "Lord, you are my provider. I have what I have - not because of what I have done, but because of what YOU have done for me. You gave me the talent, the skills, the resources. You brought me out of slavery.” The Sabbath is not a day to catch up on Netflix or run errands. 
+The Sabbath is also good for you spiritually. This is a Sabbath of the _Lord_ your _God_. When you take a Sabbath, you are acknowledging _God_. You are saying, _Lord, You Are My Provider_. I have what I have - not because of what I have done, but because of what _You Have Done For Me_. You gave me the talent, the skills, the resources. You brought me out of slavery. The Sabbath is not a day to catch up on Netflix or run errands. 
+
+```
+“If you hold back your foot on Shabbat from pursuing your own interests on my holy day; if you call Shabbat a delight, Adonai’s holy day, worth honoring; then honor it by not doing your usual things or pursuing your interests or speaking about them. If you do, you will find delight in Adonai — I will make you ride on the heights of the land and feed you with the heritage of your ancestor Ya‘akov, for the mouth of Adonai has spoken.” - (Isaiah 58:13-14 CJB)
+```
 
 Now, here's the question of the hour. When did the Sabbath change from Saturday to Sunday? Never. It didn’t. The Sabbath is still the seventh day of the week. Before you get bent out of shape saying that Sunday is originally a pagan holiday, so is every day of the week. Each day of the week has a history in paganism. 
 
-I have grappled with this question for years. I do not believe that having a Sabbath on Sunday is anti-Jewish, a conspiracy or because of rebellion. There is no place in Scripture where the command of the Sabbath was rescinded. It is not scriptural to have a 7-day work week and ignore the Sabbath. I am not advocating for picking and choosing which laws we can follow, that couldn’t be further from the truth. 
+I have grappled with this question for years. I do not believe that having a Sabbath on Sunday is antisemitic, a conspiracy or because of rebellion. There is no place in Scripture where the command of the Sabbath was rescinded. It is not scriptural to have a 7-day work week and ignore the Sabbath. I am not advocating for picking and choosing which laws we can follow, that couldn’t be further from the truth. 
 
 First, we don’t actually know when the original Saturday is. Calendars have changed over the years. The Sabbath was changed from Saturday to Sunday by Constantine in 321 AD, in the 4th Century ([Synod Of Laodicea](https://orthodoxchurchfathers.com/fathers/npnf214/npnf2160.htm#P3294_592503)). But Christians were meeting on Sunday long before this. In fact, they were meeting on Sunday in the New Testament. They weren’t doing it as a conspiracy. Jesus rose from the dead on the first day of the week. And the resurrection, for us, is everything. Peter said we have a living hope because of the resurrection of Jesus from the dead. 
 
-We don’t meet on Sunday because of Constantine (321 AD) or Ignatius (110AD), or the [Didache](https://legacyicons.com/content/didache.pdf) (80AD). We do it because the New Testament Christians did it. Acts 20:7 says, `“On the first day of the week we came together to break bread.”` The disciples had come together to break bread on the first day of the week.
+We don’t meet on Sunday because of [Constantine](https://en.wikipedia.org/wiki/Constantine_the_Great) (321AD) or [Ignatius](https://en.wikipedia.org/wiki/Ignatius_of_Antioch) (110AD), or the [Didache](https://legacyicons.com/content/didache.pdf) (80AD). We do it because the New Testament Christians did it. Acts 20:7 says, `“On the first day of the week we came together to break bread.”` The disciples had come together to break bread on the first day of the week.
 
-1 Corinthians 16:2 says, `“On the first day of every week, each one of you should set aside a sum of money in keeping with your income, saving it up, so that when I come no collections will have to be made.”` Why the first day (Sunday)? Because that’s when they got together. It was because of the resurrection. 
+ ```
+ “On the first day of every week, each one of you should set aside a sum of money in keeping with your income, saving it up, so that when I come no collections will have to be made.” - (1 Corinthians 16:2 NIV)
+ ``` 
 
-The seventh day, Saturday, celebrates a finished creation. The first day, Sunday, celebrates a finished redemption. 
+Why the _First_ (εἷς) <sup>[G1520](https://www.blueletterbible.org/lexicon/g1520/kjv/tr/0-1/ "Strong's Number G1520")</sup> _Day of the Week_ (σάββατον) <sup>[G5421](https://www.blueletterbible.org/lexicon/g4521/kjv/tr/0-1/ "Strong's Number G5421")</sup> (Sunday)? Because that’s when they got together. It was because of the resurrection. The seventh day, Saturday, celebrates a finished creation. The first day, Sunday, celebrates a finished redemption. 
 
-Romans 14:5 says, `“One person considers one day more sacred than another; another considers every day alike. Each of them should be fully convinced in their own mind.”`
+```
+“One person considers one day more sacred than another; another considers every day alike. Each of them should be fully convinced in their own mind.” - (Romans 14:5 NIV)
+```
 
 &nbsp;
 
@@ -242,14 +249,14 @@ Romans 14:5 says, `“One person considers one day more sacred than another; ano
 
 &nbsp;
 
-There are three ordained pilgrimage festivals for Israel. Leviticus will talk about them in more detail. Although there would eventually be seven feasts (Don’t you love a God who likes a good party?), there were three special festivals where the Israelites were to journey to a specific place to celebrate. In the Wilderness, they were told to come before the LORD. In Canaan, they were told to journey to Jerusalem. 
+There are three ordained pilgrimage festivals for Israel. Leviticus will talk about them in more detail. Although there would eventually be seven feasts (Don’t you love a God who likes a good party?), there were three special festivals where the Israelites were to journey to a specific place to celebrate. In the Wilderness, they were told to come before the _Lord_. In Canaan, they were told to journey to Jerusalem. 
 
 These feasts have an enormous spiritual element to them, but for the purpose of this section, these instructions were intended to set Israel apart from other nations. The Feast of Unleavened Bread
 
 All of the festivals were agriculturally based and since spring is considered the beginning of the yearly cycle, the first festival was a spring festival. 
 The Feast of Unleavened Bread took place right after Passover. Passover was the 14th day of the first month on the Jewish calendar. The following day (15th - 21st was the Feast of Unleavened Bread. Unleavened bread is bread without yeast. It commemorated when the children of Israel left Egypt in a hurry and the bread did not have time to rise. 
 
-Sin is often pictured as leaven in Scripture (Matthew 16:6, 11; Mark 8:15; Luke 12:1; Galatians 5:9). The Hebrew word translated as _Leavened Bread_ (חָמֵץ)<sup>[H2557](https://www.blueletterbible.org/lexicon/h2557/kjv/wlc/0-1/ "Strong's Number H2557")</sup> is the word _Chametz_ (חָמֵץ)<sup>[H2557](https://www.blueletterbible.org/lexicon/h2557/kjv/wlc/0-1/ "Strong's Number H2557")</sup>. It doesn't mean "leaven" in the same sense that we use it today (yeast). Chametz is any grain product in which fermentation has occurred. It is related to the word chamutz, which means "sour." Leaven (yeast) is used to produce fermentation, especially in bread dough. As the leaven sours the dough, tiny gas bubbles are produced with causes the dough too rise. 
+Sin is often pictured as leaven in Scripture (Matthew 16:6, 11; Mark 8:15; Luke 12:1; Galatians 5:9). The Hebrew word translated as _Leavened Bread_ (חָמֵץ)<sup>[H2557](https://www.blueletterbible.org/lexicon/h2557/kjv/wlc/0-1/ "Strong's Number H2557")</sup> is the word _Chametz_ (חָמֵץ)<sup>[H2557](https://www.blueletterbible.org/lexicon/h2557/kjv/wlc/0-1/ "Strong's Number H2557")</sup>. It doesn't mean "leaven" in the same sense that we use it today (yeast). Chametz is any grain product in which fermentation has occurred. The primitive root word is _Chamutz_ (חָמֵץ)<sup>[H2556](https://www.blueletterbible.org/lexicon/h2556/kjv/wlc/0-1/ "Strong's Number H2556")</sup>, which means "sour." Leaven (yeast) is used to produce fermentation, especially in bread dough. As the leaven sours the dough, tiny gas bubbles are produced with causes the dough too rise. 
 
 &nbsp;
 
@@ -259,13 +266,13 @@ Sin is often pictured as leaven in Scripture (Matthew 16:6, 11; Mark 8:15; Luke 
 
 Interestingly, this leavening process is also the first stage in decay. King David prophecies over the Messiah in Psalm 16:10 when he said, `“For you will not abandon me to the realm of the dead, nor will you let your faithful one see decay.”` Jesus was a pure, sinless sacrifice. 
 
-The Feast of First-fruits / Festival of Harvest / _Shavu‘ot_ (שָׁבוּעַ)<sup>[H7620](https://www.blueletterbible.org/lexicon/h7620/kjv/wlc/0-1/ "Strong's Number H7620")</sup>
+> **The Feast of First-fruits** &bull; **Festival of Harvest** &bull; _Shavu‘ot_ (שָׁבוּעַ)<sup>[H7620](https://www.blueletterbible.org/lexicon/h7620/kjv/wlc/0-1/ "Strong's Number H7620")</sup>
 
-This feast occurs on the second day of the 7-day Feast of Unleavened Bread. Passover, The Feast of Unleavened Bread and the Feast of First-fruits happen one after another. (All three of these feasts have been fulfilled in Jesus’ coming as the Messiah. His death was depicted in Passover; that His body would not decay in the grave is seen in Unleavened Bread; and His resurrection is illustrated in First-fruits.) This was a feast of thanksgiving for the barley harvest, the first grain of the season. The first harvest is viewed as a promise of the larger harvest to come. It is also significant that Jesus rose from the dead on this holiday. Just as the barley harvest twas the promise of more to come, He is our first fruit, the promise of resurrection and eternal life for those who trust Him (1 Corinthians 15:20).
+This feast occurs on the second day of the 7-day _Feast of Unleavened Bread_. [Passover](https://en.wikipedia.org/wiki/Passover), the feast of _Unleavened Bread_ and the feast of [First-Fruits](https://en.wikipedia.org/wiki/Bikkurim_(First-fruits)) happen one after another. (All three of these feasts have been fulfilled in Jesus’ coming as the Messiah. His death was depicted in Passover; that His body would not decay in the grave is seen in Unleavened Bread; and His resurrection is illustrated in First-fruits.) This was a feast of thanksgiving for the barley harvest, the first grain of the season. The first harvest is viewed as a promise of the larger harvest to come. It is also significant that Jesus rose from the dead on this holiday. Just as the barley harvest twas the promise of more to come, He is our first fruit, the promise of resurrection and eternal life for those who trust Him (1 Corinthians 15:20).
 
-Feast of Ingathering / Festival of Booths / _Sukkot_ (סֻכָּה)<sup>[H5521](https://www.blueletterbible.org/lexicon/h5521/kjv/wlc/0-1/ "Strong's Number H5521")</sup>
+> **Feast of Ingathering** &bull; **Festival of Booths** &bull; _Sukkot_ (סֻכָּה)<sup>[H5521](https://www.blueletterbible.org/lexicon/h5521/kjv/wlc/0-1/ "Strong's Number H5521")</sup>
 
-This feast is also called Sukkot, and the Feast of Booths. The Jews would present a harvest offering at the Temple during this feast. It is when they remember God’s sustaining power toward the Israelites in the desert. This feast was at the end of the year when you have gathered the fruit of your labor from the field. This happens in the seventh month from the 15th-22nd day. It is also called the _Feast of Booths_ or _Feast of Tabernacles_. 
+This feast is also called _Sukkot_, and the _Feast of Booths_. The Jews would present a harvest offering at the Temple during this feast. It is when they remember God’s sustaining power toward the Israelites in the desert. This feast was at the end of the year when you have gathered the fruit of your labor from the field. This happens in the seventh month from the 15th-22nd day. It is also called the _Feast of Booths_ or _Feast of Tabernacles_. 
 
 The Feast of Tabernacles is about protection. While they were in the wilderness, they lived outside in tents and booths. Every year they set up little tents/or booths. They leave their homes, their air-conditioning, and their beds and live in these booths. They still do it today! Even though it says that the males were required to come, they made it a family gathering with their wives and children gathering in worship.
 
@@ -275,7 +282,7 @@ Let’s turn our attention to the last portion of chapter 23 for a moment. I wan
 
 &nbsp;
 
-?> <span style="font-size: 1.25em"><i class="fa-solid fa-book-open"></i>&nbsp; **Read** |</span>Exodus 23:20-33 
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-book-open"></i>&nbsp; **Read** |</span> Exodus 23:20-33 
 
 &nbsp;
 
@@ -289,9 +296,13 @@ _Yhwh_ names the nations they will conquer. Why? Because these nations are not g
 
 ?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 4 &#8729; Study Question 2** </span><br/><br/>When we picture conquests, we picture bloody battle fields. But as you reread this portion of scripture, it’s hard to see the bloodshed. What do you see instead? 
 
+&nbsp;
+
 There are some things that God says He will do, and some things that they are supposed to do. 
 
-?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 4 &#8729; Study Question 3** </span><br/><br/>What is _Yhwh__ going to do?
+&nbsp;
+
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 4 &#8729; Study Question 3** </span><br/><br/>What is _Yhwh_ going to do?
 
 &nbsp;
 
@@ -305,11 +316,11 @@ So why can't the Canaanites stay? Because they worship other gods that will be a
 
 &nbsp;
 
-The word is _Haram_ (חָרַם)<sup>[H2763](https://www.blueletterbible.org/lexicon/h2763/kjv/wlc/0-1/ "Strong's Number H2763")</sup>. It means to prohibit or ban. They are supposed to haram them. It is setting them aside as not available. Do not intermarry with them. Do not make treaties. Do not worship their gods. It’s an issue of worship. They cannot serve two masters. Their allegiance needs to be with Yahweh and _Yhwh_ alone. 
+The word is _Haram_ (חָרַם)<sup>[H2763](https://www.blueletterbible.org/lexicon/h2763/kjv/wlc/0-1/ "Strong's Number H2763")</sup>. It means to _Prohibit_ or _Ban_. They are supposed to haram them. It is setting them aside as not available. Do not intermarry with them. Do not make treaties. Do not worship their gods. It’s an issue of worship. They cannot serve two masters. Their allegiance needs to be with Yahweh and _Yhwh_ alone. 
 
 Now I am not saying that there were not battles in the Bible. There were plenty. But I do think that in this case, God is going to fight this battle differently for them. 
 
-Last week Target stores offered a shirt geared toward children that read, “Satan respects pronouns.” And they placed it in the front of their stores in the “pride” section. Christians started protesting shopping at Target, and rightly so. It’s a matter of worship.
+Last week [Target](https://www.target.com/) stores offered a shirt geared toward children that read, [Satan respects pronouns](https://www.dailywire.com/news/target-faces-backlash-over-pride-collection-designer-behind-satan-respects-pronouns-shirts). And they placed it in the front of their stores in the “pride” section. Christians started protesting shopping at Target, and rightly so. It’s a matter of worship.
 
 
 &nbsp;
@@ -317,9 +328,7 @@ Last week Target stores offered a shirt geared toward children that read, “Sat
 
 ?> <span style="font-size: 1.25em"><i class="fa-solid fa-book-open"></i>&nbsp; **Read** |</span> Exodus 24
 
-God is getting the people ready to inhabit the land of Canaan. But first, they must agree to the covenant. In verse three they 
-responded in one voice, `“Everything the LORD has said we will do.”` Then Moses wrote down everything the LORD had 
-said. They are willing participants in the covenant with _Yhwh_.
+God is getting the people ready to inhabit the land of Canaan. But first, they must agree to the covenant. In verse three they responded in one voice, `“Everything the LORD has said we will do.”` Then Moses wrote down everything the _Lord_ had said. They are willing participants in the covenant with _Yhwh_.
 
 &nbsp;
 
@@ -350,7 +359,7 @@ Like the Israelites, we often settle for less than what God has promised us. The
 
 &nbsp;
 
-The beauty in our walk with the LORD is that we can grow as much as we want to grow. There is no limit. God will take us ankle deep, or swimming in water that we cannot reach the bottom. The question is, "How far do you want to go?” We can’t be “more” saved, but we can add to our faith, knowledge, self-control, patience… In verse 1, God calls to Moses and tells him, Aaron, Nadab and Abihu (Aaron’s sons), and the 70 elders of Israel to worship. When God calls you to worship, you should go! It is our highest privilege and greatest responsibility.
+The beauty in our walk with the _Lord_ is that we can grow as much as we want to grow. There is no limit. God will take us ankle deep, or swimming in water that we cannot reach the bottom. The question is, "How far do you want to go?” We can’t be “more” saved, but we can add to our faith, knowledge, self-control, patience… In _Verse 1_, God calls to Moses and tells him, _Aaron_, _Nadab_ and _Abihu_ (Aaron’s sons), and the 70 elders of Israel to worship. When God calls you to worship, you should go! It is our highest privilege and greatest responsibility.
 
 &nbsp;
 
@@ -358,7 +367,7 @@ The beauty in our walk with the LORD is that we can grow as much as we want to g
 
 &nbsp;
 
-?> <span style="font-size: 1.25em"><i class="fa-solid fa-circle-info"></i>&nbsp; **Note** &nbsp;|</span>&nbsp; Nadab and Abihu are going to be struck dead for being “innovative” in the temple with their worship. I wonder if this mention of them is a foreshadowing. They got to go up to the presence of God and they’re going to take it very lightly. Hmmm… let’s reflect on that a moment. 
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-circle-info"></i>&nbsp; **Note** &nbsp;|</span>&nbsp; Nadab and Abihu are going to be struck dead for being “innovative” in the temple with their worship (Leviticus 10:1-2). I wonder if this mention of them is a foreshadowing. They got to go up to the presence of God and they’re going to take it very lightly. Hmmm… let’s reflect on that a moment. 
 
 &nbsp;
 
@@ -374,9 +383,9 @@ There are a few weird things in this chapter.
 
 In Middle Eastern covenants, animals were killed and cut into pieces. The pieces of the sacrificed animal were arranged around the altar. Then the two covenant parties would walk together between the pieces. Basically this meant that they were agreeing that if they broke the covenant, what happened to the animal would happen to them. Why would the people be sprinkled with blood? To signify that the blood of the covenant included or covered them as well. 
 
-Aaron and his sons will eventually have blood sprinkled on them when they are commissioned as priests, but other than that, this is the only other time when someone is sprinkled with blood. In Leviticus 8 blood gets put on the alter and on the priest (his right earlobe, his right thumb and his right toe). So the blood seems to be their official invitation to the covenant. Think of it as a mini ordination ceremony to be a kingdom of priests. The only other case of someone being  sprinkled with blood is in Leviticus 14, but the blood is not applied to the altar, so it’s a little different. 
+Aaron and his sons will eventually have blood sprinkled on them when they are commissioned as priests, but other than that, this is the only other time when someone is sprinkled with blood. In Leviticus 8:23 blood gets put on the alter and on the priest (his right earlobe, his right thumb and his right toe). So the blood seems to be their official invitation to the covenant. Think of it as a mini ordination ceremony to be a kingdom of priests. The only other case of someone being  sprinkled with blood is in Leviticus 14:14, but the blood is not applied to the altar, so it’s a little different. 
 
-3. Then they see God and they eat and drink. They seal the deal with a meal! We will one day dine with Christ at the Marriage Feast of the Lamb! Can you just imagine what that will be like? 
+3. Then they see God and they eat and drink. They seal the deal with a meal! We will one day dine with _Christ_ at the _Marriage Feast of the Lamb_ (Revelation 19:7–10)! Can you just imagine what that will be like? 
 
 What the children of Israel saw was a consuming fire on top of the mountain. And Moses goes up in the midst of the cloud to be on the mountain for 40 days and 40 nights. What is he doing on the mountain for that long? Moses already has the law. Now God is going to call him up for a set of blueprints for the tabernacle- a place of worship while they are in the desert. The number 40 is also the number of testing. Who was being tested for the 40 days and 40 nights? Not Moses. It was the children of Israel. 
 

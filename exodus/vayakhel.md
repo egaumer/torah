@@ -30,7 +30,7 @@ Little did Paul know, but in just a few short years from him writing this, in 70
 
 &nbsp;
 
-?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 1 &#8729; Study Question 1** </span><br/><br/>hat is the first talking point from Moses to the people in verse 2? &#95;&#95;&#95;&#95; At the top of the list is the Sabbath. Are you surprised? We need to really come to grips with what God considers a priority. 
+?> <span style="font-size: 1.25em"><i class="fa-solid fa-pen-to-square"></i>&nbsp;  **Day 1 &#8729; Study Question 1** </span><br/><br/>hat is the first talking point from Moses to the people in verse 2? At the top of the list is the Sabbath. Are you surprised? We need to really come to grips with what God considers a priority. 
 
 &nbsp;
 
