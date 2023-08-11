@@ -17,7 +17,13 @@ The laws of Exodus 21 are among the most controversial of the Old Testament laws
 
 Exodus 21:2-6: The law of Hebrew servants. This chapter begins with the most difficult laws to grapple with - [The Laws of Slavery](https://www.jewishvirtuallibrary.org/slavery-in-judaism). In North America, our collective memory of slavery is ugly. People were kidnapped, maltreated, bought and sold, subjugated to all sorts of cruelties and denied basic human dignities. We have to look at this law as it was intended: to prevent exploitation. 
 
-We must remember that Israel had just left slavery. They experienced it in its ugliest form. God is going to deal with the elephant in the room and talk first about maltreatment of slaves. All of the Bible’s laws about slaves are meant for the protection and well-being of the people enslaved. You can compare this to an abusive home where the son is beaten by the father. When he grows up, he beats his own children because he learned to parent from his father. The Bible’s laws of slavery are meant to break that pattern of mistreatment of another human being, and bring compassion and protection for the vulnerable. These are going to be brand new concepts to the recently freed slaves. So why would they need a slave in the first place? There are laws against kidnapping, laws against the slave trade, so what is this about?
+We must remember that Israel had just left slavery. They experienced it in its ugliest form. God is going to deal with the elephant in the room and talk first about maltreatment of slaves. All of the Bible’s laws about slaves are meant for the protection and well-being of the people enslaved. You can compare this to an abusive home where the son is beaten by the father. When he grows up, he beats his own children because he learned to parent from his father. The Bible’s laws of slavery are meant to break that pattern of mistreatment of another human being, and bring [compassion and protection](https://www.theologyofwork.org/old-testament/exodus-and-work/israel-at-mount-sinai-exodus-191-4038/instructions-about-work-exodus-201-17-and-211-239/case-laws-in-the-book-of-the-covenant-exodus-211-2333/slavery-or-indentured-servitude-exodus-211-11) for the vulnerable. 
+
+```
+If any of your people—Hebrew men or women—sell themselves to you and serve you six years, in the seventh year you must let them go free. And when you release them, do not send them away empty-handed. Supply them liberally from your flock, your threshing floor and your winepress. Give to them as the LORD your God has blessed you. Remember that you were slaves in Egypt and the LORD your God redeemed you. That is why I give you this command today. - (Deuteronomy 15:12–15)
+```
+
+These are going to be brand new concepts to the recently freed slaves. So why would they need a slave in the first place? There are laws against kidnapping, laws against the slave trade, so what is this about?
 
 &nbsp;
 
