@@ -272,7 +272,7 @@ Sin is often pictured as leaven in Scripture (Matthew 16:6, 11; Mark 8:15; Luke 
 
 Interestingly, this leavening process is also the first stage in decay. King David prophecies over the Messiah in Psalm 16:10 when he said, `“For you will not abandon me to the realm of the dead, nor will you let your faithful one see decay.”` Jesus was a pure, sinless sacrifice. 
 
-> **The Feast of First-fruits** &bull; **Festival of Harvest** &bull; _Shavu‘ot_ (שָׁבוּעַ)<sup>[H7620](https://www.blueletterbible.org/lexicon/h7620/kjv/wlc/0-1/ "Strong's Number H7620")</sup>
+> **The Feast of First-fruits** &bull; **Festival of Harvest** &bull; _Bikkurim_ (בִּכּוּר)<sup>[H1061](https://www.blueletterbible.org/lexicon/h1061/kjv/wlc/0-1/ "Strong's Number H1061")</sup>
 
 This feast occurs on the second day of the 7-day _Feast of Unleavened Bread_. [Passover](https://en.wikipedia.org/wiki/Passover), the feast of _Unleavened Bread_ and the feast of [First-Fruits](https://en.wikipedia.org/wiki/Bikkurim_(First-fruits)) happen one after another. (All three of these feasts have been fulfilled in Jesus’ coming as the Messiah. His death was depicted in Passover; that His body would not decay in the grave is seen in Unleavened Bread; and His resurrection is illustrated in First-fruits.) This was a feast of thanksgiving for the barley harvest, the first grain of the season. The first harvest is viewed as a promise of the larger harvest to come. It is also significant that Jesus rose from the dead on this holiday. Just as the barley harvest twas the promise of more to come, He is our first fruit, the promise of resurrection and eternal life for those who trust Him (1 Corinthians 15:20).
 
