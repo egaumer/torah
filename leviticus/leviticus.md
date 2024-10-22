@@ -6,3 +6,12 @@ The Book of Leviticus (/lɪˈvɪtɪkəs/, from Ancient Greek: Λευιτικόν
 Most of its chapters (1–7, 11–27) consist of Yahweh's speeches to Moses, which Yahweh tells Moses to repeat to the Israelites. This takes place within the story of the Israelites' Exodus after they escaped Egypt and reached Mount Sinai (Exodus 19:1). The Book of Exodus narrates how Moses led the Israelites in building the Tabernacle (Exodus 35–40) with God's instructions (Exodus 25–31). In Leviticus, God tells the Israelites and their priests, Aaron and his sons, how to make offerings in the Tabernacle and how to conduct themselves while camped around the holy tent sanctuary. Leviticus takes place during the month or month-and-a-half between the completion of the Tabernacle (Exodus 40:17) and the Israelites' departure from Sinai (Numbers 1:1, 10:11).
 
 The instructions of Leviticus emphasize ritual, legal, and moral practices rather than beliefs. Nevertheless, they reflect the world view of the creation story in Genesis 1 that God wishes to live with humans. The book teaches that faithful performance of the sanctuary rituals can make that possible, so long as the people avoid sin and impurity whenever possible. The rituals, especially the sin and guilt offerings, provide the means to gain forgiveness for sins (Leviticus 4–5) and purification from impurities (Leviticus 11–16) so that God can continue to live in the Tabernacle in the midst of the people.[2]
+
+Introduction
+
+Why Study Leviticus? 
+
+Good question! I'm glad you asked. 
+What is the most important thing in the world? _____________
+Is it happiness? No, it’s holiness. True happiness begins with holiness. 
+Hebrews 12:14: “Make every effort to live in peace with everyone and to be _________; without _______________ no one will see the Lord.” 
