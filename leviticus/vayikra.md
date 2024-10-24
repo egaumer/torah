@@ -202,3 +202,22 @@ Well, one thing we can do is be more thankful for God's goodness! In fact, we ca
 I’d love to encourage you to get together with another family or two this week and have a meal to celebrate that God is a part of our fellowship and our lives! 
 
 Summarize this chapter in one sentence that is meaningful to your life.
+
+&nbsp;
+# Day 4 &middot; _Unintentional Sin (The Sin Offering)_
+
+All the sacrifices we’ve examined had different purposes and occasions. All of them involved burning an animal or grain on the brazen altar, but none dealt with sins. Instead, they dealt with man’s corrupt nature before God. 
+
+Can you remember the purpose of each of the three sacrifices so far?  Look back on Days 1-3 to fill in the blanks. 
+
+
+<img width="507" alt="image" src="https://github.com/user-attachments/assets/98375557-70d2-498d-b8ef-088fdda31276">
+
+The burnt offering (‘Olah) allowed the worshiper to “come near” to the Lord, to make them acceptable to approach the Lord. After that, the grain offering (minchah) was a required gift—a ransom—and by doing so, the worshiper expressed his dedication and desire to be obedient. The peace offering (zebah) established a fellowship (a shalom) between God and the worshiper. These three offerings established and maintained peace and fellowship with Yahweh—despite man’s inherent sinful nature. 
+
+Let’s look at some patterns in Leviticus that we should consider. There is a prescribed way we are to deal with a holy God. There are steps we need to follow to approach Yahweh. Sin is present in us, all of us. No one can approach God using a different method or sequence. 
+
+
+<span style="font-size: 1.25em"><i class="fa-solid fa-book-open"></i>&nbsp; **Read** |</span> Leviticus 1.
+
+
