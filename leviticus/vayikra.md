@@ -218,6 +218,139 @@ The burnt offering (‘Olah) allowed the worshiper to “come near” to the Lor
 Let’s look at some patterns in Leviticus that we should consider. There is a prescribed way we are to deal with a holy God. There are steps we need to follow to approach Yahweh. Sin is present in us, all of us. No one can approach God using a different method or sequence. 
 
 
-<span style="font-size: 1.25em"><i class="fa-solid fa-book-open"></i>&nbsp; **Read** |</span> Leviticus 1.
+<span style="font-size: 1.25em"><i class="fa-solid fa-book-open"></i>&nbsp; **Read** |</span> Leviticus 4.
 
+```
+“Say to the Israelites: ‘When anyone sins ___ and does what is forbidden in any of the LORD’s commands..” (Leviticus 4:2)
+```
+What is an unintentional sin? It is a behavior that was a mistake, an error, and unintended. This is not an “Oops, I made a mistake. I had an affair with my boss.” This is an actual mistake.
+
+Your Bible may have titled this chapter. What is the title? ____
+
+Many translations call it “The Sin Offering.” Look at blueletterbible.org and find the word “sin offering” in verse 3. The Hebrew word is hata. What does the word hata mean? ___ Sin means “to miss the mark.” You are aiming; you just missed.  
+
+```
+Romans 3:23 says, “For all have ___ and fall ___ of the glory of God.” 
+```
+
+We have all missed the mark. How many of you have shot bows and arrows at church camp? Fun, huh? If you hit anywhere on the whole target, it was pretty exciting. But what if you and I got only one shot at camp? I go first. I try to hold the bow steady, but it’s a little heavy, and my arrow flies through the air and into the haystack behind the target. Now it’s your turn. You aim, and your arrow goes right to the second ring! WOW! Pretty good for your first time! (Congrats!) But who hit the mark? Neither of us. We each missed the mark. So sin is committed. God says that sometimes, we sin intentionally (a trespass) and sometimes by omission. It’s unintentional, but it’s still a sin. 
+
+Sometimes, we can hurt someone and not even know it. Or maybe we even do something to God without knowing it hurts Him. But when you find out about it, you feel bad or guilty. That’s unintentional. The cool thing is that God made a provision for even this! 
+
+It carried the meaning that this offering was to purify the sinner so he would not be guilty before Yahweh—because the sin was against Yahweh. He was no longer pure before God and needed to be purified. 
+
+We’ve all seen medication prescription drug commercials. They show you a problem you are having (let’s say insomnia), and then they present their product as the miracle cure. Then they tell you, “…but this is not for everyone.” Then they play some peaceful music and list loads of side effects you can get (nausea, difficulty breathing, hallucinations, switching from Apple to Android… and even death!).
+
+Sin has side effects. Sin is an assault on God’s holiness. 
+
+In 2009, my friend, Jannita, and I got to take a group of students to Australia. One of our stops was Uluru. It was this huge rock in the middle of a very flat desert. Our guide told us that professional photographers could photograph only one side of the rock; the other side was sacred. When we drove around the rock, it was just the beginning of a sunset. As the sun set, the colors changed the brush around the rock to bright oranges, yellows, and reds. It looked like the mountain was glowing! We knew instantly why this side of the rock was sacred. 
+
+![pasted-movie](https://github.com/user-attachments/assets/786805bb-f6c8-42fd-9361-99d44b2f4f42)
+
+Like the other tourists, we could have stayed in front of Uluru, but seeing this rock's sides made it more impressive. 
+
+As we study Leviticus, we will examine the law from all angles. What we will see is how amazing God’s Word is! 
+
+Sin destroys our relationship with God. It is a real danger to the Christian life. God is both a God of love and a God of judgment. Don’t be fooled into thinking God is only one side of that coin. He is both. And sin has consequences. God takes sin very seriously, and it’s not pretty. 
+
+Think of this as though the worshiper has ingested poison, and this offering is the antidote. But this all hinges on a particular word in verse 2. The sin must have been committed unintentionally. The hatta’at shows that the LORD wants to rescue His people from a dangerous condition that can be spiritually fatal if left untreated. 
+
+Four groups of people in this chapter will need this offering. Who are they? 
+
+<img width="507" alt="image" src="https://github.com/user-attachments/assets/95c62955-f3c9-440e-a4c0-cdb779883959">
+
+There are some differences in these offerings of Leviticus 4. The main thing to understand is that there is a hierarchy here. The sins of the high priest are more dangerous than those of the whole congregation. The sins of the entire community were more hazardous than those of a tribal leader. The sins of the tribal leader were more dangerous than an individual's. 
+
+Why do you think that is? 
+
+This sacrifice was in stark contrast to the burnt offering. The burnt offering was voluntary, while the sin offering was commanded. The burnt offering ascended while the sin offering was poured out. One went up, while the other went down. 
+
+The burnt offering meets God’s high and holy standard, while the sin offering meets man's desperate need. In the burnt offering, we see the preciousness of Christ; in the sin offering, we see the hatefulness of sin. 
+
+The end of verse 35 has the answer: 
+```
+“In this way, the priest will make atonement for them for the sin they have committed, and they will be ___.”
+```
+What is the benefit of this sacrifice? Forgiveness! It’s not going to be easy to make this sacrifice. Everyone is going to know that you sinned. You’re guilty. It’s public. Yep. 
+
+```
+ 1 John 1:9 says, “If we ___ our sins, He is ___ and ___ and will forgive us our sins and ___ us from all unrighteousness.”
+```
+
+This sacrifice will “wipe clean” their sin and restore the person to a whole relationship with Yahweh. How beautiful. Summarize this chapter in one sentence that is meaningful to your life.
+
+![Leviticus 4:26](https://github.com/user-attachments/assets/31c32477-a632-47d1-864a-45a17755a631)
+
+&nbsp;
+# Day 5 &middot; _Restitution (The Guilt Offering)_
+
+What is the deal with all of these sacrifices? That’s a lot, right? These sacrifices were not to “nourish” God, like pagans did with their gods. Pagans believed that gods were like humans: they ate and slept, and humans were there to serve the gods. That’s why in India and other places, you will see food trays out at shrines—to feed the gods so they will be happy. 
+
+These sacrifices are entirely different: they are about sin. Sin is such a big deal that you couldn’t even pray without first dealing with it and getting yourself right with God. 
+
+My, how times have changed. Most Christians today do not even realize how offensive sin is to a perfect and holy God. It’s so important that the Bible says, “Without the shedding of blood, there is no remission of sins.” (Hebrews 9:22). 
+
+This is where we lose a lot of people. 1) We don’t think our sin is that bad. 2) Can’t we believe anything if we’re sincere? 3) Why can’t we do the best we can? Well, here’s why… our best is not good enough. You can sincerely believe there is no such thing as gravity…but try walking off a building with your newfound belief system. 
+
+The Bible says the wages of sin are death. Period. It’s either going to be your death or that of a substitute. And that’s what Leviticus is about—the substitute. We all walk around with a spiritual infection. We can deny or ignore it, but it doesn’t change the fact. 
+
+Last month, I got a mammogram. I hadn’t had one performed in a while, and my BFF, Jannita, had been hounding me to get it done. I set an appointment to stop her continuous asking and got called back…twice.
+
+At my ultrasound appointment, the doctor suggested that I get a biopsy. Of course, I will… if you put me to sleep. He just laughed and said that they don’t do that. I would be awake. What?!!! 
+
+I immediately responded: “What if I just ignore it?” He was surprised I asked and told me I had every right to ignore it, but he highly suggested I didn’t. I got a biopsy the next day. He was right. Five days ago (yes, this is still fresh for me), I was diagnosed with breast cancer. 
+
+You can’t be cleansed of something by denying it, ignoring it, or saying, “But it’s not as bad as that person’s sin.” God wants you to deal with it. Sin can kill you physically, emotionally, and spiritually. You don’t have to believe me. You have every right to ignore your sin, but I highly suggest you don’t. 
+
+```
+"For the wages of sin is ___, but the gift of God is eternal life in Christ Jesus our Lord." (Romans 6:23).
+```
+You are not good enough. Your best needs to be better. What arrogance to think that you can work your way into heaven. If that were the case, you would be as good as God. You don’t deserve it. You definitely can’t earn it. Something has to happen first, and that is death. The wages of sin is death. It’s either going to be your life or the death of a substitute. Praise God that He made a way for a substitute! 
+
+We’ve read five chapters so far, with five sacrifices. Do you remember them? 
+
+__________ offering (Lev 1): This is a consecration of yourself to God. (Read Romans 12:1)
+
+__________ offering (Lev 2): This is a dedication of yourself to serve God. I will serve the Lord with the work of my hands. 
+
+__________ offering (Lev 3): This celebrates salvation! It’s a holy BBQ to thank God for His goodness! 
+
+__________ offering (Lev 4): Atonement for your sin.
+
+__________ offering (Lev 5): This is restitution for the sinner.
+
+Leviticus 5 deals with a specific type of sin: sins of omission. The first example is when someone makes a vow “in the name of God” and doesn’t fulfill it. In Biblical times, vows and oaths were equivalent to modern-day written contracts. It doesn’t matter if the vow is for evil or good. They were guilty if they promised something and didn’t do it. 
+
+Have you ever said, “I swear to God, I won’t tell a soul…” and then forgot what you promised?  Well, this offering covers that! God pretty much thought of everything, huh?! 
+
+Verse 1 means telling the truth if questioned under oath (especially by a priest at a public hearing). We see this in Jesus when, in Matthew 26:63, He has been arrested, and the high priest says, “I charge you under oath by the living God: Tell us if you are the Messiah, the Son of God.” 
+
+What does Jesus answer in verse 64? ___ He is following the law of Leviticus 5:1!  
+
+Read Leviticus 5:2-6. How can you come in contact with a dead thing and not know about it??? It doesn’t seem reasonable. But perhaps your friend gave a peace offering and invited you over for a feast, and the sacrifice was defective in some way, and you didn’t know until after you ate it. We’ll talk more about unclean and clean things later, but this is if you accidentally touched something unclean. Let’s say you accidentally touched someone with leprosy. Gross…but you may not have realized you did it until it was too late. You would still be guilty.
+
+```
+ “When anyone becomes aware that they are ________ in any of these matters, they must __________ in what way they have sinned.” (Leviticus 5:5)
+```
+
+The Old Testament is very clear: you must confess your sins first. 
+
+```
+“If we ____________ our sins, He is ______________ and _________ and will forgive us our sins and __________ us from all unrighteousness.” (1 John 1:9)
+```
+Confession is not just acknowledging our sin. What does it mean, then? It means we say the same thing about sin as God says. Oh, wait. This could get painful now. People don’t want to talk about this. First, we don’t even like to call it “sin.” It seems too strong of a word. God calls it “lust,” but we say “love.” See the difference?
+
+In God’s eyes, not being aware of your guilt does not make you less guilty than if you were aware. Yikes! When a man is born, he is born a sinner. Just because he is unaware of that does not make him less guilty than someone who has heard the Gospel and refuses to accept it. That’s God’s rule, not mine. 
+
+Read Leviticus 5:7-13. God has a sliding scale on this sacrifice so that it doesn’t matter if you are rich or poor; you can be forgiven. Everyone gave according to their means. Everyone was able to approach Yahweh. The flip side is that no one is excused from paying a ransom for their sin. 
+
+Since you are all outstanding students, you may think, “Hey, wait a minute. How can a poor person offer grain for sins? I thought that without the shedding of blood, there is no remission for sins?” Good job for catching that! The principle is that the grain offering was offered on the altar's fire with blood already in it. It was on that sacrificial altar where blood was shed—so whatever blood was on that altar when the very poor gave their sacrifice, God would count it as a blood sacrifice. 
+
+Read Leviticus 5:14-19. The guilt offering is different from the others. You bring a sacrifice and confess your sin, but you must also restore what has been taken or mismanaged PLUS 20% (verse 16). You pay extra for it! You pay restitution. A reparation is something that is owed. 
+
+If you speed and get a ticket, it’s a fine. We are not paying something that is owed. It is a punishment for what we did. Paying the fine doesn’t make up (or substitute) for our breaking the law. The reparation in Leviticus 5 does bring restoration and forgiveness. It is not a punishment. It is to restore us back to God in full. 
+
+Do we see this in the New Testament? Sure do! What does Zacchaeus do in Luke 19:8 when Jesus spoke to him? How much did he give back? ______________________________ WOW! That’s so much more than what Leviticus prescribed!
+
+Summarize this chapter in one sentence that is meaningful to your life. 
 
