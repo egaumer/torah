@@ -20,7 +20,7 @@ Take notes on Pastor Joe's Sermon: Dealing with Sin https://bit.ly/lev4sin
 &nbsp;
 # Day 1 &middot; _Worship is Active (The Burnt Offering)_
 
-<span style="font-size: 1.25em"><i class="fa-solid fa-book-open"></i>&nbsp; **Read** |</span> Exodus 30:11-16
+<span style="font-size: 1.25em"><i class="fa-solid fa-book-open"></i>&nbsp; **Read** |</span> Leviticus 1.
 
 Millions of people create a New Year’s Resolution every year on New Year's Eve. Did you make one this year? What was it?
 
@@ -159,4 +159,9 @@ What do you think the grain offering teaches us about The Messiah? ___
 Summarize Leviticus 2 as it can apply to your own life.
 
 ![Leviticus 2-4](https://github.com/user-attachments/assets/38e7ae9e-543f-4ce8-a52a-8127445dad01)
+
+&nbsp;
+# Day 3 &middot; _The Fellowship Feast (The Peace Offering)_
+
+<span style="font-size: 1.25em"><i class="fa-solid fa-book-open"></i>&nbsp; **Read** |</span> Leviticus 3.
 
