@@ -165,3 +165,40 @@ Summarize Leviticus 2 as it can apply to your own life.
 
 <span style="font-size: 1.25em"><i class="fa-solid fa-book-open"></i>&nbsp; **Read** |</span> Leviticus 3.
 
+Like chapters 1 and 2, this chapter has a pattern. 
+
+Verses 1-5: Peace Offerings of Cattle
+
+Verses 6-11: Peace Offerings of Sheep
+
+Verses 12-17: Peace Offerings of Goats 
+
+Each paragraph follows the same pattern: “If you offer…” (states the tasks the worshiper and priests perform), and ends with “a food offering…pleasing to the LORD.” 
+
+The peace offering was called the Zebah sacrifice. It is an optional offering. It’s only offered if the worshiper feels like it. This sacrificial offering was a peace offering or a fellowship offering. It was not a sacrifice for sin. This sacrifice was slightly less sacred than the first two. In the first two sacrifices, the priests had a prominent role and shared in the sacrificial offering (they kept the skins of the animals and the grain). In this offering, only certain animal parts would be burned up. It could also include male and female animals, but it must be without blemish. Another difference was that the worshippers ate the meat with their family and friends afterward. Part of the sacrifice is burned by fire, part is given to the priest as compensation (the breast and the right thigh), and the rest is taken home for a massive celebration party, celebrating the peace between you and God. This offering is simply something you want to do! How beautiful! 
+
+There is an essential truth in all of these sacrifices. These sacrifices—and all the laws—were only for redeemed people. None of these acts brought redemption. Rather, God first redeemed Israel and gave those people laws and rituals to maintain a relationship with God. It’s the same for us. Our redemption is a free gift. Once we are redeemed, God will explain how we can maintain a relationship with Him. 
+
+This is a peace offering. The Hebrew word for peace is Shalom. To the Hebrews, “peace” meant more than the absence of war. It’s also the word for hello and goodbye. It means peace but so much more. It means satisfaction and well-being, health, prosperity, and peace with God. It’s a word that means I am at peace because I am in the right relationship with God, and I want to take time out to thank Him, praise Him, and enjoy the company of my family and friends. Isn’t this a wonderful idea? God is welcomed into fellowship with us, and we are guests at God’s table.	
+
+There are three types of peace offerings: 
+
+**The confession offering—** when the worshiper sought God for deliverance from his enemies or healing from sickness (Judges 20:24-28 and Judges 21:1-4). He could also offer this sacrifice after he was delivered. 
+
+**The vow offering-** asking God to help you with some problem or to show His mercy for your particular need, and you would pledge to do something for God in return. Jacob made this vow at Bethel. He vowed that if God got him home safe, “the Lord shall be my God” (Genesis 28). When he did return in Genesis 35, he built an altar so he could sacrifice. But Hannah gave the best-known peace or fellowship offering in 1 Samuel 1. When Samuel was weaned, she brought a peace offering to thank God for keeping His promise. 
+
+**The freewill offering-** This one differs from the above in that the worshiper is not seeking anything from God. It is just a spontaneous expression of gratitude to Yahweh. It was a joyful occasion of thanksgiving for God’s goodness, forgiveness, and unexpected generosity. 
+
+These types of peace offerings (zebah) ended with a sacred meal. 
+
+In Acts 21, Paul paid the “expenses” for four men who took a Nazarite vow. He was giving a zebah sacrifice. Now that you know what it is, maybe you will see more examples of this in scripture as you read! 
+
+One more thing about the last verse in chapter 3. It says you must not eat any fat or any blood. The Jehovah’s Witnesses have taken this verse out of context. They believe this even includes a blood transfusion—which is not what it says. Leviticus 17 will explain this further by saying you don’t eat the blood because “the life of the flesh is in the blood.” Even though God is saying not to eat the blood, somehow, in their minds, the blood eventually becomes a part of their body, and a transfusion breaks this commandment. This is a gross misinterpretation of the text. 
+
+How can we apply this offering to our lives? ___
+
+Well, one thing we can do is be more thankful for God's goodness! In fact, we can be celebratory about it! It’s a party…not because it’s someone’s birthday or a holiday, but just because we want to celebrate God’s goodness and faithfulness to us. 
+
+I’d love to encourage you to get together with another family or two this week and have a meal to celebrate that God is a part of our fellowship and our lives! 
+
+Summarize this chapter in one sentence that is meaningful to your life.
