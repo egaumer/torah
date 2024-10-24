@@ -14,6 +14,9 @@ Leviticus will reveal God's character—and God has not changed. It will also te
 
 Take notes on Pastor Joe's Sermon: Dealing with Sin https://bit.ly/lev4sin
 
+![Lev_4_Dealing_With_Sin](https://github.com/user-attachments/assets/5c789808-0b77-4cf6-9729-507203794884)
+
+
 &nbsp;
 # Day 1 &middot; _Worship is Active (The Burnt Offering)_
 
@@ -40,4 +43,120 @@ This offering is completely consumed, totally burned. It all goes to ashes, exce
 In Leviticus 1, what different animals are given as sacrifices? 
 
 What is the reason for so many different animals? There are so many different options. The reason is that the people have varying financial abilities. Somebody with a lot of money can offer a cow. But for someone else, that offering could completely bankrupt them. They may not even have the means to own a cow. So everyone, from the most wealthy to the poorest, can have an offering. 
+
+```
+“If the offering is a burnt offering from the ___, you are to offer a ___ without ___.” (Leviticus 1:3 NIV)
+```
+What similaritites do you see with verses 3 and 10? 
+
+The animals given to God needed to be healthy. They were to give their best to God. Let me put it this way: they were to give their best worship to God. 
+
+God understands our tendency to find something we’re not using anymore and give that. We think, “Well, this cow has a broken leg. I can’t use it for anything, so I’ll give that one to God.” And don’t we do that today? Who hasn’t sat in church and thought, “The music is too loud. Or, it’s not loud enough—someone might hear me singing. I’ll clap, but I won’t sing. I’ll give my worship, but it won’t be whole-hearted. What would people think if I stood up, raised my hands, or went to the altar?” 
+
+God said, “Um, no. That won’t do. You need to bring a male and one without a blemish.” God was not being gender-neutral. He also didn’t explain why it had to be a male or a female (in other cases). We’re just told what they were to do. 
+
+```
+“When you offer blind animals for sacrifice, is that not ___? When you sacrifice ___ or ___ animaals, is that not ___? Try offering them to your ___! Would he be pleased with you? Would he accept you? Says the LORD Almighty.” (Malachi 1:8 NIV)
+```
+Your sacrifice is to be the best. It is to have no blemishes. 
+
+Throughout this whole chapter, the reference is made to “you.” You are to offer a male without defect, you must present it, you are to lay your hand on the head, you are to slaughter the bull, you are to skin it and cut it into pieces… Who is you? Look back at verse 2. Who is the “you” that is doing all these things? 
+
+The worshiper is the one who comes with his own knife to the sacrifice. They must kill their own animal and cut it to pieces before the priest. The priest will take it from there, sprinkle the blood, lay out the parts on the altar, etc. 
+
+When we visualize this scene, the common man (not the priest) performs most of the duties, with the priest officiating. We must realize how passive and sterile our church has become in our worship. Our involvement in worship and seeking forgiveness is reduced to just showing up…and sometimes not even on time or in person. This was not God’s plan. The worshiper was an active participant in worship. The worshiper is all in. 
+He is totally committed in two ways: 1) It will cost him something. Worship must cost us something: our time, talent, treasure…it’s costly. It costs our best, not our leftovers. 
+
+In 2 Samuel 24, David went to buy some property from a man named Araunah to build the temple. Of course, when Araunah saw that the king wanted the land, he offered it for free. He even wanted to throw in some oxen for the burnt offering. But David wouldn’t have it. What did he say to Araunah in verse 24? 
+
+There was no way he would offer something to God that cost nothing. What does worship cost you? 
+
+When they laid their hand on the head of the animal, this act acknowledged that this particular animal was being sacrificed. At that moment, the animal's life was turned over to God. The Bible also refers to “laying on of hands” to a person in authority assigning someone, or something, a task. It’s about the transference of authority. When Moses handed over leadership to Joshua, he laid hands on him to transfer authority. The same idea applies to animals. The animal has been designated a sacrifice specifically on behalf of its owner. But there is also the transfer of sin. The killing of the animal is a substitute for the death of the worshiper. 
+
+#1 Worship is costly, and #2 Worship is personal. The worshipers did the work. They put their hand on the animal’s head. They were active participants in this. 
+
+```
+In Romans 12:1, Paul urges us, “In view of God’s mercy, offer your ___ as a living sacrifice, holy and pleasing to God- this is your ___ and ___ worship.”
+```
+
+Leviticus gives a new meaning to that verse. Paul wants us to be consumed with what the Lord wants.
+
+The‘olah (burnt offering) was to ask God to accept the worshiper. It was to draw near God and be at peace with Him. It was a gift.  The smoke that rose to God pleased him because 1) the individual obeyed His commands. The worshiper wasn’t running away; they were drawing near!  2) Peace (shalom) was taking place. God sincerely wants humanity to be at peace with Him. 
+
+(Highlight the purpose of the burnt offering in the above paragraph. Underline the reasons why the smoke pleased God.)
+
+This gift allowed the worshiper, an imperfect person, to approach the most holy and perfect God.
+
+When Abraham was asked to sacrifice Isaac on the altar and burn him up, we know that it was not because of some sin Isaac or Abraham had committed. This was an ‘olah offering. It’s about total surrender and obedience to God. Isaac was replaced by a ram that was caught in the thicket. The sacrifice demonstrated the idea of a ransom so that man could be at peace with God. What was the point of putting Abraham and Sarah through this ordeal? It was to shadow both the future Levitical sacrificial system and Jesus. Ultimately, God the Father took Abraham’s role, and Jesus the Messiah took Isaac’s role. The process was not stopped this time because this was the real deal. God had been preparing this since before He created Adam. 
+
+Each of the offerings we will learn about, teaches us something essential about Christ—both as a person and the work He completed on our behalf. What do you think this first burnt offering teaches us about The Messiah? 
+
+Summarize Leviticus 2 as it can apply to your own life.
+
+![Leviticus 1:1](https://github.com/user-attachments/assets/90349851-c3e8-4e4f-9b5d-428896ec1a79)
+
+
+The burnt offering shows us Christ as our substitute, and it shows His death. 
+
+&nbsp;
+# Day 2 &middot; _Simply a Steward (The Grain Offering)_
+
+<span style="font-size: 1.25em"><i class="fa-solid fa-book-open"></i>&nbsp; **Read** |</span> Leviticus 2.
+
+This is the second type of offering. It, too, was burned up on the brazen altar, but it was not blood; instead, it was plant life, specifically grain… or even more specifically, it was semolina, the best part of the grain. It was an offering from the work of your hands. (Here’s a link to how the ancient Israelites baked bread: https://www.biblicalarchaeology.org/daily/ancient-cultures/daily-life-and-practice/biblical-bread-baking-like-the-ancient-israelites/) 
+
+![leviticus ch2](https://github.com/user-attachments/assets/d428ac97-d0c4-472f-8a66-629bbcbde9b5)
+
+This offering was about worship. God provided them with the land and produce, and the worshiper is giving back a portion to the Lord as a thank you.  
+
+Look at www.blueletterbible.org Look up the word for “grain offering” in Leviticus 2:1. What is the word? 
+
+This grain could be offered in several ways: cooked in an oven, on a grill, forming crispy wafers, or in a covered pan—like holy pancakes! Whatever way you cooked it, it needed to be unleavened because nothing containing leaven could ever be burned on the brazen altar. Frankincense and salt could also be added. This would create a pleasant aroma, and then the grain would proceed to smoke. The smoke would rise and please the LORD. 
+```
+“Every grain offering you bring to the Lord must be made without ____________, for you are not to burn any yeast or ______________ in a food offering presented to the Lord.” (Leviticus 2:11)
+```
+
+From our studies in Genesis and Exodus, we know that yeast (or leaven) is the equivalent of ______. (Did you get that one on your own?! If so, bravo!) It is equivalent to sin because leaven causes the bread to ferment and rise. Fermentation corrupts the bread. Once you put leaven into bread, it starts to go bad. 
+```
+“A little yeast works through the whole batch of dough.” (Galatians 5:9)
+```
+
+It takes only a little bit to spoil everything. Man, is that ever true? 
+
+Leviticus 2:11 also says not to offer yeast or ___ to the Lord. Why no honey? Pagans often used honey in their sacrifices to their pagan gods to “sweeten” their offerings. Our sacrifice to God should not resemble anything in pagan worship or influence. God doesn’t need us to add anything to what He has prescribed. 
+
+Salt was also added to the dough, and the bread was flavored. When Jesus said, “You are the salt of the earth,” He meant that you are the spice of life. There were no refrigerators then, and salt was a preservative. You preserve God’s values in your culture, family, and own life.  Salt was added to every type of grain offering. All sacrificial offerings were to be salted.
+
+In the ancient Middle East, salt was used to make treaties between two business partners and break a treaty. If a treaty was broken, the consequence was that large volumes of salt would be sprinkled in the offending party’s fields, making them unusable. Yikes! It was also practical because salt is absorbent. It would absorb any extra blood left and then shake it to the ground. The meat needed to be drained of all its blood. Salt would help ensure that no one would eat any blood. The waste salt would then be poured on pathways to keep vegetation from growing. 
+
+The ritual of the grain offering was that the worshiper prepared the dough by one of the prescribed cooking methods or left it uncooked. They brought it to the tabernacle and handed it to the attending priest. The priest would take a handful and put it onto the brazen altar where fire would consume it. This was a small portion. The remainder of the grain offering was given to the priests to be used as their food. They could eat it only on the Tabernacle grounds, as it was a sacred meal. They were dining in God’s presence even though a small amount was taken out, symbolically, that made the entire dough holy. 
+
+```
+“If the part of the ___ offered as firstfruits is ___,  then the whole batch is ___; if the root is holy, so are the branches.” (Romans 11:16)
+```
+Paul is referring to the grain offering, the minchah. He is using the example of the grain offering of the sacrificial system because it was understood by the Jews he was speaking to. They understood that the whole loaf would be holy if a portion were given to God. This is another good reason why knowing the Torah is essential to understanding the New Testament. 
+
+This grain offering was a gift to God; for individuals, it was voluntary, but when the priests offered this on behalf of the nation, it was a tribute. 
+
+Let’s step back a minute. There were two different sacrifices in chapters 1 and 2. The ‘olah was the burning up of animals. The minchah was burning up plant life. The smoke from the sacrifice was the key element. (NOTE: It is essential to know that none of these sacrifices had anything to do with atoning for sins.) The ‘olah was to get God’s attention and to get Him to look favorably on the worshiper. It also brought peace between God and the worshiper. It was a means of reconciliation. Once this was accomplished and the worshiper was put into good standing with God, the grain offering was expressed as being thankful for God’s provision and acknowledging the worshiper’s dedication to the God of Israel. 
+
+When Jesus died, His sacrifice fulfilled the purpose of the olah and the minchah. His death and our faith in Him make us acceptable to God. His death allows us to approach the throne room of God. Does our behavior matter? Of course! Obedience always matters. When we sin and disobey Him, we need to ask for forgiveness. This grain sacrifice was dedicated to God. 
+
+We also bring a gift to God as an act of dedication, “I dedicate myself and my possessions to you, LORD.” We not only feel gratitude, we show it. We not only talk about our dedication, we demonstrate it.
+
+What can you do this week to demonstrate your gratitude for the LORD? ___
+
+We learned of the ‘olah and the minchah. The smoke was a pleasing aroma to God. So, how can you make that applicable? ___
+
+This sacrifice was to say that all I have belongs to God. All that God has given me, all that comes from my labor and hard work, whether in a field or an office, all that the Lord puts into my hands, I am simply a steward of God's blessings. 
+
+What can we learn from this? Simply, all we have belongs to the Lord. All that He has given us, all our abilities, our health, our wealth, our jobs, our hard work (whether in the harvesting fields or the office), all God has put into our hands—we are just a steward of these blessings. So, with what God has blessed us, we will turn around and offer some back to the Lord to fellowship with Him.
+
+So, Leviticus 1 states that blood is shed, giving us access to God, and Leviticus 2 states that we are blessed to make an offering from the work of our hands.
+
+What do you think the grain offering teaches us about The Messiah? ___
+
+Summarize Leviticus 2 as it can apply to your own life.
+
+![Leviticus 2-4](https://github.com/user-attachments/assets/38e7ae9e-543f-4ce8-a52a-8127445dad01)
 
