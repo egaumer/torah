@@ -71,3 +71,5 @@ In this holy tent, humans can meet with God. But in Numbers 1:1, where is Moses?
 What is happening here? Moses is the representative of Israel. How did he go from being outside the tabernacle to inside it? Leviticus is going to answer that question! It will also answer the question, “How do I approach God?” And “What does it mean to be holy?”
 
 Leviticus bridges our need for restoration and the relationship between humans and God. It is not just a book about laws and rituals (although there are plenty of those), but it is the story of God’s desire to repair His relationship with Israel so they can live as His people. 
+
+As you read through Leviticus, keep a list of any familiar verses you may have heard in the New Testament. How many can you catch? 
