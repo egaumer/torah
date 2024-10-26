@@ -90,3 +90,82 @@ God was receiving this active attitude of worship because this is what He prescr
 Summarize today in one sentence that is meaningful to your life. ___
 
 ![Leviticus 9:23](https://github.com/user-attachments/assets/41671bab-fca7-4801-8169-37930dd7c2e7)
+
+# Day 3 &middot; _Nadab and Abihu_
+
+Wow, what an incredible grand opening. Right? People are feeling good! God has brought down the holy fire, and the people are on fire for God! This is one epic worship service! 
+
+And then we meet Nadab and Abihu. They are two sons of Aaron—Moses’ nephews. Most likely, they were in line to be the next High Priest upon Aaron’s death. It’s their first day on the job, and they don’t make it out alive. 
+
+If I were writing the Bible, I would want to ensure that all Biblical heroes were seen in the perfect light. We would focus on their strengths (wink)! But what I love about the Bible is that heroes are shown in their true light. Their flaws are all exposed.
+
+I am a teacher by trade, and when I taught elementary school, we always spent a lot of time reviewing rules and regulations before getting into the content. This was to set boundaries to make valuable and practical applications of our learning. We’ve been doing this in Leviticus, and you’re about to see how it pays off. 
+
+As believers, we are often told of God’s love. That’s what we want to hear, right? That God forgives and is love and merciful. And He is!!! He is all of that. But God has more to His character than that. He has a willingness to judge and punish. We can’t picture God as only one-sided, or we have a warped opinion of who God is. He slayed hundreds of thousands of Egyptians because of Pharaoh’s stubbornness. God, out of love, permitted His own Son to die on the cross for our sins. That doesn’t seem right, but it is. 
+
+We, as believers, need to be more balanced in our thinking. Modern Christianity believes that once we accept Christ, we also sign up for fire insurance. And then we can play with matches any way we want. Don’t get me wrong—we are not to live in fear, anxiety, or worry. But we should (at the very least) desire to avoid God’s wrath. 
+
+We’ve already learned that God is very interested in the specific details of the Tabernacle and how worship is conducted. Exodus 19:22 says, “Even the priests, who approach the LORD, must consecrate themselves, or the LORD will break out against them.” We’re about to find out what that means. 
+
+<span style="font-size: 1.25em"><i class="fa-solid fa-book-open"></i>&nbsp; **Read** |</span> Leviticus 10:1-5.
+
+&nbsp;
+
+What kind of fire did Nadab and Abihu offer the LORD, according to Leviticus 10:1? _________
+
+Some versions say “strange” or “profane.” Others say “unauthorized.” There are a lot of ideas about what this fire was. We can speculate, but the bottom line is not going to change. They most likely did not light the incense censor from the coals of the altar, which had come down from heaven.  Some think they were drunk (Leviticus 10:9), or maybe they dared to even go past the veil into the Holy of Holies (Leviticus 16:1-2). Whatever the reason, God was not happy. They were out of step with God’s commands. 
+
+The “fire” was scorching coals. They would put hot coals into their censors (like a fire pan…not a flaming fire) and use it to light the incense in The Holy Place. But whatever they did, they offended God. They were wrong and should have known better. They were close to God. They were in the public’s eye. Approaching God is a serious matter. Our God is holy. He means what He says and says what He means.
+
+Fire comes out from the presence of the LORD again, but this time, it consumes both Nadab and Abihu, and they die before the LORD (Verse 2). This is a powerful lesson for the nation: If you worship God, it has to be based on sacrifice and obedience. 
+
+Hebrews is a commentary of Leviticus. 
+
+```
+“Therefore, since we are receiving a kingdom that cannot be shaken, let us be thankful, and so ____ God ___ with ____ and ____, for our ‘God is a ____  ___.’” (Hebrews 12:28-29)
+```
+Remember- Nadab and Abihu saw God's miracles in bringing the Israelites out of Egypt. They heard the audible voice of God, saw the fire, lightning, and smoke, and felt the thunder and earthquake at Mount Sinai. They saw the God of Israel (Exodus 24:1-2) with a special meeting with Moses, Aaron, and the 70 elders. Read Exodus 24:9-11. They saw these things, ate, and drank on the mountain with the closest group to God. 
+
+The same fire that displayed God’s glory now showed His judgment of these unfaithful priests. 
+
+Can you think about Aaron? Here are his two eldest sons, performing their first sacrificial ritual since becoming a priest. What a proud moment as you watch them walk in front of hundreds of thousands of Israelites…but instead of God’s blessing, God cremates them before his eyes! His sons! What was going through his mind? What is going through yours? It would be devastating. This is when you ask, “Why? Why would God do such a thing? I’ve been faithful. My children are serving in the church. Why?”
+
+Write the words that Moses said to Aaron in verse 3: ____
+
+How did Aaron respond? ___
+
+I imagine so.
+
+It seems a little much. But these boys violated the one thing God cannot tolerate being violated or smeared…His holiness. Yahweh says in verse 3, “I will be proved holy; in the sight of all the people I will be honored.” What would the common folk do if the priests were careless in their worship? (I mean, just a few weeks prior, they were making a golden calf…there’s that.)
+
+Fire from heaven occurs 12 times in the Old Testament: six times in a beneficial way (Leviticus 9:24; Judges 6:21; Judges 13:20; 1 Chronicles 21:26; 2 Chronicles 7:1-2; and 1 Kings 18:38) and six times in judgment (Leviticus 10:2, Numbers 11:1; Numbers 16:35; Job 1:16; and 2 Kings 1:10,12). 
+
+Here’s the thing: We cannot rely on past experiences to make us right with God. We have to work out our salvation continually. It’s easy to think, “Hey, fire is fire. As long as it burns, it’s okay.” In Nadab and Abihu's case, this was a deadly mistake. 
+
+Was there evidence of God doing something like this in the New Testament? Yep! Let’s look at the story of Ananias and Sapphira in Acts 5. They are believers. They were Jews who had come to believe in Jesus as the Messiah. They were not pretenders, or they had fooled themselves into thinking they believed. Even the disciples were surprised at what happened. 
+
+What happened? The people were giving to the ministry. They were selling property and giving the proceeds to the church and people in need. Ananias and Sapphira wanted to join in the spirit. They were sincere. They sold property and brought the proceeds to the church leadership…they just told a little white lie. They pretended to give it all to the Lord but held some back for themselves. It was very generous. How many of us would sell our house and give every penny to the church? How many of us would sell property and give 90% to the church? 
+
+But this was not about generosity. It wasn’t even about lying. It was more than that. We have to go back to the Old Testament to find out. When an Israelite brought in a sacrificial animal and presented it to God, that property became God’s property. In the sacrificial system, it formally belonged to God. The laying of hands on the animal’s head was turning that sacrifice over to God. 
+
+When Ananias and Sapphira sold their property and gave the money to the Lord, it became holy property. They were not obligated to sell their property and donate money; it was their choice. But once they made a choice, the situation changed. That money became holy. Once it became holy, it was all His. And when they took God’s holy property, it was a violation of God’s holiness. God killed them.
+
+In a way, they held the same status as Nadab and Abihu—Ananias and Sapphira were as common priests for the High Priest, Jesus Christ; Nadab and Abihu were priests for the High Priest, Aaron. 
+
+Let’s give a big “thank you” that God doesn’t do this now. If He did, every church service would be followed by funeral services. Right? How about when we sing, “I surrender all,”…and you’re not actually surrendering all? (Yeah…dead… “Ushers, please call the morgue; we got another one down.”) 
+
+Be careful when you say, “Oh, that guy is having a hard time; God must be judging him.” We don’t know what God is doing. God is God, and we are not.
+
+In verse 4, Moses called to Mishael and Elzaphan (Nadab and Abihu’s cousins) and had them carry the boys away from the camp. This was the standard place to put the deceased. Dead bodies could not be anywhere within the camp of Israel. Remember when you are reading Scripture that there are a lot of ways to become “unclean,”…the most serious is to come in contact with death. 
+
+All of this sounds so severe. This is the side of God we’d rather not talk about, the side that some Christians don’t think exists anymore. That was the God of the Old Testament; in the New Testament, there is no judgment. Ha! 
+
+```
+“Jesus Christ is the same ___ and ___ and ___.” Malachi 3:6, Yahweh tells us, “I the LORD do ___ change.” (Hebrews 13:8)
+
+So then what you’re saying is that the God we’ve been told over and over never changes…has changed? What do you think? ________
+Summarize today in one sentence that is meaningful to your life. ___
+
+ ![Leviticus 10:3](https://github.com/user-attachments/assets/e6aab517-11c4-41cf-80aa-6f8e2014b36f)
+
+
