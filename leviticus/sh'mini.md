@@ -213,3 +213,73 @@ Here's another Hebrews tie-in.
 “Therefore, since we have a great ___ priest who has ascended into heaven, Jesus the Son of God, let us hold firmly to the faith we profess. For we do not have a high priest who is ___ to empathize with our weaknesses, but we have one who has been tempted in ___ way, just as we are—yet he did not sin. Let us then approach God’s throne of ___ with ___, so that we may receive mercy and find grace to help us in our time of ___.” (Hebrews 4:14-16)
 ```
 Summarize today in one sentence that is meaningful to your life. ____
+
+ # Day 5 &middot; _Clean and Unclean_
+
+<span style="font-size: 1.25em"><i class="fa-solid fa-book-open"></i>&nbsp; **Read** |</span> Leviticus 11.
+
+&nbsp;
+
+Beginning in this chapter and continuing through chapter 16, we will learn about the laws of purity…starting with the laws of diet. This diet is also known as a Kosher diet. 
+
+The Torah calls for a holy and pure lifestyle as defined by God. But these laws and commands were not for just anyone; they were for Israel. Note that, of course, there were foreigners with the Israelites. We learned in Exodus that many Egyptians fled with the Hebrews. A foreigner who officially joined Israel was an Israelite. There were not two classes: natural born and adopted. They all operated under the same system. We, as Gentiles, have been grafted into the vine of Israel. 
+
+These laws are a hot debate right now. Should Christians eat a kosher diet? Should we have to follow all the same rules? That is a question we can discuss later, but the bottom line is the Kosher diet was about holiness, purity, and cleanliness. 
+
+What is the opposite of holy? ______ The opposite of holy is common. Common is just what it means: nothing special, ordinary, or typical. The word “holy,” on the other hand, carries the highest and most significant value. It is rare, set apart, and unusual. Few things are holy; almost everything is common. So, we can say that everything common is not holy. Something cannot be common and holy at the same time. Nor can it be both clean and unclean. 
+
+God chose the nation of Israel to be a separate, holy nation…unlike the common nations. We see throughout all of Scripture that God separates things. 
+
+Can something that begins as common become holy? Yes! Thank you, Jesus! How does something common, like you and me, become holy? The Creator of the Universe must sanctify us. Once something is sanctified, it is no longer common. In Genesis 2:3, God blessed the seventh day and sanctified it. He took an ordinary day and made it holy.
+
+Clean animals can be eaten, and unclean animals need to be avoided. You’ll find that, as we read through Leviticus, there is a lot of talk about clean and unclean. Simply stated, clean things are allowed in God’s presence; unclean things are not.
+
+Take notes on this short video and summarize what you have learned. (https://www.youtube.com/watch?v=UQtjYP6lBio)___
+
+![Lev 11 Clean and Unclean](https://github.com/user-attachments/assets/46772779-cb37-428f-a425-cc8a70f1a5cd)
+
+Let’s explore this concept of clean and unclean a little more. It will help us better understand the New Testament. 
+ 
+According to Leviticus 11:24, clean things can be polluted by unclean things. The basic principle can be illustrated this way. A boy with COVID-19 cannot be cured by coming into contact with a boy who is well. But it does work the other way. When something clean touches something unclean, the clean thing is degraded. A Christian cannot play with the world and not be contaminated. 
+
+Think about this. All of this was 4000 years ago, before we knew about bacteria. God was protecting His people. 
+
+We are learning something about death in this chapter. Death is unclean. Why? Because death is abnormal. It was not present when God created the heavens and the earth. God does not want anyone to perish—but to come to repentance (Ezekiel 18:32; 2 Peter 3:9). The world became polluted in the garden with sin… and ultimately death.
+
+In verse 32, we are introduced to the concept that objects can also become unclean. Here’s what I found interesting. To clean a utensil, the water needed to be from a spring. It could not be water from a pot (considered “dead” and unclean). In other words, water connected to the earth, or “living,” is clean.  In John 7:37-39, Jesus says whoever believes in Him will have living water flow from within. In this brief saying, Jesus refers back to Exodus 17 and forward to Revelation 22!
+
+Verse 44-45 sums up all of these laws about clean and unclean. Be holy because the LORD is holy! 
+
+Do some research on your own. What can you learn from a quick Internet search on “Leviticus 11 clean vs unclean”? _____
+Summarize today in one sentence that is meaningful to your life. ____
+
+![Leviticus 11:45](https://github.com/user-attachments/assets/5e378c14-bc93-451f-b3f7-8fec1b4d9323)
+
+ # Extra Thoughts &middot; Leviticus 11
+
+We love to ask “Why.” Why is God so concerned with these regulations? 
+
+Here’s the answer- our minds simply cannot fathom God’s mind. And if we could possibly know the answer to all of our whys, then where does faith come in? Faith is trusting God when there is no available or obvious answer. Could we say that Job was a man of faith if God answered all of his why’s prior to his challenges? How about Abraham? 
+
+Let’s instead look for patterns. 
+
+1) There are three zones of holiness. When we look at the tabernacle, the Holy of Holies is the inner post part. Only the High Priest could enter, and only once a year. The Holy Place was the next holy area, and common priests could enter this area. The least holy place was the outer court. Israelites were welcome to enter this place to take their sacrifices. While it was the least holy, it was holy nonetheless.  Outside of these boundaries were the common areas (not holy or set apart). 
+
+We see this on the Mount of Sinai. The top of the mountain was the holiest and only Moses could go there. Then the next level was the slope of the mountain. This is where Aaron, his sons and the 70 elders went. At the bottom of the mountain there was a boundary. The ordinary Israelites could gather and worship here. It was the least holy place, but holy nonetheless. 
+
+When we see the phrase “outside the camp”, this is the area that is common, not sanctified, no longer holy. 
+
+Here’s another pattern of holiness found in the priesthood. We have the High Priest (most holy), common priests (line of Aaron), and the Levites (not priests, but still served in the tabernacle…the least holy, but holy nonetheless. Even sacrificial animals followed this three step pattern. 
+
+Our God is holy, holy, holy. 
+
+https://www.youtube.com/watch?v=MsiLjfZoHLo
+
+2) Satan says there is no such thing as holy. He believes everything is equal and the same.  There is no right /wrong, male/female, good/evil, holy/unholy, saved/unsaved. 
+
+God separates and divides. He wants His people to be holy, separated from the common. 
+
+3) Don’t use Leviticus as a cookbook. If God puts on your heart that a food is unclean for you, follow what He is saying. And do not judge others who follow Kosher eating. 
+
+4) Further research: Matthew 15, Mark 7, Romans 14, and Matthew 5:17-20. 
+
