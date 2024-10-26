@@ -162,10 +162,54 @@ All of this sounds so severe. This is the side of God we’d rather not talk abo
 
 ```
 “Jesus Christ is the same ___ and ___ and ___.” Malachi 3:6, Yahweh tells us, “I the LORD do ___ change.” (Hebrews 13:8)
+```
 
 So then what you’re saying is that the God we’ve been told over and over never changes…has changed? What do you think? ________
 Summarize today in one sentence that is meaningful to your life. ___
 
  ![Leviticus 10:3](https://github.com/user-attachments/assets/e6aab517-11c4-41cf-80aa-6f8e2014b36f)
 
+ # Day 4 &middot; _Don't Mourn_
 
+<span style="font-size: 1.25em"><i class="fa-solid fa-book-open"></i>&nbsp; **Read** |</span> Leviticus 10:6-20.
+
+&nbsp;
+
+In verse 6, Moses commands Aaron and his other sons not to mourn, or “you will die, and the LORD will be angry with the whole community.” Ouch! That must have been hard. Don’t show signs of mourning—don’t uncover your head, don't tear your clothes. If the people are going to cry, they need to cry over what the Lord has done in judging people who didn't serve Him correctly. Wow! That's a hard lesson. Aaron is a priest and a mediator between the people and the Lord. God is protecting his anointing. I can't even imagine how hard this would be for Aaron…well, I do. 
+
+People come to church every Sunday, and they see the pastor, sing the songs, and hear the message. They don't realize that the pastor’s family still has the same issues, diagnoses, accidents, and heartache that everybody else has. But the pastor is on the pulpit and still has to bring a message from God, still bless the people publicly, even though he is hurting. 
+
+God does not want Aaron to send a contradictory message to the people: I have the holy anointing oil on me, and I resent the Lord. God doesn’t want the double message that Aaron is anointed of God but also resents Him. 
+
+In verse 8, something unusual happens. The LORD speaks directly to Aaron. Up until now, Yahweh has spoken only to Moses. I’m sure everyone took note. It’s like at school when the principal comes to your class to talk to you. They usually tell you what they need from you in an email or through another person. But when they come to speak to you, there’s a little fear/curiosity there, right? And what does God tell Aaron in verse 9? ________
+
+Then God commands the priests not to drink alcohol…or they die! (Perhaps Nadab and Abihu were drinking.) God wants them to think clearly. He cannot have the priests not discerning clean from unclean, holy from unholy. So, just lay off the juice. They do not need a false sense of joy and security. God wants to give them a real sense of joy and security. 
+
+```
+“Do not get ___ on wine, which leads to ___. Instead, be ___ with the ____, speaking to one another with psalms, hymns, and ___ from the Spirit. Sing and make ___ from your ___ to the Lord.” (Ephesians 5:18)
+```
+He contrasts the feeling of false well-being with the true filling of the Spirit. That comes from obedience to the LORD! 
+
+Then Moses goes through all the rituals again. Considering what just happened, that’s probably a good idea. A couple of things are important: 1) Nothing has changed since the incident with Nadab and Abihu. The rituals remain the same. 2) Aaron and his sons are still priests. Nothing was taken from them. That’s good news!
+
+Then Aaron’s two remaining boys make an error. Moses gets angry because they didn’t follow the priestly protocol of eating the meat in the holy place. Why weren’t they destroyed? I don’t know. Romans 9:15 says, “I will have mercy on whom I have mercy, and I will have compassion on whom I have compassion.” God is God…and we’re not. 
+
+It was customary for people not to eat when in mourning. But this was a problem because this wasn’t ordinary food. It was holy food. 
+
+```
+Moses calls them out in Leviticus 10:17. “Why didn’t you eat the sin offering in the sanctuary area? It is most ___; it was given to you to take away the ___ of the community by making ____ for them before the LORD.”
+```
+
+Their brothers just died. Maybe they didn’t have an appetite. They were not showing signs of mourning (that’s its own miracle), but perhaps they didn’t feel worthy of eating the sacrifice. Moses seems to be understanding and does not discipline them. 
+
+When you compare this to John 6:53, you see some similarities. “Jesus said to them, ‘Very truly I tell you, unless you eat the ____ of the Son of Man and drink his blood, you have no _____ in you.’” A crimson ribbon of redemption ties one verse to the other. 
+
+Aaron could have called it quits at that moment. And who would have questioned it? But he didn’t. 
+
+Leviticus 1-7 shows us that we need a sacrifice. Chapters 8-10 show us that we need a priest. And the fulfillment of that is Jesus Christ. 
+
+Here's another Hebrews tie-in. 
+```
+“Therefore, since we have a great ___ priest who has ascended into heaven, Jesus the Son of God, let us hold firmly to the faith we profess. For we do not have a high priest who is ___ to empathize with our weaknesses, but we have one who has been tempted in ___ way, just as we are—yet he did not sin. Let us then approach God’s throne of ___ with ___, so that we may receive mercy and find grace to help us in our time of ___.” (Hebrews 4:14-16)
+```
+Summarize today in one sentence that is meaningful to your life. ____
