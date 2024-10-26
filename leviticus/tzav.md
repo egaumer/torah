@@ -1,4 +1,4 @@
-# _Tzav_ &sdot; צַו
+# _Tzav_ &sdot; צַו &sdot; Leviticus 6-8
 Parashah 25 and the second reading from Leviticus is called Tzav, which means “command.” 
 
 It comes from the first word in Leviticus 6:9: Write the first part of verse 9: ____ ____ This portion reviews the five sacrifices of Leviticus 1-5 but this time discusses their priestly requirements. The last chapter is about the seven-day ordination of Aaron and his sons as they prepare for their ministry to the holy priesthood. 
