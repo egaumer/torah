@@ -1,4 +1,4 @@
-# Vayikra
+# Vayikra &sdot; וַיִּקְרָא &sdot; Leviticus 1-5
 
 
 The Cloud of Glory, previously on the top of Mount Sinai, has come down and filled the Tent of Meeting. God calls Moses to give him the laws of the sacrifices. Those desiring to draw near to God are told to bring a gift. 
