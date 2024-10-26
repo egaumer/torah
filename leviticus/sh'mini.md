@@ -77,4 +77,16 @@ See! You really need to understand the Old Testament to see how Jesus fulfilled 
 ```
 “Moses and Aaron then went into the tent of meeting. When they came out, they _______________ the people; and the __________ of the LORD appeared to all the people.” (Leviticus 9:23)
 ```
+Using the blueletterbible.org, look up the word "glory" in this verse. What does it mean? ___
 
+Wow! The weight of God (see how it says, “but only figuratively in a good sense”), God’s splendor, dignity, reputation, riches, and abundance appeared to all the people! What a church service! 
+
+```
+“Fire came out from the presence of the LORD and consumed the burnt offering and the fat portions on the altar. And when all the people saw it, they ___ for ___ and fell __.” (Leviticus 9:24)
+```
+
+God was receiving this active attitude of worship because this is what He prescribed! When we worship God how He wants to be worshiped, we will experience Him as holy fire! Our only response will be to shout for joy and fall facedown. Not too far in the future, there will be a rebuilding of the Temple in Jerusalem, and I would guess a similar event will occur…with very similar reactions. 
+
+Summarize today in one sentence that is meaningful to your life. ___
+
+![Leviticus 9:23](https://github.com/user-attachments/assets/41671bab-fca7-4801-8169-37930dd7c2e7)
