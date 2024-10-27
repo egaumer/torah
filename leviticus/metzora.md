@@ -61,7 +61,7 @@ The word for leprosy is tsara’at. It can mean two things: 1) a general skin di
 
 <span style="font-size: 1.25em"><i class="fa-solid fa-book-open"></i>&nbsp; **Read** |</span> 2 Kings 5.
 
-&nbsp;2 
+&nbsp;
 
 The man’s name was Naaman. He was a Syrian commander, not even an Israelite. (So he never went to the priest for the purification ritual.) He, his wife, and his servant girl all had leprosy. The servant girl was from Israel and had been taken captive by the Syrians. She knew Elisha, the prophet, could heal him. 
 
@@ -106,5 +106,50 @@ After Miriam (Moses’ sister) is healed from leprosy, no recorded incident of a
 Summarize today in one sentence that is meaningful to your life. ___
 ![Leviticus 14:4](https://github.com/user-attachments/assets/e978397c-f826-47db-aaca-2d7293cffbae)
 
+# Day 2 &middot; Shave and a Hair Cut
 
+Yesterday, we learned that the priest went outside the camp and left the service of the LORD to the one who had leprosy. Jesus left heaven and came to earth—to an unclean place where everyone was infected with spiritual leprosy called sin. And without a divine intervention, we will die in that state. 
+
+Read Leviticus 14:8-18. After the person is declared clean, they will shave off their hair, bathe in water, and wash their clothes. At this point, they are ceremonially clean. But they STILL stay outside the camp for seven more days. On the 7th day, they do it all again.
+
+On the 8th day, the person declared clean will sacrifice two male lambs and one ewe, along with a grain offering and a log of oil. 
+
+```
+“The priest who pronounces them clean shall present both the one to be cleansed and their offerings before the LORD at the ____ to the tent of meeting.” (Leviticus 14:11)
+```
+
+Why all the shaving of hair? 1 Corinthians 11 talks of hair being glory to women and a sign of maturity for men. Boys who were able to grow their beards were very proud of that! 
+
+In 2 Samuel 10, David sent a group of men to congratulate the new king of Ammon. It was partly to comfort them (the old king had died) and to congratulate his son for taking over. It was a goodwill mission. But when David’s men got to the camp, the Ammonites thought they were spies. 
+
+```
+“So Hanun seized David’s envoys, _________ off half of each man’s beard, cut off their garments at the buttocks, and sent them away.” (2 Samuel 10:4)
+```
+
+It was humiliating. David ordered the men to stay in Jericho until their beards grew back. Shaving their beards was shameful. It stripped them of their maturity, perhaps making them look like babies. Well…to the leper, this was a second birth, a second chance at life! 
+
+And they had to do it twice before coming back into fellowship with the community. 
+
+As Christians, we are still in the world. Our feet get dirty. Yes, we’ve been cleansed, but there needs to be a continual cleansing by the confession of our sins. We need to get right with God daily. 
+
+```
+“On the eighth day, they must bring them for their cleansing to the priest at the ___ to the tent of meeting, before the ___.” (Leviticus 14:23)
+```
+
+The priest presents the leper at the door of the Tabernacle and then to the community. It’s a process.
+
+```
+“To him who is able to keep you from stumbling and to ___ you before ___ glorious ___ without ___ and with great ___—to the only God our Savior be ___, ___, ___ and ___, through Jesus Christ our Lord, before all ages, now and forevermore! Amen.” (Jude 1:24-25)
+```
+
+Jesus keeps us from being in that continual state of sin, and even if we stumble, He will present us to the Father at the heavenly Tabernacle—spotless and faultless…and with great joy! 
+
+Whose joy? OUR joy! And it will be mixed with His joy! 
+```
+“For the ___ set before Him He endured the cross, scorning its shame, and sat down at the right hand of the throne of God.” (Hebrews 12:2)
+```
+
+Now, that’s exceeding joy! 
+
+Summarize today in one sentence that is meaningful to your life. ___
 
