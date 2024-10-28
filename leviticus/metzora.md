@@ -153,3 +153,169 @@ Now, that’s exceeding joy!
 
 Summarize today in one sentence that is meaningful to your life. ___
 
+# Day 3 &middot; Anointing
+
+```
+“The priest is to take some of the blood of the guilt offering and put it on the ___ of the right ___ of the one to be cleansed, on the ___ of their right ___ and on the ___ toe of their right ___.” (Leviticus 14:14)
+```
+We’ve seen this before with the priests. Now, we have a leper with blood on his ear, thumb, and foot. He is brought under the blood to hear, do, and walk in the ways of the Lord. This cleansing and consecration was from “head to toe” — the whole person is now pure. 
+
+The leper is cleaned with both blood and oil. Oil is often a symbol of the Holy Spirit. The Spirit can be applied only where the blood has been applied. We need to be emptied of sin before we are filled with the Holy Spirit.
+
+```
+“The rest of the oil in his palm the priest shall put on the ___ of the one to be cleansed and make atonement for them before the LORD.” (Leviticus 14:18)
+```
+Whatever oil is left from the atonement is poured on the leper’s head as an anointing.
+
+Four groups of people in Scripture are anointed with oil. 
+
+  1—**Kings** were anointed with oil. God told Samuel, the prophet, to anoint Saul with oil, and then God told Samuel to anoint David with oil.
+  
+  2- **Prophets** were anointed. The Lord told Elijah to anoint Elisha as his successor. 
+  
+  3- **Priests** were anointed for service. The oil was a symbol of the Spirit of God upon their life. 
+  
+  4- **Lepers**. Wait. That’s weird. This is the ONLY other group of people upon whom oil is poured? A leper? Surely, they can’t be in the same category as kings, prophets, and priests. 
+
+  Oh, but God thinks they are!
+
+Peter says we are royalty. We are a royal priesthood, sons and daughters of the king. We were once lepers, but he cleansed us with the Blood of the Lamb and anointed our heads with oil. 
+
+```
+“If, however, they are poor and cannot afford these [three male lambs and one ewe], they must take one male ___ as a guilt offering.” (Leviticus 14:21)
+```
+
+Rich, poor, it doesn’t matter. A lamb is always essential. Jesus is the Lamb of God who takes away the sins of the world. THE Lamb is always essential. 
+
+If you haven’t already, put yourself in the place of the leper. You have been given a fatal diagnosis. You have been separated from your friends, family, and society to live alone, isolated, and pushed aside. You wake up every day to a skin disease that is taking over. But then, one day, you wake up and are healed. You’ve been pronounced clean! Can you imagine the joy of that kind of restoration? That kind of renewed hope? All I can say is, “Wow!” That is an exceedingly great joy! 
+
+To be born again is to wake up with a refreshed soul. 
+
+<span style="font-size: 1.25em"><i class="fa-solid fa-book-open"></i>&nbsp; **Read** |</span> Psalm 23.
+
+&nbsp;
+
+In this passage, we are introduced to the Lord as our shepherd. The shepherd is not a distant figure but an intimate, caring guide who tends to the needs of his flock. A good shepherd ensures the well-being of the sheep under his care. 
+
+```
+“You ___ my head with ___.” (Psalm 23:5)
+```
+This seemingly small detail carries profound significance. In ancient Middle Eastern context, shepherds would anoint the heads of their sheep for several reasons: 
+
+  1—**Healing**: Sheep are susceptible to various ailments, including insect bites. The most common is the sheep bot fly. The adult bot lays eggs near the opening of the sheep’s nostrils or on the wool near the face. Sheep can also pick up the eggs on their noses and ears while grazing. The warmth of the sheep’s body triggers the eggs to hatch. 
+
+Once in the nasal passages, the larvae may crawl up the sheep’s sinuses and move to the base of the brain. This causes not only discomfort and irritation but also neurological symptoms in sheep. Because of the pain, they will often hit their heads against objects. The remedy? Oil. The anointing of their heads makes it difficult for the insects to latch onto the wool. 
+
+We also need healing from the little things that can get into our brains. This week, I will have breast cancer surgery. The biggest obstacle for me is the invisible head game that goes on. I need an anointing. And so do you. 
+
+  2—**Wound prevention**: Scratching and biting insects can open wounds on sheep’s skin. Anointing with oil creates a protective barrier. Do you need God’s protection today? 
+  
+  3—**Soothing skin irritations**: Oil is soothing on sheep’s skin. It alleviates existing irritations and can be very comforting to the animal. 
+  
+  4—**Wool quality**: Healthy sheep produce better-quality wool. Anointing with oil indirectly contributes to maintaining the quality of their wool by protecting them from all the above issues. 
+  
+Do you need an anointing? 
+
+Summarize today in one sentence that is meaningful to your life. ___ 
+
+![Leviticus 14:18](https://github.com/user-attachments/assets/33946cb6-ab0e-4d0f-bfa3-606034e16035)
+
+# Day 4 &middot; That's Gross!
+
+Let me warn you. Chapter 15 is very explicit. It would be easy to skip this chapter due to its discomfort, but it is still the Word of God. If Jews taught this to their 6-year-olds, we should be able to handle it! Ha! So, let’s bite this bullet and listen to what God wants to teach us. 
+
+First and foremost, I want you to understand that being unclean does not always mean you have sinned. Being unclean does not always make a person sinful. This is very important to know when you read the Bible. For example, when a woman has her menstrual cycle, she is unclean, not sinful. However, when the Bible talks about leprosy, it is also symbolic of how sin works. 
+
+The New Testament says that “all Scripture is given by God and is profitable.” If by “all Scripture” it actually means “ALL,” then Leviticus 15 has to be included.
+
+God wants to be involved in every aspect of our lives. He intrudes on the bedroom, the bathroom, and the boardroom.
+
+Leviticus 14 discussed the leper. Leprosy was obvious; it was public; everybody knew you had it. Everyone was warned to stay away. Leviticus 15 is about private things. These are things that no one would know except for you, and yet, God is interested in them. God wrote laws about it. God is interested in your public life and wants to be Lord of your private world. God is concerned with your reputation (who you are publicly) and character (who you are when no one is around). 
+
+<span style="font-size: 1.25em"><i class="fa-solid fa-book-open"></i>&nbsp; **Read** |</span> Leviticus 15:1-18.
+
+&nbsp;
+
+You can fill in the blanks on this chapter's gross things. Since there is a sin offering, this discharge is most likely from venereal disease. 
+
+I believe this chapter was meant to be gross. Sin is disgusting to God. He wants us to see exactly what he means by this and how sin infects everything we touch.
+
+Individuals with running sores can be contagious. You can see the concern. If you spit on someone, the disease could be transferred in the spit. If you drink from a vessel and then share it with someone else, you can transmit the disease that way. We not only sin but can also cause other people to be defiled. That’s a heavy weight. We are not only recipients; we are carriers of sin. The point is that everything the unclean person touches, including other people and objects, also becomes defiled. 
+
+This chapter is gross, nasty, and repulsive. And that’s exactly what sin is. It’s the pus of sin flowing from the human heart. And we all influence each other. Here’s something to remember: we are all preachers. We all speak sermons to everyone we meet. We preach with our lives. What was your last sermon titled? _______
+
+Read through Leviticus 15:4-12. List all the things that can become unclean. I’ll start you off: a bed, anything he sits on, ____________
+
+You can become unclean by accidentally sitting on a chair after the infected man stands up! It’s everywhere. How can you avoid it? 
+Look at what they must do if someone comes in contact with the discharge. They must wash with _____ (verses 5, 6, 7, 8, 10, 11, 12, and 13). 
+
+Now apply that to sin. God views sin like a running sore, like running pus. He sees mankind's sin and says it needs to be cleansed. If you have a contagious medical condition, wash it with water. Think about it. This was written thousands of years before we knew about washing and diseases. But God knew. He knew that water cleanses.
+
+Paul is telling husbands to love their wives in Ephesians. 
+```
+“to make her ___, cleansing her by the washing with ___ through the word.” (Ephesians 5:26)
+```
+The New King James Version says in Psalm 119:9, “How can a young man cleanse his way? By taking heed according to Your word.” 
+
+John 17:17, “Sanctify them by the truth; your word is truth.” 
+
+```
+Look at 1 John 1:9 (the Christian’s bar of soap): “If we ___ our sins, He is ___ and just and will  ____ us our sins and ____ us from all unrighteousness.” 
+```
+God’s word washes us. 
+
+<span style="font-size: 1.25em"><i class="fa-solid fa-book-open"></i>&nbsp; **Read** |</span> Leviticus 15:19-27.
+
+&nbsp;
+
+These verses are about another discharge, but it is from a woman’s menstrual cycle. This one is not a sin, but still is unclean. Here are the ways she can spread her uncleanness: anything she sits on, anyone who touches her bed, anyone who touches a chair she sits on, sexual relationships, and anyone who touches her. Again, it’s everywhere. It’s private. We are all affected, even without knowing. 
+
+We can thank Eve for giving us a monthly reminder of the fall of man and the consequences we pay. (I’m sure she’ll have a long line of women waiting to “greet” her when they get to heaven!)
+
+Verse 25 brings us to a chronic flow. She would be perpetually like a leper, in a state of uncleanness. Like the man, a sacrifice has to be made, so this would most likely be caused by something like a venereal disease. 
+
+Remember how reading Leviticus unlocks other sections of the Bible? The Gospels tell us a story that deals with this specific issue. Choose one of the following passages to read: Matthew 9:20-22, Mark 5:24-34, or Luke 8:43-48. 
+
+A massive crowd of people pressed in Jesus. Luke says that the crowds almost crushed him—a woman who had an issue of blood for the past twelve years pressed through that crowd. 
+
+Just stop for a moment and consider this woman. Let’s use Leviticus as our guide. This issue was less of a physical problem (obviously, it was not so severe that it would kill her, as she lived with it for 12 years), but rather, the problem was a ritual condition that resulted from it. This issue of blood, according to the Torah, rendered her ritually unclean and made her an outcast. This was a huge problem. She could not associate with anyone or even enter someone’s home. She made her way through that crowd; she made every single person she touched unclean, and they then passed her uncleanness to those around them. I picture it like putting food coloring into water. As the concentrated food coloring hits the water, it spreads quickly, coloring all the water around it. 
+
+She snuck up behind Jesus and touched the hem of his garment. She not only touched His garment but also the most holy part of His garment, the Tzitzit. I’m sure she snuck up because any Jew would be horrified to have her close to Jesus for fear of making Him ritually impure. But an amazing thing happened. 
+
+Instead of her uncleanliness spreading to Jesus, His cleanliness flowed to her, and she was healed! Instantly! And He didn’t just cleanse her…
+
+As she approached Jesus, the crowd became unclean without knowing it. It’s as if the black inky disease was rapidly spreading from her to the entire crowd around her. But when she touched Jesus, she was not the only one healed. The ENTIRE crowd of people was also instantly healed! Wow! There’s a scene in the movie “Backdraft” (1991- ) where fire explodes from a doorway. That’s what’s in my head when I think of this scene. Explosive healing energy left Jesus’ body, healing everyone in the crowd. What did Jesus say after she (and the crowd) was healed (Luke 8:45-46)?
+
+![—Pngtree—fire explosion splatter png clip_4199259](https://github.com/user-attachments/assets/c1f36352-20de-4fe2-8ecc-da81454f8201)
+
+The garment Jesus wore had no power. But it was next to His body, and His holiness transferred to it. Jesus knew the difference between the crowd pressing on Him and one touch of someone with faith. 
+
+Summarize today in one sentence that is meaningful to your life.___
+
+# Day 5 &middot; We Need Each Other
+
+```
+“You must keep the Israelites ___ from the things that make them ___, so they will not ___ in their uncleanness for ___ my dwelling place, which is ___ them.” (Leviticus 15:31)
+```
+As we read yesterday, Jesus also fulfilled this law when He healed the woman with the issue of blood. You know, it’s one thing to have leprosy—a very public problem—and another, altogether, to have various discharges. We’ve learned that God is interested in our public person and our private character. But in this verse, He mixes everything into the congregation of worship. This issue doesn’t just defile us personally; as a part of the congregation, it can be defiling corporately. God is concerned about our bodies and His body, the church, and the body of Christ. 
+
+```
+1 Corinthians 6:19-20 says, “Do you not know that your ___ are ___ of the Holy Spirit, who is in you, whom you have received from God? You are ___ your own; you were bought at a ___. Therefore ___ God with your bodies.” 
+```
+
+Leviticus 15 is not only about hygiene; it’s about fellowship. My sins, struggles, and temptations can affect everyone else. We must not defile the dwelling place of the Holy One. 
+
+As we reflect on individual holiness, we must also consider the collective body of believers. God is interested in our physical bodies and wants us to pursue holiness. But it’s not only about external rituals but about allowing the Holy Spirit to transform every aspect of our lives. 
+
+This emphasis on the corporate body underscores the importance of community and accountability. We’re called to encourage and uphold one another in the faith journey. 
+
+How can we, as a Christian community, foster a sense of accountability with each other? One way is to come together to study God’s Word regularly! 
+
+We need each other. 
+
+```
+“If we ___ to have fellowship with Him and yet walk in the ____, we lie and do not live out the ____. But if we walk in the ____, as He is in the ___, we have ___ with one another, and the blood of Jesus, His Son, ___ us from all sin.” (1 John 1:6-7)
+```
+Understanding the Torah is vital for believers because it gives the New Testament more profound meaning. God is interested in our public person and private character. 
+
+Summarize today in one sentence that is meaningful to your life. ___ 
