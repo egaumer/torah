@@ -276,3 +276,69 @@ Summarize today in one sentence that is meaningful to your life ___
 <span style="font-size: 1.25em"><i class="fa-solid fa-book-open"></i>&nbsp; **Read** |</span> Leviticus 19-20.
 
 &nbsp;
+
+God is continuing to speak. He starts by instructing Moses to tell the entire assembly of Israel to (Leviticus 19:2b) “Be ___ because I, the LORD your God, am ____.” 
+
+When you think of all the wonderful attributes of God, what do you think of? _________
+
+We love that God is loving, gracious, and merciful. However, one of the main attributes of God is that He is holy. We’ve been discussing holiness because holiness is at the very core of the meaning of Leviticus. Some may think that holiness is not as attractive as other attributes. But when Jesus taught us to pray, how did He do it? (Can you remember it by heart?) 
+
+```
+“Our Father who art in heaven, __________ be your name.” (Matthew 6:9)
+```
+
+The first acknowledgment we should make when we talk to our Father is to say He is Holy! 
+
+Do you know the members of the Trinity? God the _____, God the ____, and God the ____ Spirit. He doesn’t go by the “loving” or the “gracious” spirit, although He is all those things. He is known for His holiness! 
+
+What does it mean to be holy? It means to be set apart. 
+
+My parents bought us an ice maker for our anniversary. It makes crunchy ice. That’s it. We put only water into it, not soda or fruit juice. You can say that it’s a “holy ice machine.” It is designated for one purpose only—to make ice. 
+
+Then, what does it mean for you to be holy? You are set apart. If your body is the temple of the Holy Spirit, what kinds of things happen in the Temple? _____
+
+Your life and your body are to be used for God’s glory. So here’s my best advice: figure out your strengths and talents and serve God with them. I wrote “Heroes of the Faith: A Look at Biblical Characters Through a Strengths Lens” for that reason. I wanted people to know their strengths, see examples of what the strengths themes looked like when lived out, and ultimately, how Jesus portrayed them. That’s what living a holy life is. 
+
+Which of the Ten Commandments do you see in chapters 19 and 20? You may have to peek back at Exodus 20 to familiarize yourself with the commandments. _____________
+
+Chapter 19:5-8 talks about the fellowship offering. This is when you bring an animal to the Tabernacle and tell the priest, “I am so thankful to God; I want to have a feast with my friends and family. I am going to kill this animal. Please keep some of the meat for yourself and give me the rest so I can celebrate God’s goodness.” Isn’t that great? This person is coming to have a holy BBQ with his family and friends. Did you catch how long they can keep the meat (Leviticus 19:7)? _____ days. That’s great for me because I do not like leftovers! So I would be guaranteed not to have to eat them! Ha! But really, God is saying, “I want you to feast in my presence…not snack in my presence!” God is all about the big party! 
+
+Leviticus 19:9-10 is God’s way of regarding the poor people among them. He tells the people to keep a portion of the fields they are growing so the poor can come and glean from them. Maybe someone lost their job. Maybe their land didn’t produce enough food. Whatever the reason, this is God’s welfare system; it was awesome! 
+
+This extra food wasn’t packaged up and given to them. They had to roll up their sleeves and work for it. In that hard work, it preserved their dignity. And the food was not charged to them. You can have it, but you have to work for it. 
+
+If you have never read the book of Ruth, you should! It’s a concise book with only four chapters. But it mentions this very same thing! Boaz lets Ruth gather from his fields.
+
+Jesus also used this law in Matthew 12 when He and the disciples ate grain on the Sabbath. Why? Because they were poor and traveled from place to place. There was a field with food, so they ate. The Pharisees didn’t accuse him of stealing food; they accused him of breaking the Sabbath. He wasn’t breaking the Sabbath; their twisting of the Sabbath was the problem. 
+
+Verse 14 hit a chord in my heart. When I started teaching, I taught blind children. When I first started, the sighted children were constantly being mean to them…pushing them or kicking their canes out from under them as they walked. One day, one of my students came crying into the classroom because the other kids harassed her in the bathroom. Man, I wanted to roll up my sleeves and give them a piece of my mind! But instead, I told my students that those sighted kids would want to be in this class one day. And then I did my best to make that class awesome. We had a lion come to class, clowns came and dressed them all up, and we made movies and went to conferences talking about it. It was the most fun I’ve had teaching…and it started with someone putting a stumbling block in front of them. 
+The Old Testament verse most quoted in the New Testament is found in the middle of Leviticus 19. Can you see it? Look at verse 18. 
+
+```
+“Love your ______ as yourself.” (Leviticus 19:18)
+```
+
+When Jesus was asked what the greatest commandment was in Matthew 22:36-40, He answered, “Love the Lord your God with all your heart, soul, and mind. This is the first and greatest commandment. And the second is like it: Love your neighbor as yourself. All the Law and the Prophets hang on these two commandments.”
+
+Verse 28 often perks up people’s ears. It is saying not to cut your bodies or put tattoo marks on yourselves—but there is a qualifier. Do you see it? It is “for the dead.” Egyptian and Canaanite death-cult practices required people to gash their legs, arms, and face and to tattoo and body-pierce themselves to be spared death. God does not want His people to have any appearance of this. 
+
+Again, in Leviticus 19:30, God commands His people to observe His _____ and have _______ for my sanctuary. Then He punctuates this with “I am the ____.”
+
+Don’t you love verse 32? We live in a culture obsessed with youth. Mark Twain once said, “The trouble with youth is it’s wasted on the young.” By the time you get this life down pat, you are left with honor. God gives us rules on having good manners towards each other! 
+
+Then, in verses 35-36, God mentions the workplace. Here’s the thing: The workplace is the only place that the world can study us. What is our attitude like after the mountaintop experience? What do we do when we struggle? We are being watched, so live, honestly. God wants to be a part of every inch of our lives. 
+
+Have you ever had an experience when you noticed that the world was watching you? ____
+
+Chapter 20 may shock some of you because it’s about capital punishment for various crimes. The big difference between the laws of Moses and those of other ancient cultures was that compassion was built into the law, and brutality was built into the laws of others. This might be an interesting study if you want to learn more. 
+
+Just as a note, capital punishment did not start with the Law of Moses. It goes back to the book of Genesis, chapter 9. Capital punishment was required for murder, sexual immorality, child abduction/kidnapping, child sacrifice, witchcraft, false prophets, astrology, magic, and idolatry. It was not considered murder but righteously administered judicial execution. 
+
+The difference between this chapter and Chapter 18 is that in Chapter 18, we are told, “Don’t do this.” in Chapter 20, we are told, “This is how you handle it.” 
+
+In this chapter, the LORD, Yahweh, repeatedly tells us that He is holy and wants His people to be holy. Being holy means being set apart from all the common things and called God’s children. Every believer has been set apart to be holy to the Lord. 
+
+Summarize today in one sentence that is meaningful to your life.___
+
+![Leviticus 19](https://github.com/user-attachments/assets/277a099e-4598-44f8-8653-e90dbe0f9e1d)
+
