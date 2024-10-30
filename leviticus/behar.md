@@ -1,4 +1,4 @@
-# _Behar_ &sdot; צַו &sdot; Leviticus 25-26:2
+# _Behar_ &sdot; בְּהַר &sdot; Leviticus 25-26:2
 
 This Torah portion is called Behar, which means “on the mountain.” The name comes from the first words of the first verses of the following reading. 
 
