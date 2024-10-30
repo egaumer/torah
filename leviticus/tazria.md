@@ -1,4 +1,4 @@
-# _Tazria_ &sdot; צַו &sdot; Leviticus 12-13
+# _Tazria_ &sdot; תַזְרִיעַ &sdot; Leviticus 12-13
 
 Learning with guest author Karen Seddon. 
 
